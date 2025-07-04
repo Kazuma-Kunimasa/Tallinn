@@ -1,0 +1,53 @@
+=== 元ファイル: データ収集用.xlsx ===
+=== 変換日時: 2025-07-04 02:01:46 ===
+=== ファイルパス: /Users/admin/Downloads/AI活用_demo2/FJ_DX/申請書作成サポート/データ収集用.xlsx ===
+
+=== シート: シート1 ===
+チーム | 年度 | クライアント | 事業名 | データ整理済 | リンク等 | 備考
+加工 | 2022.0 | 石巻市水産課 | 担い手育成事業（加工チームのみ） | False | 担い手チーム作成
+加工 | 2022.0 | 東北経産局 | 中核人材確保事業 | True | https://docs.google.com/document/d/15sXVGN6X3-V5OUZLi-kp4AM8zNi-K8N2/edit
+加工 | 2022.0 | 東北経産局 | 水産業の魅力発信 | False | 再委託なので無し
+加工 | 2022.0 | 石巻市SDGs推進室 | ふるさとワーホリ | True | 石巻市ふるさとワーキングホリデー事業 運営業務企画提案_正本 - Google ドキュメント | https://docs.google.com/document/d/1HUxB-5LsabIBGuFvdHXr7xLPamluyspE/edit
+加工 | 2022.0 | 内閣府関係人口 | 関係人口モデル事業・オンラインインターン | True | （一社FJ）関係人口創出・拡大のための対流促進事業（補助事業）.pdf - Google ドライブ
+加工 | 2022.0 | 経産省 | 地域共生型導入補助金 toG | True | https://docs.google.com/document/d/1LWaHYrYlyI-Wl2X-fSIv26C1h97YCDtD/edit
+加工 | 2022.0 | 経産省 | SeaEO共同採用・共同研修 1/2補助 | False
+加工 | 2023.0 | 石巻市水産課 | 担い手育成事業（加工チームのみ） | False | 担い手チーム作成
+加工 | 2023.0 | 東北経産局 | 人材確保 | True | https://docs.google.com/document/d/1YsB0ZHTdbZzFhqVEDEVARWcCRvFSB1to/edit#heading=h.gjdgxs
+加工 | 2023.0 | 経産省 | 地域の人事部事業　2/3補助 | False
+加工 | 2023.0 | 石巻市SDGs推進室 | ふるさとワーホリ | True | 随契のため申請書なし
+加工 | 2023.0 | 経産省 | 地域共生型導入補助金 toG　1/2補助 | False | 手元に無し
+加工 | 2023.0 | 農林水産省 | 食育 | True | 食育推進事業　ver.2.pptx - Google スライド
+加工 | 2023.0 | 内閣府関係人口 | 関係人口モデル事業・DX | True | https://docs.google.com/presentation/d/1QFcrWyhzfDSyDKirI-4vJvhIM6XesTCq/edit?usp=drive_link&ouid=100960116554992329089&rtpof=true&sd=true
+加工 | 2023.0 | SIIF | SIIF | True | https://docs.google.com/spreadsheets/d/1230lYjaDGR4v4d39-4PJ7zghzczuJgIAdUK_GOJdt6I/edit?usp=drive_link
+加工 | 2024.0 | 経産省 | 地域の人事部事業　2/3補助・働き方改革推進 | True | https://docs.google.com/document/d/1UDbTnKfDqIXKT-3XqR394oMYhqI0w0I-sH6t3FFhJg8/edit?usp=drive_link
+加工 | 2024.0 | 心の復興（食育、オープンファクトリー） | 心の復興（食育、オープンファクトリー） | False | https://docs.google.com/presentation/d/1jrWSYf-eQjUJVdb6OleC9bxJ-4EtJxyG/edit?usp=sharing&ouid=104990615883507015092&rtpof=true&sd=true
+加工 | 2024.0 | 東北経済産業局（SeaEO採用&GYOSOMON／経営者研修／氷河期） | 東北経済産業局（SeaEO採用&GYOSOMON／経営者研修／氷河期） | False | https://docs.google.com/document/d/1deurxb7K_MhR7-TS_GdgcFrnk6AbT4jG/edit?rtpof=true
+加工 | 2024.0 | 石巻市 担い手事業 （高卒(専門卒）採用、SeaEO研修） | 石巻市 担い手事業 （高卒(専門卒）採用、SeaEO研修） | False | 担い手チーム作成
+加工 | 2024.0 | 石巻市SDGs推進室 | ふるさとワーホリ | True | 随契のため申請書なし
+加工 | 2024.0 | 黒部市（大学生インターン） | 黒部市（大学生インターン） | False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False

@@ -1,0 +1,4679 @@
+=== 元ファイル: メールAI秘書_磯部.xlsx ===
+=== 変換日時: 2025-07-04 02:01:47 ===
+=== ファイルパス: /Users/admin/Downloads/AI活用_demo2/FJ_DX/メール秘書/メールAI秘書_磯部.xlsx ===
+
+=== シート: 転記 ===
+番号 | 返信要否判定 | 件名 | 本文 | 送信元アドレス | メールリンク | 返信案
+1.0 | Yes | RE: GYOSOMON応募者_久保様との面談調整について | 磯部様
+
+ 
+
+お世話様です。
+
+こちらの方のプロフィルも拝見いたしました。
+
+３月５日（水）１４時からの面談で承知致しました。
+
+それでは、当日よろしくお願いいたします。
+
+ 
+
+取り急ぎご連絡申し上げます。
+
+どうぞよろしくお願い致します。
+
+ 
+
+菊池＠阿部長
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Tuesday, February 18, 2025 10:06 PM
+To: 熊谷 航（阿部長商店 総合企画部） <w_kumagai@abecho.co.jp> | <h_kikuchi@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/1951912dbefe5624/ | 菊池様
+
+お世話になっております。
+
+面談日程のご確認ありがとうございます。
+
+３月５日（水）１４時にお伺いさせていただきますので、
+当日どうぞよろしくお願いいたします。
+
+何かご不明点がございましたらお気軽にお知らせください。
+
+引き続きよろしくお願いいたします。
+
+磯部
+
+
+2.0 | Yes | RE: 副業応募者_曽呂様との面談調整について | 磯部様
+
+ 
+
+お世話様でございます。
+
+下記ご連絡いただいた日程ですが、
+
+３月７日（金）の１０：３０からのWEB面談で、
+
+いかがでしょうか？
+
+ 
+
+ご確認の程、どうぞよろしくお願い致します。
+
+ 
+
+菊池＠阿部長
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Tuesday, February 18, 2025 9:46 PM
+To: 熊谷 航（阿部長商店 総合企画部） <w_kumagai@abecho.co.jp>; h_kikuchi@abecho.co.jp
+ | <h_kikuchi@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/195191296f34a79a/ | 菊池様
+
+お世話になっております。
+
+ご提案いただいた日程について、
+３月７日（金）１０：３０からのWEB面談、
+問題ございません。
+
+その際に必要な情報等ございましたら、
+事前にご連絡いただければと思います。
+
+どうぞよろしくお願いいたします。
+
+磯部
+
+
+
+=== シート: 除外対象メールアドレス ===
+noreply@peatix.com
+no-reply@e.udemymail.com
+calendar-notification@google.com
+no-reply@cybozu.com
+no-reply@accounts.google.com
+store@cybozu.com
+fax@fishermanjapan.com
+payroll.feedback@moneyforward.com
+feedback@moneyforward.com
+attendance.noreply@moneyforward.com
+account-security-noreply@accountprotection.microsoft.com
+noreply@email.teams.microsoft.com
+support@xserver.ne.jp
+aws-marketing-email-replies@amazon.com
+expiry@letsencrypt.org
+forms-receipts-noreply@google.com
+
+=== シート: 参照 ===
+件名 | 本文 | 送信元アドレス | メールリンク
+RE: GYOSOMON応募者_久保様との面談調整について | 磯部様
+
+ 
+
+お世話様です。
+
+こちらの方のプロフィルも拝見いたしました。
+
+３月５日（水）１４時からの面談で承知致しました。
+
+それでは、当日よろしくお願いいたします。
+
+ 
+
+取り急ぎご連絡申し上げます。
+
+どうぞよろしくお願い致します。
+
+ 
+
+菊池＠阿部長
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Tuesday, February 18, 2025 10:06 PM
+To: 熊谷 航（阿部長商店 総合企画部） <w_kumagai@abecho.co.jp> | <h_kikuchi@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/1951912dbefe5624/ | https://mail.google.com/mail/u/0/#inbox/1951912dbefe5624/1951d144ce1f7cb6
+RE: 副業応募者_曽呂様との面談調整について | 磯部様
+
+ 
+
+お世話様でございます。
+
+下記ご連絡いただいた日程ですが、
+
+３月７日（金）の１０：３０からのWEB面談で、
+
+いかがでしょうか？
+
+ 
+
+ご確認の程、どうぞよろしくお願い致します。
+
+ 
+
+菊池＠阿部長
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Tuesday, February 18, 2025 9:46 PM
+To: 熊谷 航（阿部長商店 総合企画部） <w_kumagai@abecho.co.jp>; h_kikuchi@abecho.co.jp
+ | <h_kikuchi@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/195191296f34a79a/ | https://mail.google.com/mail/u/0/#inbox/195191296f34a79a/1951d105d3e41619
+要件定義の疑似メモ | 川口様
+
+本日はありがとうございました！
+本日のメモになります。
+一点、漁業者が増えるにあたって、設計から見直しが必要な箇所がありそうです。その分も含めて、工数を見積もるようにします。
+
+   - 過去遡れるようにするやつ
+      - 基本携帯
+      - カレンダー指定した航跡、漁獲量グラフも見れるとベスト。
+         - 期間のびるとデータの読み込み時間がのびるかも
+         - 航跡の表現ができるか
+         - 表示する漁業者の選択
+            - 期間を指定して、データをAPIで取ってくる（漁業者まとめて）
+    | "川鍋一樹" <kawanabe@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/195192b093891bbb/ | https://mail.google.com/mail/u/0/#inbox/195192b093891bbb/195192b093891bbb
+同意書について | 川鍋様 ｃｃ：磯部様
+
+課内で稟議したところ、
+操業情報取扱同意書について、データの定義を契約期間として明示し、同意日は遡らず、同意できた日とすることとなりました。
+
+根本的な内容の変更ではないので、そのように修正し、同意をとって回りたいと思います。
+どうぞよろしくお願いします。
+
+
+**********************************
+〒730-8511 広島市中区基町10-52
+広島県農林水産局水産課
+主査 川口 修
+o-kawaguchi88559@pref.hiroshima.lg.jp
+TEL 082-513-3611（ダイヤルイン）
+F | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/19518556e7aebf1b/ | https://mail.google.com/mail/u/0/#inbox/19518556e7aebf1b/19518556e7aebf1b
+（布施商店）商品リスト送付の件 | 勝又様
+
+
+
+毎々お世話になります。
+
+本件、遅くなり大変申し訳ございませんでした。
+
+
+
+当方宿題になっておりました商品リスト及び吸い上げ表につき、
+
+添付の通り送付致します。
+
+
+
+また、アクションと【ステータス】のつなぎ込みについては下記にてお願いします。
+
+
+
+
+
+- 出荷準備中→【対応中】　※FJMにスプレッドシート上でアクション
+
+- 納品不可→【対応中】　※FJMに別途連絡（メッセンジャーにて）
+
+- 出荷済→【対応完了】　※FJMにスプレッドシート上でアクション
+
+
+
+以上、よろしくお願い申し上げます。
+
+
+
+ | <y.fuse@fusesyouten.co.jp> | https://mail.google.com/mail/u/0/#inbox/195180bc4f6b532d/ | https://mail.google.com/mail/u/0/#inbox/195180bc4f6b532d/195180bc4f6b532d
+Re: 【Fisherman japan】お問い合わせ | 磯部 様
+
+お世話になります。
+
+ご丁寧にご連絡くださり、誠にありがとうございます。
+以下でぜひご説明をお伺いできると幸いです。
+
+2/22（土） 19:00-20:00
+
+どうぞよろしくお願い申し上げます。
+
+杉山
+
+2025年2月17日(月) 14:37 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>:
+
+> 杉山様
+> （CC:弊社阿部、川鍋）
+>
+> 初めまして。フィッシャーマン・ジャパンでギョソモンを担当しております、磯部と申します。
+> この度はお問い合わせいただき、誠にありがとうございます。
+>
+ | Yuri Sugiyama <yuri.sugiyama0511@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19506644910ca713/ | https://mail.google.com/mail/u/0/#inbox/19506644910ca713/1951623f453e08f1
+RE: SUSPECTED SPAM Re: マルカ髙橋水産｜領収書の送付について | 磯部様
+
+いつもお世話になっております。
+マルカの高梨です。
+
+事業者番号の不記載の件、大変失礼いたしました。
+記載したものを、再送させていただきます。
+
+ご確認のほど、よろしくお願いいたします。
+
+高梨
+
+-----Original Message-----
+From: フィッシャーマン・ジャパン 磯部高弥 [mailto:isobe@fishermanjapan.com] 
+Sent: Monday, February 17, 2025 10:12 AM
+To: narumi-takanashi@maruka-t.com
+Subject: SUSPECTED | <narumi-takanashi@maruka-t.com> | https://mail.google.com/mail/u/0/#inbox/195122ca16a734ce/ | https://mail.google.com/mail/u/0/#inbox/195122ca16a734ce/195122ca16a734ce
+マルカ髙橋水産｜領収書の送付について | 一般社団法人フィッシャーマン・ジャパン
+
+磯部　様
+
+ 
+
+いつもお世話になっております。
+
+マルカの高梨です。
+
+ 
+
+先日、弊社ECサイトをご利用いただきありがとうございました。
+
+ご依頼の領収書をお送りいたしますので、ご確認お願いいたします。
+
+ 
+
+引き続きよろしくお願いいたします。
+
+ 
+
+ 
+
+-----------------------------------------------------
+
+株式会社 マルカ髙橋水産
+
+製造部兼BtoC事業部 
+
+高梨　育臣
+
+TEL:0225-61-3370 
+
+FAX | <narumi-takanashi@maruka-t.com> | https://mail.google.com/mail/u/0/#inbox/19502d8a24ae805c/ | https://mail.google.com/mail/u/0/#inbox/19502d8a24ae805c/19502d8a24ae805c
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@updates.miro.com> | https://mail.google.com/mail/u/0/#inbox/1950152b1ebd4b3b/ | https://mail.google.com/mail/u/0/#inbox/1950152b1ebd4b3b/19501686efe1fc10
+三陸海鮮カレー　お見積もり | 末永 康也 さま
+
+お世話になっております。
+製作費のお見積りについてお送りします。
+見積りに記載しておりませんが、POPについても今回の予算内で制作いたします。
+ご確認お願いいたします。
+
+
+商品販売スタートが楽しみですね！
+たくさん売れますように。。。
+
+引き続きよろしくお願いします。
+
+
+フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子
+050-6864-5572
+hinako@fishermanjapan.com
+ | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/194fe991b536df5f/ | https://mail.google.com/mail/u/0/#inbox/194fe991b536df5f/194fe991b536df5f
+招待 - 更新: 【GoogleMeet】シーフードマッチ定例＠オンライン - 2025年 2月 25日 (火) 14:00 ～ 15:00 (JST) (isobe@fishermanjapan.com) | この予定は更新されました
+変更あり: 時間
+
+
+【GoogleMeet】シーフードマッチ定例＠オンライン
+2025年 2月 25日 (火曜日) ⋅ 14:00 ～ 15:00
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/nwn-dtaf-yhm?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 8394982662092
+
+その他の電話番号
+https://tel.meet/nwn-dtaf-yhm?pin=8394982662092&hs=0
+
+
+Google  | "津田祐樹" <tsuda@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/194fc9ec8ad04abe/ | https://mail.google.com/mail/u/0/#inbox/194fc9ec8ad04abe/194fc9ec8ad04abe
+操業情報の取り扱いに関する同意書原案の送付について | 川鍋様、磯部様
+
+
+お世話になります。
+
+操業情報の取り扱いについて、仕様書に同意をとっておくように書いておいていたのを失念していました。
+基本的にID管理なので、個人情報には当たらないと思うのですが、個人情報と同等の扱いで同意をもらっておくと安心かと思いました。
+
+また、Google spreadsheetへの保存については契約約款上グレーなので、その部分ははっきりと同意を頂くことが良いかと思います。
+
+そういった諸々を込めて、原案を作成したので、ご確認ください。
+
+FMJさんの方で修正等していただいた最終案について、私からLINEで説明させてもらい、納得を得てから郵 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/194f9a716552d684/ | https://mail.google.com/mail/u/0/#inbox/194f9a716552d684/194f9a716552d684
+末永海産様の支援について | フィッシャーマン・ジャパン
+磯部高弥様
+
+お世話になっております。
+みやぎ産業振興機構水産室の玉田です。
+
+ご連絡が遅れてすみませんでした。
+下記支援事業でお支払いする謝金と旅費に関する
+「報酬及び旅費精算書」をお送りいたします。
+
+10月22日支援　末永海産様　「専門家派遣事業」　1月23日支払
+
+なお、1月21日にご支援いただいた分の「報告書」について
+提出されましたでしょうか？
+最終回なので、添付10‐1及び10‐2の2枚にて提出願います。
+当機構の決算が近づいておりますので、ご協力の程お願いいたします。
+
+
+
+★★★★★★★★★★★★★★★★★★★ | "玉田 隆（Takashi Tamada）" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/194f8d129b517d9e/ | https://mail.google.com/mail/u/0/#inbox/194f8d129b517d9e/194f8d129b517d9e
+RE: 副業募集の今後の流れとご面談日時・画像データご送付のお願い | 磯部様
+
+ 
+
+お世話になっております。
+
+ご連絡ありがとうございます。２名の方にご応募いただきうれしく思います。
+
+今後の流れについて、承知いたしました。
+
+ 
+
+面談候補日時ですが、下記いかがでしょうか？
+
+ 
+
+・3/3　午後
+
+・3/4　午後
+
+・3/5  午後
+
+ 
+
+また、画像データ送付いたします。
+
+何卒、よろしくお願いいたします。
+
+ 
+
+阿部長商店　熊谷
+
+ 
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Monday, Februa | "熊谷 航（阿部長商店　総合企画部）" <w_kumagai@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/194ee332b68e9b19/ | https://mail.google.com/mail/u/0/#inbox/194ee332b68e9b19/194f8aa0a3f273ff
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@updates.miro.com> | https://mail.google.com/mail/u/0/#inbox/194f6e7803cdb18d/ | https://mail.google.com/mail/u/0/#inbox/194f6e7803cdb18d/194f6edfc7e63b83
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@updates.miro.com> | https://mail.google.com/mail/u/0/#inbox/194ef8d17c0bdf99/ | https://mail.google.com/mail/u/0/#inbox/194ef8d17c0bdf99/194efa70d2d8e8d4
+Re: 株式会社阿部長商店プロジェクトへの副業ご応募の件と協業ご提案の件について | 磯部様
+
+お世話になっています。曽呂です。
+ご連絡ありがとうございます。
+
+①株式会社阿部長商店プロジェクトへの副業ご応募の件
+承知いたしました。面談楽しみにしています。
+職務経歴書添付いたします。
+
+SNS等はアマツ人として活動しています。
+こちらをご覧いただいた方が、曽呂という人間がどんなモノかお分かりいただけると思います。
+https://lit.link/amatsujin
+
+②ご提案いただいておりました、協業の件について
+ご検討いただきありがとうございました。
+承知いたしました。
+
+引き続き、よろしくお願いいたします。
+
+
+2025年2月10日 | GMAIL_solo3104 <solo3104@gmail.com> | https://mail.google.com/mail/u/0/#inbox/194eee590f3da5f3/ | https://mail.google.com/mail/u/0/#inbox/194eee590f3da5f3/194ef3b5befda72f
+Re: 株式会社阿部長商店_副業応募について | 
+一般社団法人フィッシャーマン・ジャパン
+磯部　様
+
+お世話になっております。
+ご連絡いただきありがとうございます。
+面談日程の件、承知いたしました。
+
+引き続きよろしくお願いいたします。
+
+久保
+
+2025/02/10 17:06、フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>のメール:
+
+﻿
+久保様
+（CC：弊社事務局）
+
+お世話になっております。一般社団法人フィッシャーマン・ジャパン磯部です。
+先日は「副業・転職マッチングフェア」にご参加いただき、誠にありがとうございました。
+ご連絡遅くなり申し訳ありません。
+
+現在、久保様からご応募いただいた | Shinya Kubo <chankubo1202@gmail.com> | https://mail.google.com/mail/u/0/#inbox/194eedb0061b60cc/ | https://mail.google.com/mail/u/0/#inbox/194eedb0061b60cc/194ef0d0fdbeffaf
+【みやぎ産業振興機構】精算書の送付について | フィッシャーマンジャパン　磯部　様
+
+お世話になっております。
+みやぎ産業振興機構の佐藤です。
+
+高橋徳治商店様（1126復興企業相談助言）支援分の精算書を送付いたします。
+振込予定日は2月14日です。
+
+よろしくお願いいたします。
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.or.jp
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+
+
+
+ | "佐藤 築名（Kizuna Sato）" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/194ee81db178f108/ | https://mail.google.com/mail/u/0/#inbox/194ee81db178f108/194ee81db178f108
+Aburitora | 松下様
+
+
+
+毎々お世話になります。
+
+㈱布施商店の布施由布香です。
+
+
+
+本日、Aburitora勝又様と発注に関する打ち合わせをいたしまして、
+
+1点確認をさせていただきたく。
+
+FJM⇔布施商店で共有する発注スプレッドシート内、
+
+共有したほうがいいアクションは下記2点でOKでしょうか？
+
+
+
+1.	鮮魚（生白子）の出荷可否（出荷可能であれば「出荷準備中」にアクション
+変更、NGであれば、スプレッドシート上でなく、別途TELorメッセンジャーにて連絡
+後、「出荷不可」にアクション変更）
+
+※出荷NGの時は、FJM側で店舗様への連絡等調整が必 | <y.fuse@fusesyouten.co.jp> | https://mail.google.com/mail/u/0/#inbox/194ee49e9144cbf9/ | https://mail.google.com/mail/u/0/#inbox/194ee49e9144cbf9/194ee49e9144cbf9
+Pay ID 登録完了のお知らせ | この度は、Pay IDにご登録ありがとうございます。
+
+下記のリンクをクリックしてアカウント認証を行ってください。
+これにより、機種変更などで携帯電話番号が変更されログインができなくなったときでも、新しい番号を設定することができるようになります。
+
+https://my.payid.jp/verify/email?token=verify_be7e2771787ba1d54065647608c50300829749b34&type=signup
+
+▼本メールにお心当たりのない方へ
+BASEショップのお買い物で「お支払い情報を保存しますか？」にチェックが入った状態で、商品を購入し | Pay ID <noreply@payid.jp> | https://mail.google.com/mail/u/0/#inbox/194eafccf0264ac3/ | https://mail.google.com/mail/u/0/#inbox/194eafccf0264ac3/194eafccf0264ac3
+【第2回水産未来サミット】ゲストブック作成についてのご案内（再） | 磯部高弥 様
+
+いつも大変お世話になっております。水産未来サミット実行委員会です。
+第2回水産未来サミット＠鹿児島にお申し込み頂き誠にありがとうございます。
+
+さて、先日はゲストブック作成についてのご案内メールをお送りしておりました。
+すでにご回答いただきました皆様には、重ねてお礼申し上げます。
+
+ゲストブックご回答の締切は【2月14日】とさせていただいておりますが、
+まだご入力いただいていない皆様に改めてご案内申し上げます。
+
+何卒、ご協力の程よろしくお願い申し上げます。
+以下、同文ままで失礼いたします。
+
+---------------------------- | "水産未来サミット実行委員会" <info@suisan-summit.com> | https://mail.google.com/mail/u/0/#inbox/194e9f098716bc99/ | https://mail.google.com/mail/u/0/#inbox/194e9f098716bc99/194e9f098716bc99
+（ご相談）次年度のデジタル化調査業務の仕様書案について | FMJ 川鍋様、磯部様
+
+
+先日のヒアリングでは大変お世話になりました。
+
+次年度業務については、4月１日契約に向け、現在準備しているところです。
+そこで、添付の通り仕様書案を作成したので、ご確認いただきたいです。
+
+昨年度との変更点は、
+① 過去に遡る表示ができるシステムとする
+② 底びき網の漁業情報共有システム対象が２地区⇒４地区に増加
+で、仕様書内では赤字で示しています。
+
+また、実現可能かどうかまだ不明な操業判別の実装部分は、黄色マーカーで示しています。
+
+
+
+まずは、仕様書として、不備等ないかご意見頂き、必要に応じて修正案をいただけると嬉しいです。
+ | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/194df6eae422774f/ | https://mail.google.com/mail/u/0/#inbox/194df6eae422774f/194df6eae422774f
+2025-02-06 16:38:00 | 
+
+
+
+iPhoneから送信 | "渡部更夢" <salamu_salao@icloud.com> | https://mail.google.com/mail/u/0/#inbox/194da32e944771e2/ | https://mail.google.com/mail/u/0/#inbox/194da32e944771e2/194da32e944771e2
+Re: RE: 宮城県内の求人募集と定着支援について | 泉澤さま
+
+お世話になっております。
+フィッシャーマン・ジャパンの渡部です。
+
+本日はお時間を頂きありがとうございます。
+うまく認証操作ができずに、申し訳ありませんでした。
+登記上の代表者として、泉澤宏さんの免許証を撮影に伺えるタイミングがありましたら、またLINEで教えて頂けますと幸いです。
+
+まずは、認証を通さずに求人掲載できる
+自社求人媒体のTRITON JOBと民間媒体のAirワークへの掲載準備を進めます。
+
+写真はあとからでも変更可能ですので、
+まずは求人文章のご確認、よろしくお願い致します。
+https://docs.google.com/documen | "渡部更夢" <salam@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/19134ceb89b40830/ | https://mail.google.com/mail/u/0/#inbox/19134ceb89b40830/194d9e844bd0adff
+Re: レジシステムおよび、在庫管理システム導入支援1月分のご請求と次回打ち合わせについて | 追伸把握しておらずすみません。
+
+14日(金）13：00でお願いいたします。
+
+宜しくお願い致します。
+
+高橋
+
+
+2025年2月4日(火) 17:30 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>:
+>
+> 高橋様
+>
+> お世話になっております。
+> すみません、続けて送らせていただいたメールに12日が難しくなってしまった旨記載しておりました。
+> ご返信いただいたところ大変申し訳ないのですが、以下候補で改めてご都合いかがでしょうか。
+>
+> 2/14（金） 13:00-14:00
+> 2/18（火） 14: | "髙橋健" <tarako.matsuri@gmail.com> | https://mail.google.com/mail/u/0/#inbox/194ca9e9003e963d/ | https://mail.google.com/mail/u/0/#inbox/194ca9e9003e963d/194d9dc869a4270e
+ドローンボートの報告会（2/13） | 川口様
+
+いつもお世話になっております。
+フィッシャーマン・ジャパンの川鍋です。
+
+本日もご対応いただきありがとうございました。
+大変興味深いお話を伺えて、これからがより楽しみになりました。
+
+LH松野さんからのドローンボートの報告会ですが、
+2/13（木）10-11時でお願いします。
+下記よりご参加ください。
+https://us02web.zoom.us/j/84581044813?pwd=h1CbEHGubNDnSGo8AD0brjrDDwXynJ.1
+
+引き続きどうぞよろしくお願いいたします。
+
+川鍋
+
+-- 
+・・・・・・・・・・・・・・・・・・・ | "川鍋一樹" <kawanabe@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/194d55f338c45936/ | https://mail.google.com/mail/u/0/#inbox/194d55f338c45936/194d55f338c45936
+資料の送付について | 
+
+**********************************
+〒730-8511　広島市中区基町10-52
+広島県農林水産局水産課
+主査　川口 修
+o-kawaguchi88559@pref.hiroshima.lg.jp
+TEL　082-513-3611（ダイヤルイン）
+FAX　082-227-1579
+テレワーク時：050-5371-2728
+********************************** | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/194d3e3968a81c36/ | https://mail.google.com/mail/u/0/#inbox/194d3e3968a81c36/194d3e3968a81c36
+（布施商店）販売管理及び送り状データ送付の件 | 勝又様
+
+ 
+
+毎々お世話になります。
+
+当方宿題になっておりました弊社使用吸い上げデータにつき、
+
+添付の通り送付致します。
+
+ 
+
+一度本資料を見ながら補足のご説明ができればと思います。
+
+ 
+
+ご確認の程、お願い申し上げます。
+
+ 
+
+---------------------------------------
+
+㈱布施商店
+
+布施由布香
+
+ <tel:0225-94-2266> TEL:0225-94-2266
+
+FAX:0225-94-2280
+
+E-MAIL:y.fuse@fusesyouten.co.jp
+
+--- | <y.fuse@fusesyouten.co.jp> | https://mail.google.com/mail/u/0/#inbox/194cff1be3260174/ | https://mail.google.com/mail/u/0/#inbox/194cff1be3260174/194cff1be3260174
+Updates on Lets Encrypt Subscriber Agreement & Ending Expiration Notification | Hi,
+
+As a Let’s Encrypt Subscriber, you benefit from access to free, automated TLS certificates. One way we have supported Subscribers is by sending expiration notification emails when it’s time to renew a certificate. 
+
+We’re writing to inform you that we intend to discontinue sending expiratio | noreply@letsencrypt.org | https://mail.google.com/mail/u/0/#inbox/194cf35a035dde63/ | https://mail.google.com/mail/u/0/#inbox/194cf35a035dde63/194cf35a035dde63
+RE: 受発注テストに向けてオンラインミーティングのご依頼 | 勝又様
+
+ 
+
+毎々お世話になります。
+
+本件、早々にご対応いただきありがとうございます。
+
+内容確認できました。
+
+明日中に当方宿題事項を送付致しますので、
+
+もう少々お待ちいただけますと幸いです。
+
+ 
+
+引き続き、よろしくお願い申し上げます。
+
+---------------------------------------
+
+㈱布施商店
+
+布施由布香
+
+ <tel:0225-94-2266> TEL:0225-94-2266
+
+FAX:0225-94-2280
+
+E-MAIL:y.fuse@fusesyouten.co.jp
+
+ | <y.fuse@fusesyouten.co.jp> | https://mail.google.com/mail/u/0/#inbox/194ca9610b50077d/ | https://mail.google.com/mail/u/0/#inbox/194ca9610b50077d/194ca9610b50077d
+お礼：曽呂 | 一般社団法人 フィッシャーマン・ジャパン
+事務局
+磯部様
+
+ご無沙汰しております。曽呂です。
+
+先日はありがとうございました。
+阿部長商店様に事業展開に、微力ながらご支援させていただきたいと思います。
+次のステップに進める場合は、ご連絡をお待ちしています。
+よろしくお願いします。
+
+また、現在、外国人の技能実習生＆特定技能事業の理事を行っています。
+当組合は、約500名の実習生及び特定技能外国人の監理をしております。
+
+こちらの事業で、弊社との協業にご興味ございませんか？
+※初回手数料＆毎月紹介フィーはお支払いいたします。
+
+取引企業も求人広告を掲載しても応募 | GMAIL_solo3104 <solo3104@gmail.com> | https://mail.google.com/mail/u/0/#inbox/194ca65550d73c1c/ | https://mail.google.com/mail/u/0/#inbox/194ca65550d73c1c/194ca65550d73c1c
+招待 - 更新: 【GoogleMeet】シーフードマッチ定例＠オンライン - 2025年 2月 3日 (月) 午後2:30 ～ 午後3:30 (JST) (isobe@fishermanjapan.com) | この予定は更新されました
+変更あり: 時間
+
+
+【GoogleMeet】シーフードマッチ定例＠オンライン
+2025年 2月 3日 (月曜日) ⋅ 午後2:30 ～ 午後3:30
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/nwn-dtaf-yhm?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 8394982662092
+
+その他の電話番号
+https://tel.meet/nwn-dtaf-yhm?pin=8394982662092&hs=0
+
+
+Google | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/194c97cc1f38db9b/ | https://mail.google.com/mail/u/0/#inbox/194c97cc1f38db9b/194c97cc1f38db9b
+Re: 水産未来サミットの移動について | 津田さん
+
+めちゃくちゃお忙しい中すいません、、ありがとうございます！
+
+フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子
+050-6864-5572
+hinako@fishermanjapan.com
+
+
+2025年2月3日(月) 10:38 水産未来サミット実行委員会 <info@suisan-summit.com>:
+
+> ひなちゃん
+>
+> お疲れ様です。
+> 津田です。
+>
+> 送迎バス・ブリ養殖場のまだ席が空いているのか
+> 精査しているところで空きがあれば乗せられます。
+> 申込順で席を確保している状況ですのでまたご連絡し | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/194c9653d345c3f7/ | https://mail.google.com/mail/u/0/#inbox/194c9653d345c3f7/194c97df1e0d8e71
+Amazon Web Services Billing Statement Available [Account: 904233114298] | アマゾンウェブ サービスでございます。いつも大変お世話になっております。
+
+
+お客様のAWSアカウントにおいて、電子請求書が発行されたことをお知らせいたします。これは、02/01/2025 
+
+の請求期間に利用されたサービスの請求書です。請求書、サービスごとの料金詳細、履歴はBilling & Cost Managementコンソールでご覧いただけます。
+
+http://console.aws.amazon.com/billing/home#/bills
+
+アマゾンウェブサービスをご利用いただきありがとうございます。
+
+
+今後ともどうぞよろしくお願いします。
+アマゾン | Amazon Web Services <aws-jp-receivables-support@email.amazon.com> | https://mail.google.com/mail/u/0/#inbox/194c52e9c469ff1b/ | https://mail.google.com/mail/u/0/#inbox/194c52e9c469ff1b/194c52e9c469ff1b
+【第2回水産未来サミット】ゲストブック作成に関するご連絡 | 磯部高弥 様
+
+いつも大変お世話になっております。水産未来サミット実行委員会です。
+第2回水産未来サミット＠鹿児島にお申し込み頂き誠にありがとうございます。
+
+最終的に北は北海道、南は沖縄まで総勢200名の皆様からお申込み頂きました。改めて御礼申し上げます。
+
+さて、サミットにご参加頂く皆様同士の交流を深めるため、そして情報交換のきっかけ作るために "参加者全員が共有できるゲストブック" を作成致します。ゲストブックは事前に皆様にに共有させて頂きますので、新しい情報交流へのきっかけとなっていただければ幸いです。
+
+つきましては、以下フォームより各項目にご回答いただきますようお | "水産未来サミット実行委員会" <info@suisan-summit.com> | https://mail.google.com/mail/u/0/#inbox/194b000a87c370e3/ | https://mail.google.com/mail/u/0/#inbox/194b000a87c370e3/194b000a87c370e3
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@insights.miro.com> | https://mail.google.com/mail/u/0/#inbox/194ae6f5079ecee3/ | https://mail.google.com/mail/u/0/#inbox/194ae6f5079ecee3/194ae856083d0d02
+RE: Re2: Re2: Re2: Re2: Re2: Re2: 三陸海鮮カレー商品企画について | 渡邉様　安達様
+承知いたしました。
+よろしくお願いいたします。
+
+-----Original Message-----
+From: taka-watanabe@sato.fpsi.co.jp <taka-watanabe@sato.fpsi.co.jp> 
+Sent: Monday, January 27, 2025 6:29 PM
+To: Hinako Adachi <hinako@fishermanjapan.com>
+Cc: koya@suenaga.co.jp; 香川幹 <kagawa@fishermanjapan.com>; isobe@fishermanjapan. | "末永康也_末永海産（株）" <koya@suenaga.co.jp> | https://mail.google.com/mail/u/0/#inbox/194aa3ae0159dba9/ | https://mail.google.com/mail/u/0/#inbox/194aa3ae0159dba9/194aa3ae0159dba9
+RE: 23日お打ち合わせ内容まとめと追加対応のお願い | 磯部様
+
+ 
+
+お世話になっております。
+
+プロジェクトページ用の差し替え画像、送付致します。
+
+ 
+
+また、プロフィール等については下記内容にて更新頂けますと幸いです。
+
+肩書：直販事業部課長
+
+お名前：熊谷航
+
+ご経歴：宮城県気仙沼市出身。プログラマーを経て、2020年10月に阿部長商店へ入社。EC事業を担当し、通販事業の成長に従事。現在は直販事業部課長として、事業拡大と新規顧客開拓に取り組む。
+
+メッセージ：三陸の旨いものを、もっと多くの人に届けたい。そんな想いで日々奮闘中です。新しいアイデアをお持ちの方、ぜひ一緒に未来を創っていきませんか？共に、新し | <w_kumagai@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/1949181a4d8c1074/ | https://mail.google.com/mail/u/0/#inbox/1949181a4d8c1074/194a9bfe89553375
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@insights.miro.com> | https://mail.google.com/mail/u/0/#inbox/194a774c1fd62854/ | https://mail.google.com/mail/u/0/#inbox/194a774c1fd62854/194a795a973da645
+Re: Re2: Re2: Re2: Re2: Re2: Re2: 三陸海鮮カレー商品企画について | 渡邉さま
+
+Teamsのリンク発行ありがとうございます！関係者数名同席させていただくかもしれません。当日どうぞよろしくお願いいたします。
+
+フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子
+050-6864-5572
+hinako@fishermanjapan.com
+
+
+2025年1月27日(月) 18:28 taka-watanabe@sato.fpsi.co.jp <
+taka-watanabe@sato.fpsi.co.jp>:
+
+> フィッシャーマン・ジャパン
+> クリエイティブディレクター
+> 安達日向子さま
+> ＣＣ：末永海産株 | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/194a72ac6162df69/ | https://mail.google.com/mail/u/0/#inbox/194a72ac6162df69/194a72ac6162df69
+招待 - 更新: 【GoogleMeet】シーフードマッチ定例＠オンライン - 毎週 午後2時～午後3時 月曜日 (JST) (isobe@fishermanjapan.com) | この予定は更新されました
+
+【GoogleMeet】シーフードマッチ定例＠オンライン
+毎週 午後2時～午後3時 月曜日
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/nwn-dtaf-yhm?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 8394982662092
+
+その他の電話番号
+https://tel.meet/nwn-dtaf-yhm?pin=8394982662092&hs=0
+
+
+Google meetでの開催となります。
+
+主催者
+Yoji Ka | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/194a65df5b01f417/ | https://mail.google.com/mail/u/0/#inbox/194a65df5b01f417/194a65df964e20ae
+RE: Re2: Re2: Re2: Re2: Re2: 三陸海鮮カレー商品企画について | 渡邉様
+
+ 
+
+末永、2/4の下記時間帯はオンライン大丈夫です。
+
+よろしくお願いいたします。
+
+ 
+
+From: Hinako Adachi <hinako@fishermanjapan.com> 
+Sent: Monday, January 27, 2025 2:41 PM
+To: taka-watanabe@sato.fpsi.co.jp
+Cc: koya@suenaga.co.jp; 香川幹 <kagawa@fishermanjapan.com>; isobe@fishermanjapan.com
+Subject: Re: Re2: Re2: Re2: Re | "末永康也_末永海産（株）" <koya@suenaga.co.jp> | https://mail.google.com/mail/u/0/#inbox/194a6474fc65355d/ | https://mail.google.com/mail/u/0/#inbox/194a6474fc65355d/194a68afc1cf0adf
+Re2: Re2: Re2: Re2: Re2: 三陸海鮮カレー商品企画について | フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子さま
+
+お世話になっております。
+この度もご提案へのご協力をいただき誠にありがとうございます。
+
+1月24日（金）阪神百貨店バイヤーさまとのご商談を終えて
+一度、ご商談のご機会をいただきたくお願いいたします。
+
+ＷＥＢでもリアルでもどちらでもご都合の良い方でお願い
+できればとお願い申しあげます。
+＊メールでは伝えきれないところがございました
+
+こちらからのお願いの中、、大変恐縮ではございますが
+下記日時にてご検討いただけたらとあわせてお願い申し上げます。
+
+●ご商談日時お伺い
+①1月29日（水 | "taka-watanabe@sato.fpsi.co.jp " <taka-watanabe@sato.fpsi.co.jp> | https://mail.google.com/mail/u/0/#inbox/194a5ef6e124ba46/ | https://mail.google.com/mail/u/0/#inbox/194a5ef6e124ba46/194a5ef6e124ba46
+GYOSOMON 遠藤　請求書の送付 | 磯部さん
+
+お疲れ様です。
+遠藤です。遅くなって申し訳ないですが、こちらご確認よろしくお願いいたします。
+不備などあればご指摘いただけますと幸いです。
+ | HIROMU ENDO <aendous7@gmail.com> | https://mail.google.com/mail/u/0/#inbox/194a17642a280e9e/ | https://mail.google.com/mail/u/0/#inbox/194a17642a280e9e/194a17642a280e9e
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@insights.miro.com> | https://mail.google.com/mail/u/0/#inbox/194995fc13f3048f/ | https://mail.google.com/mail/u/0/#inbox/194995fc13f3048f/194997cecdcdfdb3
+                 ボード「FJ漁業ToC」の新しいハイライト       | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <daily@insights.miro.com> | https://mail.google.com/mail/u/0/#inbox/1948a18187e96041/ | https://mail.google.com/mail/u/0/#inbox/1948a18187e96041/1948a32c298007f2
+第２回次世代エネルギー活用勉強会 参加申し込み | 宮城県環境生活部次世代エネルギー室
+ご担当社さま
+
+お世話になっております。フィッシャーマン・ジャパンの安達と申します。
+(株)ヤマナカの髙田さまよりお誘いいただきまして、
+次世代エネルギー活用勉強会へ参加したくご連絡させていただきました。
+締め切りは過ぎているようですが参加可能でしょうか。
+3名での参加を予定しております。
+懇親会は3名とも不参加でお願いします。
+
+所属
+一般社団法人フィッシャーマン・ジャパン
+
+参加者役職名 クリエイティブディレクター
+参加者氏名（ふりがな） 安達日向子(あだちひなこ)
+
+参加者役職名 事務局
+参加者氏名（ふりがな） 渡部更 | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1948688a7acdbb73/ | https://mail.google.com/mail/u/0/#inbox/1948688a7acdbb73/1948688a7acdbb73
+AWS Budgets: My Zero-Spend Budget has exceeded your alert threshold | AWS Budget Notification	                            January 20, 2025
+AWS Account 337909776383
+
+Dear AWS Customer,
+
+You requested that we alert you when the ACTUAL Cost associated with your My Zero-Spend Budget budget is greater than $0.01 for the current month. The month ACTUAL Cost associated  | budgets@costalerts.amazonaws.com | https://mail.google.com/mail/u/0/#inbox/19485e0d9b5dff83/ | https://mail.google.com/mail/u/0/#inbox/19485e0d9b5dff83/19485e0d9b5dff83
+Re: 専門家派遣事業（末永海産様）_第7回について | フィッシャーマン・ジャパン磯部様
+
+いつも大変お世話になっております。
+みやぎ産業振興機構水産加工業ビジネス支援室の吉田です。
+
+第七回：1/21（火）13時～について承知しました。
+どうぞよろしくお願いいたします。
+（水産加工品評会の関係で途中退席の可能性ありです）
+
+
+□□□□□□□□□□□□□□□□□□□□□□□□
+
+公益財団法人　みやぎ産業振興機構
+
+　産業育成支援部　事業支援課　
+
+   水産加工業ビジネス支援室長　吉田　浩志
+
+〒980-0011 宮城県仙台市青葉区上杉一丁目14-2
+
+TEL：022-225-6697 　FAX： 022-2 | "吉田 浩志（Hiroshi Yoshida）" <h-yoshida@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1947467a597b754c/ | https://mail.google.com/mail/u/0/#inbox/1947467a597b754c/1948116a649f5952
+Re: Re2: Re2: Re2: Re2: 三陸海鮮カレー商品企画について | 渡邉さま
+
+大変おまたせしました、パッケージのご提案をお送りいたします。
+先方は集合写真をパッケージで使用することをご希望されておりましたが、
+集合写真は全員が今回の商品の関係者でないことを踏まえ、三浦氏の写真をパッケージで起用できればと思います。
+そのため、POP等の販促物で使用し訴求する形でご提案を作成しております。
+ちなみに、今回のカレーは中辛、、でしょうか。。？
+
+ご確認お願いいたします。
+
+フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子
+050-6864-5572
+hinako@fishermanjapan.com
+
+
+2025年 | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/19480eef3003ede0/ | https://mail.google.com/mail/u/0/#inbox/19480eef3003ede0/19480eef3003ede0
+[アクションが必要] AWS IAM Identity Center の AWS CloudTrail ログに対する変更の新たな日程 | [Action Required] New date for changes to AWS CloudTrail logs of AWS IAM Identity Center [AWS Account: 904233114298] [AP-NORTHEAST-1] | English follows Japanese | 英語のメッセージは日本語の後にございます 
+
+いつもお世話になっております。
+
+AWS IAM Identity Center が 2025 年 1 月 13 日から送信する AWS CloudTrail フィールドへの変更内容について発表した以前の通知をフォローアップしています。本通知は、これらの変更が実装される新たな日程が 2025 年 7 月 14 日であることをお知らせするものです。
+
+これらの変更により、IAM Identity Center による CloudTrail へのユーザー固有の情報のロギングが最小限に抑え | "Amazon Web Services, Inc." <no-reply-aws@amazon.com> | https://mail.google.com/mail/u/0/#inbox/1947c3b26dccdd04/ | https://mail.google.com/mail/u/0/#inbox/1947c3b26dccdd04/1947c3b26dccdd04
+An invitation to join an AWS organization sent to your AWS account has been canceled | <html xmlns="http://www.w3.org/1999/xhtml"><body width="100%" bgcolor="#F0F2F3" style="margin: 0;"><center style="width: 100%; background: #F0F2F3; text-align: left;"><div style="margin: auto; max-width: 600px; padding-top: 50px;"><!-- Email Header : BEGIN --><table role="presentation" cellspacing=" | Amazon Web Services <no-reply@amazonaws.com> | https://mail.google.com/mail/u/0/#inbox/1947794202957320/ | https://mail.google.com/mail/u/0/#inbox/1947794202957320/1947794202957320
+Your AWS account has been invited to join an AWS organization | <html xmlns="http://www.w3.org/1999/xhtml"><body width="100%" bgcolor="#F0F2F3" style="margin: 0;"><center style="width: 100%; background: #F0F2F3; text-align: left;"><div style="margin: auto; max-width: 600px; padding-top: 50px;"><!-- Email Header : BEGIN --><table role="presentation" cellspacing=" | Amazon Web Services <no-reply@amazonaws.com> | https://mail.google.com/mail/u/0/#inbox/194778a0e0d7dd64/ | https://mail.google.com/mail/u/0/#inbox/194778a0e0d7dd64/194778a0e0d7dd64
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37078578
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1946efafbef8bc58/ | https://mail.google.com/mail/u/0/#inbox/1946efafbef8bc58/1946efafbef8bc58
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97121542
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19469af60c19ab40/ | https://mail.google.com/mail/u/0/#inbox/19469af60c19ab40/19469c67adcfa18a
+Re: 第三回お打ち合わせの資料送付とご依頼 | フィッシャーマン・ジャパン
+磯部様
+
+お世話になっております。
+
+共有ドライブに画像ファイルを保存いたしましたのでご確認ください。
+
+バーコードリーダは東芝テックの後継機(？)と思われるHS560UBという製品がかなり安かったので
+購入し動作チェックしてみます。
+
+また、28日の予定を変更していただきたいのですが、1月22、24、25、28、29日以外の日程で
+ご都合の良い日はありますでしょうか？
+ご検討よろしくお願いいたします。
+
+高橋
+
+2025年1月14日(火) 19:14 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan. | "髙橋健" <tarako.matsuri@gmail.com> | https://mail.google.com/mail/u/0/#inbox/194643f692aa5788/ | https://mail.google.com/mail/u/0/#inbox/194643f692aa5788/194686d369644570
+Re: 株式会社高橋徳治商店_専門家派遣第2回_報告書の送付 | 磯部さん
+
+お世話になっております。
+みやぎ産業振興機構の土谷です。
+
+髙橋徳治商店様より
+３回目の支援の日程が送られてきましたので、
+都合のよい日を教えていただけると幸いです。
+
+よろしくお願いいたします。
+
+
+
+（時間につきましては午前中は１０時以降　午後は１４時以降でお願いします）
+
+
+
+２月７日(金)
+
+２月１２日（水）
+
+２月１９日（水）
+
+２月２６日（水）
+
+２月２８日（金）
+
+
+今回５回分枠とっているので、できれば早いタイミングで支援できればと思っております。もし５回終わらなければ、一旦終了とするか年度またぐかはこちらで対応 | "土谷 亘（Wataru Tsuchiya）" <w-tsuchiya@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/193851299c8a51de/ | https://mail.google.com/mail/u/0/#inbox/193851299c8a51de/19463004b4951c9b
+RE: 先日のヒアリング対応の御礼と追加質問回答についてのお願い | 磯部さま
+
+ 
+
+お世話になっております。
+
+こちらこそありがとうございました。
+
+ヒアリングシート入力の件、畏まりました。
+
+入力次第ご連絡申し上げます。
+
+引き続き、よろしくお願いいたします。
+
+ 
+
+阿部長
+
+熊谷
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Tuesday, January 14, 2025 12:00 PM
+To: w_kumagai@abecho.co.jp; h_kikuchi@abecho.co.jp
+Cc: jinzai@fisherman | "熊谷 航（阿部長商店　総合企画部）" <w_kumagai@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/194628163ccf14e6/ | https://mail.google.com/mail/u/0/#inbox/194628163ccf14e6/19462c404da94081
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92108344
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19458905529998f2/ | https://mail.google.com/mail/u/0/#inbox/19458905529998f2/19458905529998f2
+1 件のメッセージ、1 件のメンション があります |  
+私の方でやろうと思ったのですが、たぶん権限なくて追加できないですね、、   磯部高弥 (ゲスト) 
+体調悪いところ申し訳ありませんが、遠藤さんを入室許可していただくことって可能でしょうか、、！？ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ | "Teams に新しいアクティビティがあります" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19453389a6c48238/ | https://mail.google.com/mail/u/0/#inbox/19453389a6c48238/19453389a6c48238
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37735942
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19452e53f09b8e5f/ | https://mail.google.com/mail/u/0/#inbox/19452e53f09b8e5f/19452e53f09b8e5f
+Re: Re2: Re2: Re2: 三陸海鮮カレー商品企画について | 渡邉さま
+
+お世話になっております。本年もどうぞよろしくお願いします。
+パッケージの件お待たせしておりまして申し訳ありません、来週後半にはご提案をお送りできる予定です。
+その後ご提案のフィードバックをいただき、1月中に入稿すれば2月初旬販売開始に間に合う想定です。
+引き続きよろしくお願いいたします。
+
+
+フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子
+050-6864-5572
+hinako@fishermanjapan.com
+
+
+2025年1月6日(月) 16:43 taka-watanabe@sato.fpsi.co.jp <
+taka | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1944f28e2920da9d/ | https://mail.google.com/mail/u/0/#inbox/1944f28e2920da9d/1944f28e2920da9d
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92652523
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1944f21b246afc3a/ | https://mail.google.com/mail/u/0/#inbox/1944f21b246afc3a/1944f21b246afc3a
+第2回水産未来サミット請求書送付について | 磯部　高弥様
+この度は水産未来サミット＠鹿児島への参加お申し込みありがとうございます。
+　
+水産未来サミット実行委員より支払い業務の委託を受けました㈱サニーワールド
+です。
+
+
+今回の参加費用の請求書を添付いたしましたので1月24日(金)までにお振込みい
+ただきますようお願い申し上げます。なお、振込手数料はご負担願います。
+振込の際は備考欄に申込時のお名前をご入力ください。
+
+またご都合によるキャンセルにつきましては2月21日までは若干の事務手数料を
+差し引かせていただいた上返金させていただきます。
+※21日以降は食材等の手配をしているためご返金できかねます。なにとぞ | "上原　知子" <sunny-t@po3.synapse.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1944f0bcf5908e5f/ | https://mail.google.com/mail/u/0/#inbox/1944f0bcf5908e5f/1944f0bcf5908e5f
+【宮城県中小企業支援室】打合アポ依頼について | フィッシャーマン・ジャパン　
+
+磯部　高弥　様
+
+ 
+
+いつもお世話になっております。
+
+宮城県中小企業支援室の佐藤でございます。
+
+ 
+
+遅くなりましたが明けましておめでとうございます。
+
+昨年末には、急なご依頼をしてしまい申し訳ございませんでした。
+
+12/26は、貴社松本様・弘田様とお話しすることができ、とても貴重な時間となりました。
+
+手前どもの事業「中小企業共同化チャレンジ事業」にも共鳴をいただき、人材確保・育成
+
+の面からも色々アイディアをいただきました。ありがとうございました。
+
+ 
+
+さて、年初のお忙しいところかと思いますが、今一 | "中小企業支援室　佐藤（修）" <sato-sh825@pref.miyagi.lg.jp> | https://mail.google.com/mail/u/0/#inbox/1944ee54e5852fcd/ | https://mail.google.com/mail/u/0/#inbox/1944ee54e5852fcd/1944ee54e5852fcd
+RE: お打ち合わせのお礼と次回お打ち合わせについて | 一般社団法人 フィッシャーマン・ジャパン
+
+磯部様
+
+ 
+
+お世話になっております。
+
+本年もどうぞよろしくお願いいたします。
+
+ 
+
+アジェンダ及び、Zoomリンクのご共有ありがとうございます
+
+本日10時より、よろしくお願いいたします。
+
+ 
+
+阿部長マーメイド食品
+
+熊谷
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Saturday, December 28, 2024 9:05 AM
+To: h_kikuchi@abecho.co.jp
+Cc: jinzai@f | <w_kumagai@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/1940a8e517d25563/ | https://mail.google.com/mail/u/0/#inbox/1940a8e517d25563/194432c15476ec87
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92054530
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/194431de39d331a7/ | https://mail.google.com/mail/u/0/#inbox/194431de39d331a7/194431de39d331a7
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92326546
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/194392563993a817/ | https://mail.google.com/mail/u/0/#inbox/194392563993a817/194392563993a817
+西川大貴 さんがメッセージを送信しました |  
+片木良洋 
+明日のミーティングですが20時〜でも良いでしょうか、、！？ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが Mi | "Teams の 西川大貴" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19436119950b1c3e/ | https://mail.google.com/mail/u/0/#inbox/19436119950b1c3e/19436dc9be64f708
+西川大貴 さんがメッセージを送信しました |  
+片木良洋  西川大貴 (Guest) layerの方のコード修正完了しました。 staff_confirm_order だ… 片木良洋 
+ありがとうございます！ 承知しました！ 
+メ... ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌  | "Teams の 西川大貴" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1942bdf7ca7c7c77/ | https://mail.google.com/mail/u/0/#inbox/1942bdf7ca7c7c77/1942bdf7ca7c7c77
+遠藤啓 さんがメッセージを送信しました |  
+片木良洋  遠藤啓 (Guest) layer化のソースコードはGitHubのどの階層に入れれば… 
+ごめんなさい、コミット忘れてました。後ほどやりますね ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams の 遠藤啓" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1942ba6e101a1d59/ | https://mail.google.com/mail/u/0/#inbox/1942ba6e101a1d59/1942ba6e101a1d59
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90970092
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19429b88814fa0e4/ | https://mail.google.com/mail/u/0/#inbox/19429b88814fa0e4/19429b88814fa0e4
+Amazon Web Services Billing Statement Available [Account: 904233114298] | アマゾンウェブ サービスでございます。いつも大変お世話になっております。
+
+
+お客様のAWSアカウントにおいて、電子請求書が発行されたことをお知らせいたします。これは、01/02/2025 
+
+の請求期間に利用されたサービスの請求書です。請求書、サービスごとの料金詳細、履歴はBilling & Cost Managementコンソールでご覧いただけます。
+
+http://console.aws.amazon.com/billing/home#/bills
+
+アマゾンウェブサービスをご利用いただきありがとうございます。
+
+
+今後ともどうぞよろしくお願いします。
+アマゾン | Amazon Web Services <aws-jp-receivables-support@email.amazon.com> | https://mail.google.com/mail/u/0/#inbox/19426785f1c82f6f/ | https://mail.google.com/mail/u/0/#inbox/19426785f1c82f6f/19426785f1c82f6f
+Endohiromu invited you to Endohiromu/Gyosomon | @Endohiromu has invited you to collaborate on the Endohiromu/Gyosomon repository.
+
+
+Visit https://github.com/Endohiromu/Gyosomon/invitations?invitation_token=e5d0b931417cf787e12803d1167345908dda6189 to accept or decline this invitation.
+
+You can also visit https://github.com/Endohiromu to learn | Endohiromu <noreply@github.com> | https://mail.google.com/mail/u/0/#inbox/19425f5330d5ee2b/ | https://mail.google.com/mail/u/0/#inbox/19425f5330d5ee2b/19425f5330d5ee2b
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37808591
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/194215f14bce0e77/ | https://mail.google.com/mail/u/0/#inbox/194215f14bce0e77/194215f14bce0e77
+【重要】第2回水産未来サミット＠鹿児島に関するご連絡 | 磯部高弥 様
+
+いつも大変お世話になっております。水産未来サミット実行委員会です。
+この度は第2回 水産未来サミットにお申し込み頂き誠にありがとうございます。
+
+年の瀬のご連絡となってしまい大変恐縮ですが、2/28金-3/1土に開催予定の
+第2回水産未来サミット＠鹿児島に関するご連絡が何点かありましたので
+ご連絡をさせていただきました。以下、ご一読をお願い致します。
+
+ーーーーーーーー
+
+【1】航空券等の手配について
+鹿児島空港発着の航空券等は席数が限られております。
+また期日が近くなると高くなりますので早めの手配をお願いします。
+
+【2】（漁師の皆さま限定）交通 | "水産未来サミット実行委員会" <info@suisan-summit.com> | https://mail.google.com/mail/u/0/#inbox/1941a6bb20ac7309/ | https://mail.google.com/mail/u/0/#inbox/1941a6bb20ac7309/1941a6bb20ac7309
+1 件のメッセージ、1 件のメンション があります |  
+遠藤啓 (Guest) ありがとうございますー じゃあ、3日の10時とかどうです？ 自分は大丈夫です。 磯部高弥 (ゲスト) 西川大貴 (ゲスト) 
+お二人はいかがでしょうか？... ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams に新しいアクティビティがあります" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/194171ce89a7dc87/ | https://mail.google.com/mail/u/0/#inbox/194171ce89a7dc87/194171ce89a7dc87
+《1/9まで》PlayStation(R)5が抽選で当たる＆外れた方全員に副賞あり！ AMD×エックスサーバー年越しコラボキャンペーン | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、
+お得なキャンペーンの情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　《1/9まで》PlayStation(R)5が抽選で当たる＆外れた方全員に副賞あり！
+　AMD×エックスサーバー 年越しコラボキャンペーン
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+このたび、2024年12月26日(木)から2025年1月9日(木)まで、
+「AMD×エックスサーバー 年越しコラボキャンペー | "XServer VPS キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19416b66a8faf5df/ | https://mail.google.com/mail/u/0/#inbox/19416b66a8faf5df/19416b66a8faf5df
+遠藤啓 さんがメッセージを送信しました |  
+ありがとうございますー 
+じゃあ、3日の10時とかどうです？ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが Microso | "Teams の 遠藤啓" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/194163b9962075f4/ | https://mail.google.com/mail/u/0/#inbox/194163b9962075f4/194163b9962075f4
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92943502
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1941189b9ed7f77e/ | https://mail.google.com/mail/u/0/#inbox/1941189b9ed7f77e/1941189b9ed7f77e
+Let's Encrypt certificate expiration notice for domain "fj-dify.com" | Hello,
+
+Your certificate (or certificates) for the names listed below will expire in 7 days (on 2025-01-04). Please make sure to renew your certificate before then, or visitors to your web site will encounter errors.
+
+We recommend renewing certificates automatically when they have a third of the | "Let's Encrypt Expiry Bot" <expiry@letsencrypt.org> | https://mail.google.com/mail/u/0/#inbox/1940abb211f52eab/ | https://mail.google.com/mail/u/0/#inbox/1940abb211f52eab/1940abb211f52eab
+招待状にメモが追加されました: 【GoogleMeet】シーフードマッチ定例＠オンライン - 2025年 1月 14日 (火) 午後2時 ～ 午後3時 (JST) (isobe@fishermanjapan.com) | この予定は更新されました。更新メッセージ:
+"月曜が祝日のためスライド"
+変更あり: 時間
+
+
+【GoogleMeet】シーフードマッチ定例＠オンライン
+2025年 1月 14日 (火曜日) ⋅ 午後2時 ～ 午後3時
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/nwn-dtaf-yhm?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 8394982662092
+
+その他の電話番号
+https://tel.meet/nwn-dtaf-yhm?pin=83949826 | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401beecf9cdcde/ | https://mail.google.com/mail/u/0/#inbox/19401beecf9cdcde/19401beecf9cdcde
+招待: 【GoogleMeet】シーフードマッチ定例＠オンライン - 毎週 午後2時～午後3時 月曜日 (JST) (isobe@fishermanjapan.com) | 【GoogleMeet】シーフードマッチ定例＠オンライン
+毎週 午後2時～午後3時 月曜日
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/nwn-dtaf-yhm?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 8394982662092
+
+その他の電話番号
+https://tel.meet/nwn-dtaf-yhm?pin=8394982662092&hs=0
+
+
+Google meetでの開催となります。
+
+主催者
+Yoji Kawaguchi
+youji.k | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401bdb455c69ff/ | https://mail.google.com/mail/u/0/#inbox/19401bdb455c69ff/19401bdb455c69ff
+予定のキャンセル: 【GoogleMeet】シーフードマッチ定例＠オンライン - 2025年 1月 6日 (月) 午後2時 ～ 午後3時 (JST) (isobe@fishermanjapan.com) | この予定はキャンセルされました。
+
+【GoogleMeet】シーフードマッチ定例＠オンライン
+2025年 1月 6日 (月曜日) ⋅ 午後2時 ～ 午後3時
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/mkt-gwzg-jzd?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 1238572678792
+
+その他の電話番号
+https://tel.meet/mkt-gwzg-jzd?pin=1238572678792&hs=0
+
+
+GoogleMeetでの開催となりま | Katsuki Shindo <k.shindo@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401bafd22fb552/ | https://mail.google.com/mail/u/0/#inbox/19401bafd22fb552/19401bafd22fb552
+予定のキャンセル: シーフードマッチ定例＠オンライン - (JST) (isobe@fishermanjapan.com) | この予定はキャンセルされました。
+
+シーフードマッチ定例＠オンライン
+
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/mkt-gwzg-jzd?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 1238572678792
+
+その他の電話番号
+https://tel.meet/mkt-gwzg-jzd?pin=1238572678792&hs=0
+
+
+GoogleMeetでの開催となります。
+
+主催者
+Katsuki Shindo
+k.shindo@isana-g | Katsuki Shindo <k.shindo@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401bafb0f35264/ | https://mail.google.com/mail/u/0/#inbox/19401bafb0f35264/19401bafb0f35264
+招待 - 更新: シーフードマッチ定例＠オンライン - 毎週 午後4時～午後5時 水曜日 (JST) (isobe@fishermanjapan.com) | この予定は更新されました
+
+シーフードマッチ定例＠オンライン
+毎週 午後4時～午後5時 水曜日
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/mkt-gwzg-jzd?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 1238572678792
+
+その他の電話番号
+https://tel.meet/mkt-gwzg-jzd?pin=1238572678792&hs=0
+
+
+GoogleMeetでの開催となります。
+
+主催者
+Katsuki Shindo
+k.sh | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401b139a87fcfb/ | https://mail.google.com/mail/u/0/#inbox/19401b139a87fcfb/19401b139a87fcfb
+招待 - 更新: シーフードマッチ定例＠オンライン - 毎週 午後4時～午後5時 水曜日 2025年 1月 8日 (水)～2025年 1月 14日 (火) (JST) (isobe@fishermanjapan.com) | この予定は更新されました
+変更あり: 時間
+
+
+シーフードマッチ定例＠オンライン
+毎週 午後4時～午後5時 水曜日 2025年 1月 8日 (水曜日)～2025年 1月 14日 (火曜 
+日)
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/mkt-gwzg-jzd?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 1238572678792
+
+その他の電話番号
+https://tel.meet/mkt-gwzg-jzd?pin=1238572678792&hs=0
+
+ | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401b138ec51165/ | https://mail.google.com/mail/u/0/#inbox/19401b138ec51165/19401b138ec51165
+招待状にメモが追加されました: 【GoogleMeet】シーフードマッチ定例＠オンライン - 2025年 1月 6日 (月) 午後2時 ～ 午後3時 (JST) (isobe@fishermanjapan.com) | 次の予定に招待されました。メッセージ:
+"来年度より、毎週月曜14時の枠に変更になります。 あわせて、ZOOMから 
+GoogleMeetでの開催に変更をさせていただきます"
+
+【GoogleMeet】シーフードマッチ定例＠オンライン
+2025年 1月 6日 (月曜日) ⋅ 午後2時 ～ 午後3時
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/mkt-gwzg-jzd?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 1238572678792
+
+その他の電話番号
+htt | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401ad292568bb2/ | https://mail.google.com/mail/u/0/#inbox/19401ad292568bb2/19401ad292568bb2
+招待状にメモが追加されました: シーフードマッチ定例＠オンライン - 毎週 午後4時～午後5時 水曜日 (JST) (isobe@fishermanjapan.com) | 次の予定に招待されました。メッセージ:
+"来年度より、毎週月曜14時の枠に変更になります。 あわせて、ZOOMから 
+GoogleMeetでの開催に変更をさせていただきます"
+
+シーフードマッチ定例＠オンライン
+毎週 午後4時～午後5時 水曜日
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/mkt-gwzg-jzd?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 1238572678792
+
+その他の電話番号
+https://tel.meet/mkt-gwzg-jzd? | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19401ad26250fbae/ | https://mail.google.com/mail/u/0/#inbox/19401ad26250fbae/19401ad26250fbae
+西川大貴 さんがメッセージを送信しました |  
+申し訳ないのですが、29日夜予定あって21時からの参加になりそうです、、 
+皆さんが問題なければ時間を遅らせて頂ければ思います。 ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  | "Teams の 西川大貴" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193fbfaa1d3b2daf/ | https://mail.google.com/mail/u/0/#inbox/193fbfaa1d3b2daf/193fbfaa1d3b2daf
+👋 Miro へようこそ！ | はじめてのボードを作成しましょう
+
+
+
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | "Miro チーム" <your@product.miro.com> | https://mail.google.com/mail/u/0/#inbox/193fbd9d0daada85/ | https://mail.google.com/mail/u/0/#inbox/193fbd9d0daada85/193fbd9d0daada85
+Here's Your Confirmation Code: 611328 | ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌  | The Miro Team <your@product.miro.com> | https://mail.google.com/mail/u/0/#inbox/193fbd40f0eb25d1/ | https://mail.google.com/mail/u/0/#inbox/193fbd40f0eb25d1/193fbd40f0eb25d1
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37736046
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193fb35314c76b95/ | https://mail.google.com/mail/u/0/#inbox/193fb35314c76b95/193fb35314c76b95
+世界中のAWS ユーザーとともに学ぶ | To view this email as a web page, go to the following address: https://pages.awscloud.com/index.php/email/emailWebview?mkt_tok=MTEyLVRaTS03NjYAAAGXlPBYd39ySuYvmzywuYEd9L9_9HXp1ZUgioVylJy8fXwqF4lhPDASIxF0p0kY6wNZMIX8X_PnJoTz9pz7wb1UNeA0HBHzJblWupmEI3PkAfkdH0euJ1v2Wg&tkn_set=7goOJ6CUdWJcoW5StqTAe%2Fm8 | "アマゾン ウェブ サービス（ AWS ）" <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/193f5f7ca0958d87/ | https://mail.google.com/mail/u/0/#inbox/193f5f7ca0958d87/193f5f7ca0958d87
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90101546
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193f1f5fe242874a/ | https://mail.google.com/mail/u/0/#inbox/193f1f5fe242874a/193f1f7626cf469d
+「ドメインプロテクション」機能に認証メールアドレス設定を追加 | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、最新情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　「ドメインプロテクション」機能に認証メールアドレス設定を追加
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+このたび当サービスでは、「ドメインプロテクション」機能に、
+認証メールの送信先を指定できる「認証メールアドレス設定」を追加しました。
+
+「ドメインプロテクション」機能は、
+無料でご利用いただける標準機能として提供してお | "XServerドメイン ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/193dd5dad37431d7/ | https://mail.google.com/mail/u/0/#inbox/193dd5dad37431d7/193dd5dad37431d7
+RE: 副業マッチング「GYOSOMON!」に関するご案内とお打ち合わせのご依頼 | フィッシャーマン・ジャパン
+
+磯部様
+
+ 
+
+お世話様でございます。
+
+掲題の件、ご連絡ありがとうございます。
+
+下記、承知いたしました。
+
+ご足労頂き誠に恐縮ですが、24日（火）の９時から
+
+弊社オフィスにて（お魚いちば２F）打合せをさせて頂きたく、
+
+ご調整の程、宜しくお願い致します。
+
+ 
+
+当日は弊社から小職とEC事業担当者の２名で参加いたします。
+
+どうぞよろしくお願い致します。
+
+ 
+
+菊池
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Wednesd | <h_kikuchi@abecho.co.jp> | https://mail.google.com/mail/u/0/#inbox/193d4380737a0b32/ | https://mail.google.com/mail/u/0/#inbox/193d4380737a0b32/193dc2bfefa0ddbf
+AWS の構築：AWS パートナーと連携する | To view this email as a web page, go to the following address: https://pages.awscloud.com/index.php/email/emailWebview?mkt_tok=MTEyLVRaTS03NjYAAAGXcORk3w7NdQSh6KOmFt3UQ4hrx4rvrPh7hxUWmsjfvICCgo_MMbwh8KHjEQsehtXrbja-o8eCpbFeB_gPEcEgDcmsbZxWo8O3cO3TXXiDeNPMmIXtWDCzGw&tkn_set=7goOJ6CUdWJcoW5StqTAdv69zl | "アマゾン ウェブ サービス（ AWS ）" <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/193d1ec03eea21fb/ | https://mail.google.com/mail/u/0/#inbox/193d1ec03eea21fb/193d1ec03eea21fb
+Let's Encrypt certificate expiration notice for domain "fj-dify.com" | Hello,
+
+Your certificate (or certificates) for the names listed below will expire in 19 days (on 2025-01-04). Please make sure to renew your certificate before then, or visitors to your web site will encounter errors.
+
+We recommend renewing certificates automatically when they have a third of th | "Let's Encrypt Expiry Bot" <expiry@letsencrypt.org> | https://mail.google.com/mail/u/0/#inbox/193c7d16caac22d0/ | https://mail.google.com/mail/u/0/#inbox/193c7d16caac22d0/193c7d16caac22d0
+【みやぎ産業振興機構】精算書の送付について | フィッシャーマンジャパン　磯部　様
+
+お世話になっております
+みやぎ産業振興機構の佐藤です。
+
+高橋徳治商店様（1105復興企業相談助言）支援分の精算書を送付いたします。
+振込予定日は12月18日です。
+
+よろしくお願いいたします。
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.or.jp
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+
+ | "佐藤 築名（Kizuna Sato）" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/193beae8e7a1f52c/ | https://mail.google.com/mail/u/0/#inbox/193beae8e7a1f52c/193beae8e7a1f52c
+遠藤啓 が GYOSOMON であなたをメンションしました |  
+西川大貴 磯部高弥 片木良洋 
+その他補足指摘あればお願いします     ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが M | "Teams の 遠藤啓" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193be5d668287cb0/ | https://mail.google.com/mail/u/0/#inbox/193be5d668287cb0/193be5d668287cb0
+[12/17,19,20] AWS re:Invent キーノートの主要メッセージ 新サービス、アップデートをご紹介 | AWS オンライン セミナー | 
+=============
+
+AWS re:Invent Recap
+キーノートの主要メッセージ
+新サービス、アップデートをご紹介
+
+
+=============
+
+AWS re:Invent Recap - Keynote 編
+参加費: 無料
+主催: アマゾン ウェブ サービス ジャパン合同会社
+
+開催日時
+2024 年 12 月 17 日（火）10:00-11:30
+2024 年 12 月 19 日（木）14:00-15:30
+2024 年 12 月 20 日（金）19:00-20:30
+※ 内容は同じです。都合の良い日時を選択してください
+
+「A | "アマゾン ウェブ サービス（AWS）" <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/193be0ff3cdb1b05/ | https://mail.google.com/mail/u/0/#inbox/193be0ff3cdb1b05/193be11222c73e57
+RE: お食事のお誘い | フィッシャーマン・ジャパン
+事務局　磯部　高弥　様
+
+大変お世話になっております。
+ご無沙汰しておりましたが、御所の皆様もお変わりないでしょうか。
+
+先日はお電話にてお誘い頂き、ありがとうございます！
+又、早速候補日をお示し頂きありがとうございます。
+
+先週、今週と会計検査対応に追われておりまして、かなりバタバタしております。
+
+社外の漁船関係のプチDXやら社内のシステム導入・展開やらで諸所、システム関係の案件が動いていた中で、
+割込みの会検対応でしたので、今現在は年明けからの対応を含めた全体スケジュールの調整を行っております。
+
+つきましては、大変恐縮ですが今週の14日頃まで回答を保留にさせ | "佐藤遼" <r-satou@isiuo.co.jp> | https://mail.google.com/mail/u/0/#inbox/193af319e43af307/ | https://mail.google.com/mail/u/0/#inbox/193af319e43af307/193b8573a73f5edf
+遠藤啓 さんがメッセージを送信しました |  
+とりあえず同意書送りました。 
+請求書ってフォーマットとかありますか？ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが Mi | "Teams の 遠藤啓 (ゲスト)" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193b10f1bb0cae22/ | https://mail.google.com/mail/u/0/#inbox/193b10f1bb0cae22/193b10f1bb0cae22
+Re: GYOSOMON同意書送付します！ | お疲れ様です。
+反応遅れすみません。よろしくお願いいたします。
+
+2024年12月2日(月) 18:30 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>:
+>
+> 遠藤さん
+>
+> お疲れ様です！磯部です！
+> さかのぼっての契約となり大変申し訳ないです。
+> ファイル添付するのでご確認お願いできますでしょうか？
+>
+> 磯部
+> --
+> 一般社団法人 フィッシャーマン・ジャパン
+> 事務局
+> 磯部　高弥
+>
+> 〒986-0827
+> 宮城県石巻市千石町8−20
+>
+> tel:050-3198-0115 | HIROMU ENDO <aendous7@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19386b334de16b3c/ | https://mail.google.com/mail/u/0/#inbox/19386b334de16b3c/193b0d8628992b13
+《2/10まで延長》『XServer VPS』が半額キャッシュバックで実質月額415円から使える！利用件数3万件突破！2周年記念キャンペーン | <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-language" content="ja">
+<title>XServer VPSキャンペーン</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+ | "XServer VPS キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/193b0acaa7f7b663/ | https://mail.google.com/mail/u/0/#inbox/193b0acaa7f7b663/193b0acaa7f7b663
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97931256
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193b0ac959b70f21/ | https://mail.google.com/mail/u/0/#inbox/193b0ac959b70f21/193b0ac959b70f21
+【12/16 11:00～希望】Re: Re: ISANAを活用したカタクチイワシの資源管理に関する情報交換について | 松野様
+CC：皆様
+
+
+お世話になります。
+
+12月16日 11：00～最長12：00
+
+でお時間いただければと思います。
+特に資料等作っていただく必要はありません。
+ISANAでどのようなことが出来そうか、イメージを膨らませるため、ディスカッションできればと思います。
+
+どうぞよろしくお願いします。
+
+毎度のことで恐縮ですが、Web会議に招待いただけると幸いです。
+当方より、私と木村参事が出席する予定です。
+
+どうぞよろしくお願いします。
+
+
+**********************************
+〒730-8511 広島市中区基町10 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/193b00b5a9fbdc71/ | https://mail.google.com/mail/u/0/#inbox/193b00b5a9fbdc71/193b00b5a9fbdc71
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90769258
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/193ab526035a86a9/ | https://mail.google.com/mail/u/0/#inbox/193ab526035a86a9/193ab526035a86a9
+第2回 水産未来サミット【お申込みフォーム】 | Google フォーム
+
+
+「第2回 水産未来サミット【お申込みフォーム】」にご記入いただきありがとうござ 
+います
+フォームの回答
+
+
+第2回 水産未来サミット【お申込みフォーム】
+
+
+【第2回水産未来サミット＠鹿児島 概要】
+
+日時：DAY1 2025年2月28日（金）13:00 - 21:00
+
+DAY2 2025年3月1日（土） 6:00-14:30
+
+開催目的：日本の水産現場を支える漁師、水産会社が主体となって、日本の水産業が 
+抱える本質的な課題を議論し、具体的なアクションプランを作り、実行していくこと 
+を目的として開催します。
+
+開催内 | "Google フォーム" <forms-receipts-noreply@google.com> | https://mail.google.com/mail/u/0/#inbox/193aa385785baf6b/ | https://mail.google.com/mail/u/0/#inbox/193aa385785baf6b/193aa385785baf6b
+Re: レジシステムおよび、在庫管理システム導入支援11月分のご請求 | 磯部様
+
+お世話になっております。
+
+確認いたしました。
+今月中にお支払いいたします。
+
+今後ともよろしくお願いいたします。
+
+
+株式会社マルイチ髙橋商店　髙橋
+
+2024年12月3日(火) 17:24 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>:
+>
+> 株式会社マルイチ高橋商店
+> 高橋様
+>
+> いつもお世話になっております。フィッシャーマン・ジャパン磯部です。
+> レジシステムおよび、在庫管理システム導入のご支援に入らせていただいている件に関しまして、11月分稼働費の御請求書を送付させていただきます。
+ | "髙橋健" <tarako.matsuri@gmail.com> | https://mail.google.com/mail/u/0/#inbox/1938b9cb66471180/ | https://mail.google.com/mail/u/0/#inbox/1938b9cb66471180/193a9ace615a096c
+12 か月の無料利用枠を最大限活用ください | To view this email as a web page, go to the following address: https://pages.awscloud.com/index.php/email/emailWebview?mkt_tok=MTEyLVRaTS03NjYAAAGXR7Fb_vZ01F9JVQlOuH6CXNaBtEEfKKhRgVg76uNxgyhAZh0426PZ3Dom8Pi_HgPuaL2jeilfbCfSynnL6PJldaxr178-20Md9llr11qp7AT0gMIVVbl92A&tkn_set=7goOJ6CUdWJcoW5StqTBe%2FG6 | "アマゾン ウェブ サービス（ AWS ）" <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/193a8b8f5769c9f2/ | https://mail.google.com/mail/u/0/#inbox/193a8b8f5769c9f2/193a8b8f5769c9f2
+ご自身の新規申し込みにも利用可能！「お友達紹介プログラム」のご案内 | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、お得な最新情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　ご自身の新規申し込みにも利用可能！「お友達紹介プログラム」のご案内
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+「お友達紹介プログラム」は、弊社サービスをお友達に紹介いただくことで、
+紹介した方、紹介された方の双方が特典を受けられる大変お得な制度です。
+
+11月28日にプログラム内容をリニューアルし、
+特典がお友達だ | "エックスサーバー ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1939c27404b937e1/ | https://mail.google.com/mail/u/0/#inbox/1939c27404b937e1/1939c27404b937e1
+ISANAを活用したカタクチイワシの資源管理に関する情報交換について | FMJ 川鍋様、磯部様
+LH 松野様
+
+お世話になっております。
+先日のドローンボートの調査ではお世話になりました。
+定置網のデータがちゃんと取れていればよいのですが・・・
+
+ところで、来年度については、定置網を対象とした事業についてできなくなった旨情報提供させていただき、今後、資源管理という視点で情報交換をさせていただきたいとお願いしていたところです。
+
+令和８年度から、新たに県のビジョンを策定する予定で、現在その案出しをしているところです。
+その中で、
+カタクチイワシの資源管理にISANAを活用できないか？
+と検討しているところです。
+
+イメージとしては、ISA | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/1939b7136ad6f003/ | https://mail.google.com/mail/u/0/#inbox/1939b7136ad6f003/1939b7136ad6f003
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97299299
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1939607c2e663a08/ | https://mail.google.com/mail/u/0/#inbox/1939607c2e663a08/1939607c2e663a08
+「報酬及び旅費精算書」の送付について | フィッシャーマン・ジャパン
+磯部高弥様
+
+お世話になっております。
+みやぎ産業振興機構水産室の玉田です。
+
+下記支援事業にてお支払いする謝金・旅費に関する
+「報酬及び旅費精算書」をお送りいたします。
+
+11月８日支援　支援先：丸平かつおぶし様　「専門家派遣事業」　12月13日支払
+
+今後とも、ご支援の程よろしくお願いいたします。
+
+
+
+★★★★★★★★★★★★★★★★★★★★★★★
+
+公益財団法人みやぎ産業振興機構
+
+産業育成支援部　事業支援課　
+
+水産加工業ビジネス支援室　
+
+水産加工支援専門員　　玉田　隆
+
+〒980-0011
+
+宮城県 | "玉田 隆（Takashi Tamada）" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/193956197fd3db24/ | https://mail.google.com/mail/u/0/#inbox/193956197fd3db24/193956197fd3db24
+Getting started with AWS Cost Anomaly Detection - fishermanjapanlab (904233114298) |  [image: Description: awslogo] 
+
+ 
+AWS Account: fishermanjapanlab (904233114298) 
+Hello, 
+As part of your enablement of AWS Cost Explorer, we have configured AWS 
+Cost Anomaly Detection for your account. Cost Anomaly Detection is a cost 
+management service that helps you reduce cost surprises and en | anomalydetection@costalerts.amazonaws.com | https://mail.google.com/mail/u/0/#inbox/19390cb78c03d486/ | https://mail.google.com/mail/u/0/#inbox/19390cb78c03d486/19390cb78c03d486
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92719299
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1938f36efaa55471/ | https://mail.google.com/mail/u/0/#inbox/1938f36efaa55471/1938f36efaa55471
+Amazon Web Services Billing Statement Available [Account: 904233114298] | アマゾンウェブ サービスでございます。いつも大変お世話になっております。
+
+
+お客様のAWSアカウントにおいて、電子請求書が発行されたことをお知らせいたします。これは、12/03/2024 
+
+の請求期間に利用されたサービスの請求書です。請求書、サービスごとの料金詳細、履歴はBilling & Cost Managementコンソールでご覧いただけます。
+
+http://console.aws.amazon.com/billing/home#/bills
+
+アマゾンウェブサービスをご利用いただきありがとうございます。
+
+
+今後ともどうぞよろしくお願いします。
+アマゾン | Amazon Web Services <aws-jp-receivables-support@email.amazon.com> | https://mail.google.com/mail/u/0/#inbox/1938acd8dcdf4e10/ | https://mail.google.com/mail/u/0/#inbox/1938acd8dcdf4e10/1938acd8dcdf4e10
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37433264
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19388145daca6d54/ | https://mail.google.com/mail/u/0/#inbox/19388145daca6d54/19388145daca6d54
+AWS re:Invent 開催中! 今すぐ無料のライブストリームにご登録ください | 今週の Keynotes とInnovation Talks をお見逃しなく。AWS のリーダーやパートナーが最新のお知らせ、製品発表、お客様事例をお伝えします。
+
+----------
+今週の Keynotes と Innovation Talks を無料でライブ配信
+AWS re: Invent 2024 が開催中です！ぜひ登録して無料のライブストリームにご参加ください。AWS のリーダーやパートナーによる大きなお知らせ、製品発表、お客様成功事例の紹介を、オンラインでご視聴いただけます（登録無料）。その他の re:Invent 2024 コンテンツにもオンデマンドでアクセスしていた | Amazon Web Services <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/1938532671d6742e/ | https://mail.google.com/mail/u/0/#inbox/1938532671d6742e/193855977c6046bf
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92701273
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19382c659e0f0a43/ | https://mail.google.com/mail/u/0/#inbox/19382c659e0f0a43/19382c659e0f0a43
+《12/5まで》「.me」ドメインが半額で取得できる！「.me」半額キャンペーン | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、
+お得なキャンペーンの情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　《12/5まで》「.me」ドメインが半額で取得できる！「.me」半額キャンペーン
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+『XServerドメイン』では、2024年11月29日(金)から2024年12月5日(木)まで、
+「.me」半額キャンペーンを実施します。
+
+期間中、新規にお申し込みの「.me」ド | "XServerドメイン キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1937672ab4862b64/ | https://mail.google.com/mail/u/0/#inbox/1937672ab4862b64/1937672ab4862b64
+「お友達紹介プログラム」をリニューアル！報酬対象サービス・期間の追加のほか、ご自身の申し込みにも利用可能に！ | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、最新情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　「お友達紹介プログラム」をリニューアル！報酬対象サービス・期間の追加のほか、ご自身の申し込みにも利用可能に！
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+このたび、「お友達紹介プログラム」をリニューアルしました。
+
+本プログラムは、弊社サービスをお友達に紹介いただくことで、
+紹介した方、紹介された方の双方が特典を受けられる大 | "エックスサーバー ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19371875e192a132/ | https://mail.google.com/mail/u/0/#inbox/19371875e192a132/19371875e192a132
+今後の協業に関するお打ち合わせ | 磯部様
+
+お世話になっております。
+
+先日はお電話にてありがとうございました。
+その際にお話しさせていただいた
+
+  1.  生成AI活用
+  2.  弊社開発案件の協業
+に関して、一度お打ち合わせのお時間をいただきたく存じます。
+
+下記の磯部様のご都合はいかがでしょうか。
+12/3(火) 11:00~12:00,15:00~17:00
+12/4(水) 16:30~19:00
+12/5(木) 17:00~19:00
+
+ご都合をお聞かせいただけますと幸いです。
+ご確認よろしくお願いいたします。
+
+遠山
+
+
+ | "Toyama, Masayuki" <toyama.masayuki@choidigi.com> | https://mail.google.com/mail/u/0/#inbox/1936fb00f9b9e33e/ | https://mail.google.com/mail/u/0/#inbox/1936fb00f9b9e33e/1936fb00f9b9e33e
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37914209
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1936d40179163015/ | https://mail.google.com/mail/u/0/#inbox/1936d40179163015/1936d40179163015
+11/29(金)ひつじサミット関係者の支所訪問の件について | 地区支所
+三浦 さま
+
+いつもお世話になっております。
+フィッシャーマン・ジャパンの阿部です。
+
+掲題の件につきまして、当日は
+11/29(金)_8:30
+に伺いますのでよろしくお願いいたします。
+
+当日訪問するメンバーについて、下記のとおりご共有いたします。
+
+・岩田さん（三星グループ代表）
+・片山さん（エヌエヌ生命保険㈱で家業イノベーションコミュニティを運営）
+・中山さん（㈱マクアケの社長）
+・寺門さん（元BCG/楽天で最近独立された岩田さんのご友人）
+
+また、岩田さんについては別添のとおり簡単なプロフィールやnote記事もありますので、
+こちらも併せて | "阿部賀一" <yoshikazu@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1936cbdaaf121dad/ | https://mail.google.com/mail/u/0/#inbox/1936cbdaaf121dad/1936cbdaaf121dad
+カネダイ笠井_業務委託に関するお問い合わせ | 一般社団法人フィッシャーマン・ジャパン
+
+磯部様
+
+
+
+お世話になっております。株式会社カネダイの笠井です。
+
+以前はDX関連のご相談でご来社いただきましてありがとうございました。
+
+
+
+一点お聞きしたいことがありご連絡いたしました。
+
+弊社では水産加工品のEC販売を行っており、自社サイトやモール型ECサイトにおいて
+商品を出品販売しております。
+
+現在、ECに関連する業務（モール構築や商品ページ作成など）が増加しており、外部
+のノウハウをお持ちの方に業務委託でお願いすることを検討しております。
+
+
+
+以前の打ち合わせの際に、磯部さんの業務効率化関係 | <n.kasai@kanedai-kesennuma.co.jp> | https://mail.google.com/mail/u/0/#inbox/1936b09b42325368/ | https://mail.google.com/mail/u/0/#inbox/1936b09b42325368/1936b09b42325368
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92455184
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1936943ad2837049/ | https://mail.google.com/mail/u/0/#inbox/1936943ad2837049/1936943ad2837049
+【ライトハウス】試行開始日とご契約書について | 千葉様
+
+お世話になっております。
+
+ライトハウスの河口です。
+
+先日はお時間をいただき、誠にありがとうございました。
+
+本日は以下の2点についてご連絡申し上げます。
+
+◾️試行開始日について
+
+12月11日（水）での試行開始を提案させていただきますが、ご都合いかがでしょうか？
+
+初日につきましては、よりスムーズに試行開始できるよう、私が現地に伺わせていただく予定です。
+
+◾️契約書について
+
+契約書はクラウドサインのメールを別途お送りいたしますので、内容をご確認のうえ、
+ご署名をお願いいたします。
+
+ご不明な点やご要望がございましたら、どうぞお気軽に | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/1936780d21e7d1c9/ | https://mail.google.com/mail/u/0/#inbox/1936780d21e7d1c9/1936780d21e7d1c9
+Re: （決行します）【11/27-28】ドローンボート試験について | 川口様
+
+ご連絡ありがとうございます。
+
+決行とのこと承知しましたり
+
+それでは明日の12:00に駐車場でお願い致します。
+
+--------------------------------------
+株式会社ライトハウス
+CTO / エンジニア
+松野 洋介
+
+http://lighthouse-frontier.tech
+
+On Tue, Nov 26, 2024, 15:29 川口 修 <o-kawaguchi88559@pref.hiroshima.lg.jp>
+wrote:
+
+> 皆様
+>
+> 既に南先生は出発されているともうので今更なのですが | "松野洋介" <yosuke.matsuno@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19367297e945cbf1/ | https://mail.google.com/mail/u/0/#inbox/19367297e945cbf1/193676d77bab9741
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97307249
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19362a6ea4fae162/ | https://mail.google.com/mail/u/0/#inbox/19362a6ea4fae162/19362a6ea4fae162
+[来週開催]AWS re: Invent | ライブストリーミングにご登録ください | [来週開催!] Keynotesと Innovation Talks をオンラインでリアルタイムに無料視聴いただけます
+
+---------
+AWS re: Invent に現地から参加することができなくても、CEO のMatt Garmanなどのセッションをオンラインでリアルタイムに視聴いただけます。
+AWS re:Invent がいよいよ来週開催されます。無料のライブストリーミングに登録して、 Keynote や Innovation Talks をリアルタイムでご視聴ください。 AWS のリーダーとパートナーが、新しいサービスを含む様々な発表、お客様成功事例の紹介を行います。その | Amazon Web Services <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/1936100dee95678c/ | https://mail.google.com/mail/u/0/#inbox/1936100dee95678c/1936147086b10941
+[アクションが必要な場合があります] AWS IAM Identity Center の AWS CloudTrail ログに対する今後の変更 | Action may be required] Upcoming changes to AWS CloudTrail logs of AWS IAM Identity Center [AWS Account: 904233114298] [AP-NORTHEAST-1] | English follows Japanese | 英語のメッセージは日本語の後にございます 
+
+いつもお世話になっております。
+
+お客様には AWS IAM Identity Center のインスタンスがあるため、この通信を受信しています。2025 年 1 月 13 日から、IAM Identity Center が送信する AWS CloudTrail フィールドへの変更の実装を開始します。これらの変更により、IAM Identity Center による CloudTrail へのユーザー固有の情報のロギングが最小限に抑えられると同時に、監査ワークフローにおけるユーザー識別が | "Amazon Web Services, Inc." <no-reply-aws@amazon.com> | https://mail.google.com/mail/u/0/#inbox/19358f85e9e7f5be/ | https://mail.google.com/mail/u/0/#inbox/19358f85e9e7f5be/19358f85e9e7f5be
+「.com」「.net」「.xyz」など人気ドメインが《1円》から取得可能！お得なドメイン情報のお知らせ | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、
+『XServerドメイン』で取得可能なお得なドメイン情報をお知らせします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　「.com」「.net」「.xyz」など人気ドメインが《1円》から取得可能！お得なドメイン情報のお知らせ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+当サービスでは、取得も更新も国内最安値(※1)のドメインを多数取り揃えており、
+「.com」「.net」「.xyz」をはじめ、 | "XServerドメイン ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/193524d36dc1cbc2/ | https://mail.google.com/mail/u/0/#inbox/193524d36dc1cbc2/193524d36dc1cbc2
+まだ間に合います。今すぐ 300 USD 分の AWS クレジットをご申請ください | 今すぐ 300 USD 分の AWS クレジットを申請
+
+
+
+
+AWS では、お客様のビジネスに有効な概念実証の構築を支援したいと考えています。お客様のスタートを支援する、300 USD 分の AWS クレジットをご申請いただけます。
+
+申請が承認された場合、お客様の AWS アカウントにクレジットが適用されます。
+
+
+
+
+
+今すぐ申請する > <https://email.awscloud.com/MTEyLVRaTS03NjYAAAGW8GJtJw4j3NYmURuyEv6jfsn3LFZEm9FoeYj0KKj5Oubh5tOJXovOrutkYY4jbQ-Cw | Amazon Web Services <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/1935169f36345f6e/ | https://mail.google.com/mail/u/0/#inbox/1935169f36345f6e/1935169f36345f6e
+Re: 【オンラインMTGの御相談】ETICによる地域コーディネーター養成事業について（経済産業省　林） | 経産省
+林様
+
+お世話になっております。
+フィッシャーマン・ジャパンの弘田です。
+
+ぜひ、ヒアリングに協力させてください。
+・明日：14時～15時
+上記でいかがでしょうか。
+松本と調整できましたら私が参加いたします。
+
+何卒、よろしくお願いいたします。
+
+弘田
+
+
+
+
+2024年11月21日(木) 12:50 林 美由紀 <hayashi-miyuki@meti.go.jp>:
+
+> フィッシャーマンジャパン 松本様、弘田様、磯部様
+>
+> いつもお世話になっております。
+> 経産省の林です。
+>
+> ９月に石巻を訪問した際や、10月の全体交流 | "弘田光聖" <kosei@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1934cd791c23c9b6/ | https://mail.google.com/mail/u/0/#inbox/1934cd791c23c9b6/1934d08981fa47d2
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90635657
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1934cd51aaa9019f/ | https://mail.google.com/mail/u/0/#inbox/1934cd51aaa9019f/1934d0db38c868e9
+👋 You're almost out of blocks | You're approaching your block limit. Upgrade now. ( https://www.notion.so/login?target=plans&utm_campaign=Block+Limit+Approached+-+2024&utm_campaigntype=transactional&utm_content=Email+1+-+CTA+1&utm_medium=email&utm_source=customer.io )
+
+Hi Isobe,
+
+Just a friendly heads up that you've used almos | Notion Team <team@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/1934ac3c5d205159/ | https://mail.google.com/mail/u/0/#inbox/1934ac3c5d205159/1934ac3c5d205159
+ Notionをチームで活用する (1/5)： | ( https://www.notion.so/?utm_campaign=Onboarding+-+2024&utm_campaigntype=transactional&utm_content=Email+1+-+JA&utm_medium=email&utm_source=customer.io )
+
+Experience notes & docs with AI. Start building. ( https://www.notion.so/gallery/categories/work?utm_campaign=Onboarding+-+2024&utm_campaigntyp | "Notionチーム" <team@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/1934a1fd0664a40d/ | https://mail.google.com/mail/u/0/#inbox/1934a1fd0664a40d/1934a1fd0664a40d
+一時的なNotionログインコードは oktio-dothr-ilra-napas です | oktio-dothr-ilra-napas | Notion <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/1934a1ded3a3a867/ | https://mail.google.com/mail/u/0/#inbox/1934a1ded3a3a867/1934a1ded3a3a867
+Re: 「報酬及び旅費精算書」の送付について | 振込です。
+
+2024年11月20日(水) 16:29 玉田 隆（Takashi Tamada） <t-tamada@joho-miyagi.or.jp>:
+
+> 一般社団法人フィッシャーマン・ジャパン
+> 磯部 高弥様
+>
+> お世話になっております。
+> みやぎ産業振興機構水産室の玉田です。
+>
+> 下記支援事業にてお支払いする謝金と旅費に関する
+> 「報酬及び旅費精算書」をお送りいたします。
+>
+> 10月17日 支援先：丸平かつおぶし様 「専門家派遣事業」 11月27日支払
+>
+> よろしくお願いいたします。
+>
+>
+> <https://www.g | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19348799c09ad14f/ | https://mail.google.com/mail/u/0/#inbox/19348799c09ad14f/193488ad5a2b73db
+片木良洋 さんがメッセージを送信しました |  
+遠藤啓  音頭取りありがとうございます！ 遠藤今週末まとまった… 承知しました！ 西川大貴 (Guest) 
+次の土日で前回の続き一緒にできそうだったらやりましょう ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  | "Teams の 片木良洋" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19339f71334a6549/ | https://mail.google.com/mail/u/0/#inbox/19339f71334a6549/1933a899863ebe52
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97704185
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1933583579d572aa/ | https://mail.google.com/mail/u/0/#inbox/1933583579d572aa/1933583579d572aa
+遠藤啓 さんがメッセージを送信しました |  
+了解です！11月からでしたっけ？12月から？ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが Microsoft Teams | "Teams の 遠藤啓" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19335193d594adc7/ | https://mail.google.com/mail/u/0/#inbox/19335193d594adc7/19335193d594adc7
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90111489
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19332bde536bb9ea/ | https://mail.google.com/mail/u/0/#inbox/19332bde536bb9ea/19332bde536bb9ea
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97073452
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1932e7fd4da6553e/ | https://mail.google.com/mail/u/0/#inbox/1932e7fd4da6553e/1932e812afa2a98f
+期間限定公開 | AWS 初心者向けおすすめパスを元に学習を進めよう！ | To view this email as a web page, go to the following address: https://pages.awscloud.com/index.php/email/emailWebview?mkt_tok=MTEyLVRaTS03NjYAAAGWzR430ppoJJTAS5lOFkkZm-b7PAvZFkdgiSMeaSfG2V2o-wEohCCA41039Uj78VWKRDYhAs9a2Tb5r6Ax9a_jYikIwG9R5v9KJK5JKBb-aCKoOSb2YUwlkQ&tkn_set=7goOJ6CUdWJcoW5StqTBcfi4yU | Amazon Web Services <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/1932e293c12a33f5/ | https://mail.google.com/mail/u/0/#inbox/1932e293c12a33f5/1932e35ed1dc3d13
+【リマインド】専門家派遣報告書の提出について | フィッシャーマン・ジャパン
+磯部 様
+
+お世話になっております。
+みやぎ産業振興機構の澁谷です。
+標記の件について、来週月曜日までに報告書（様式10-1）を御提出いただければと思います。
+お手数おかけしますが、ご対応よろしくお願いいたします。
+
+________________________________
+差出人: 澁谷 和明<Kazuaki Shibuya> <k-shibuya@joho-miyagi.or.jp>
+送信日時: 2024年11月11日 08:37
+宛先: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>
+ | "澁谷 和明<Kazuaki Shibuya>" <k-shibuya@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1932e03a34323a36/ | https://mail.google.com/mail/u/0/#inbox/1932e03a34323a36/1932e03a34323a36
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92153674
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1932a011d2a643c5/ | https://mail.google.com/mail/u/0/#inbox/1932a011d2a643c5/1932a89630a39ca0
+一時的なNotionログインコードは syrea-jaha-ryvyd-quvri です | syrea-jaha-ryvyd-quvri | Notion <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/19329f07de2d3e79/ | https://mail.google.com/mail/u/0/#inbox/19329f07de2d3e79/19329f07de2d3e79
+生成AIに特化した高速GPUサーバー『XServer VPS for GPU』の提供を開始 | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、最新情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　生成AIに特化した高速GPUサーバー『XServer VPS for GPU』の提供を開始
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+このたび『XServer VPS』では、
+生成AIに特化した高速GPUサーバー『XServer VPS for GPU』の提供を開始しました。
+
+『XServer VPS for GPU』は | "XServer VPS ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19329649ed89fa80/ | https://mail.google.com/mail/u/0/#inbox/19329649ed89fa80/19329649ed89fa80
+昨日のお礼 | 松本様、磯部様
+
+お世話になっております。チョイデジ株式会社の遠山です。
+
+昨日はお食事をご一緒させていただき、ありがとうございました。
+様々なお話ができ、楽しいひと時を過ごさせていただきました。
+今後ぜひ、様々な面で協業させていただけますと幸いです。
+システムの更新のニーズがあるお客様など、弊社でお役に立てそうなことがございましたら、ご連絡いただけますと幸いです。
+
+この度はありがとうございました。
+今後ともよろしくお願いいたします。
+
+--
+遠山 晶之 / Masayuki Toyama
+チョイデジ株式会社
+〒980-0803　宮城県仙台市青葉区国分町1-8- | "Toyama, Masayuki" <toyama.masayuki@choidigi.com> | https://mail.google.com/mail/u/0/#inbox/19327ef8b8359311/ | https://mail.google.com/mail/u/0/#inbox/19327ef8b8359311/19327ef8b8359311
+最終リマインダー： 【要対応】KatagiがあなたをNotionの🐟 GYOSOMONに招待しました |  
+招待を承諾
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ | "Katagi（Notion経由）" <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/19325cf19ec90367/ | https://mail.google.com/mail/u/0/#inbox/19325cf19ec90367/19325cf19ec90367
+お客様へのご案内です。今すぐ 300 USD の AWS クレジットを申請する | 
+今すぐ 300 USD 分の AWS クレジットを申請しましょう
+お客様のプロファイルの資格に基づき、300 USD 分の AWS クレジットをご申請いただけます。AWS では、ビジネスの成長と拡大に役立つ適切な製品やサービスを見つけていただけるよう、お客様を支援します。
+
+AWS は、お客様がビジネスに合った概念実証を構築できるよう支援したいと考えております。ぜひ、プロジェクトの開始に役立つクレジットをご申請ください。申請が承認された場合、お客様の AWS アカウントにクレジットが適用されます。
+
+
+
+
+
+今すぐ申請する >
+<https://email.awsclo | Amazon Web Services <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/1932310e21c021e8/ | https://mail.google.com/mail/u/0/#inbox/1932310e21c021e8/1932310e21c021e8
+【11/27-28】ドローンボート試験について | 南先生、徳田様
+松野様
+ CC：関係者の皆様
+
+お世話になります。
+
+本日の打合せを踏まえ、漁業者と以下調整しましたので共有します。
+
+１日目（11月27日）
+ ○12：00～13：00の間くらいで出航できる見込み
+ ○調査前に全ての定置網は水揚済みの状態
+
+２日目（11月28日）
+ ○水揚する定置網は前日の調整でOK
+ ○昨年と同じ場所を水揚するのであれば16：00くらいの水揚になる
+ ○昨年行っていないが、横島の北側にも定置網があり、そちらであれば時間を問わず水揚可能
+ ○11/27に北側の定置網にも行ってみて、良さそうなら11/28に調査対象とすることも可 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/1931f4ab3fb12307/ | https://mail.google.com/mail/u/0/#inbox/1931f4ab3fb12307/1931f4ab3fb12307
+🐟 GYOSOMON - 2. 環境設定の最新情報 |  
+トレンドやおすすめをお伝えします
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌      | Notion <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/1931c2a78f44585b/ | https://mail.google.com/mail/u/0/#inbox/1931c2a78f44585b/1931c2a78f44585b
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90793939
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1931a2b7e0131838/ | https://mail.google.com/mail/u/0/#inbox/1931a2b7e0131838/1931a2b7e0131838
+Katagiがあなたを🐟 GYOSOMONに招待しました |  
+招待を承諾
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ | "Katagi（Notion経由）" <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/1931135673260d5e/ | https://mail.google.com/mail/u/0/#inbox/1931135673260d5e/1931135673260d5e
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97578171
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19310703478ef977/ | https://mail.google.com/mail/u/0/#inbox/19310703478ef977/1931070d191a6c05
+遠藤啓 があなたのチャットであなたをメンションしました |  
+西川大貴　cc 片木良洋　磯部高弥   ごめんなさい連絡できてなかった 
+今日所用で入れないのですが、ラムダのステージ変数での繋ぎ変えや、仕様書などどんどん進めちゃってください👍 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  | "Teams の 遠藤啓" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/1931017fe0a0147b/ | https://mail.google.com/mail/u/0/#inbox/1931017fe0a0147b/1931017fe0a0147b
+Re: 業務改善支援の見積もりについて | ご連絡遅くなりました。
+
+打ち合わせですが11月18・19・20日の13：30以降であれば都合が付きます。
+磯部さんのご都合いかがでしょうか？
+
+2024年11月1日(金) 13:03 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>:
+>
+> 株式会社マルイチ髙橋商店
+> 髙橋様
+>
+> お世話になっております。
+> フィッシャーマン・ジャパン磯部です。
+>
+> 先日はヒアリング対応ありがとうございました。
+> 色々と私の方で調査しまして、以下のスケジュールと工数でご支援させていただける見積もりができましたので、ご共有させ | "髙橋健" <tarako.matsuri@gmail.com> | https://mail.google.com/mail/u/0/#inbox/192e5deb39833b20/ | https://mail.google.com/mail/u/0/#inbox/192e5deb39833b20/1930fa97d618e7d4
+報告書様式の送付 | 丸平かつおぶし
+代表取締役 阿部真也 様、阿部晃也 様
+フィッシャーマン・ジャパン
+磯部 様
+
+
+本日はお世話になりました。
+みやぎ産業振興機構の澁谷です。
+報告書様式のワードファイルを送付しますので、
+ご活用いただければと思います。
+〇専門家：（様式１０－１）及び（様式１０ー２）
+〇企業：（様式１１ー２）
+なお、報告書は11/18（月）までにメール送付願います。
+お手数おかけしますが、よろしくお願いいたします。
+
+
+
+________________________________
+差出人: 澁谷 和明<Kazuaki Shibuya> <k-shibuy | "澁谷 和明<Kazuaki Shibuya>" <k-shibuya@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1930aa9b55cae513/ | https://mail.google.com/mail/u/0/#inbox/1930aa9b55cae513/1930aa9b55cae513
+Your temporary Notion login code is 494176 | 494176.0 | Notion <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/193097d3b26c8640/ | https://mail.google.com/mail/u/0/#inbox/193097d3b26c8640/193097d3b26c8640
+【XServer VPS】■重要■契約期限切れ（凍結）VPSアカウントに関するお知らせ(vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【XServer VPS】■重要■ 契約期限切れ（凍結）VPSアカウントに関するお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在ご契約中のVPSアカウントのご利用期限日は「2024年10月31日」で
+ございますが、現時点で料金の | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1930924d5434cb77/ | https://mail.google.com/mail/u/0/#inbox/1930924d5434cb77/1930924d5434cb77
+Re: 株式会社高橋徳治商店_専門家派遣第1回_報告書の送付 | 磯部さん
+
+お世話になっております。
+みやぎ産業振興機構の土谷です。
+
+報告書ありがとうございます。
+また生成AIの資料ありがとうございます。
+内部のみの取り扱いいたします。
+
+内容見させていただきます。
+
+またご相談させてください。
+
+よろしくお願いいたします。
+
+
+
+
+ーーーーーーーーーーーーーーーーーーーー
+
+公益財団法人みやぎ産業振興機構
+
+産業育成支援部　事業支援課　
+
+土谷　亘（ツチヤ　ワタル）
+
+〒980-0011　仙台市青葉区上杉1-14-2
+
+TEL：022-225-6697　FAX：022-263-6923
+
+ーー | "土谷 亘<Wataru Tsuchiya>" <w-tsuchiya@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/193048a0027ed286/ | https://mail.google.com/mail/u/0/#inbox/193048a0027ed286/19308e1fb739e1ed
+Katagiがあなたを🐟 GYOSOMONに招待しました |  
+招待を承諾
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ | "Katagi（Notion経由）" <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/19306e89688dea76/ | https://mail.google.com/mail/u/0/#inbox/19306e89688dea76/19306e89688dea76
+Your temporary Notion login code is 531416 | 531416.0 | Notion <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/19306b4c200fedde/ | https://mail.google.com/mail/u/0/#inbox/19306b4c200fedde/19306b4c200fedde
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97499144
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19306b301258726f/ | https://mail.google.com/mail/u/0/#inbox/19306b301258726f/19306b301258726f
+専門家派遣事業（11/8 13:00～@丸平かつおぶし様） | 丸平かつおぶし
+代表取締役 阿部真也 様、阿部晃也 様
+フィッシャーマン・ジャパン
+磯部 様
+
+お世話になっております。
+みやぎ産業振興機構の澁谷と申します。
+明日（11/8：13:00～）の専門家派遣では、
+当機構から日野コーディネーター、澁谷の２名が同席する予定です。
+なお、明日が専門家派遣の最終回となりますので、
+今後の展開等についてもお話できればと思います。
+どうぞよろしくお願いいたします。
+
+
+-----------------------------------------------------
+
+公益財団法人みやぎ産業振興機構
+
+産業育成支援 | "澁谷 和明<Kazuaki Shibuya>" <k-shibuya@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19304f77d7cd12b6/ | https://mail.google.com/mail/u/0/#inbox/19304f77d7cd12b6/19304f77d7cd12b6
+データベース戦略の最適化に向けてAWS re:Inventで最新情報、事例を学びましょう | 
+
+
+
+AWS re:Invent 2024
+https://reinvent.awsevents.com/experience/?trk=33a2ef62-d2e8-42cd-925c-173a8eebcf2b&sc_channel=em
+
+----------
+
+AWS のデータベースで生成 AI の強固な基盤を構築
+生成 AI アプリケーションの独自の要件をサポートする、AWS のデータベースの活用方法を紹介するセッションにご参加ください。AWS re:Invent では、データ主導のワークロードの可能性を広げる新機能やイノベーションについてのインサイトを得ることがで | Amazon Web Services <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/193045ed61c8b74a/ | https://mail.google.com/mail/u/0/#inbox/193045ed61c8b74a/193045ed61c8b74a
+一時的なNotionログインコードは 309859 です | 309859.0 | Notion <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/1930207f401d524f/ | https://mail.google.com/mail/u/0/#inbox/1930207f401d524f/1930207f401d524f
+片木良洋 mentioned everyone in a chat in Microsoft Teams |  
+皆様 現在Notionというツールの中でAPI (Lambda)の仕様書等を書いてみています。 
+私が作成したワークスペースに皆さんを招待させていただいているので、メールを確認して参加いただくと中身を確認できるようにな... ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams の 片木良洋 (ゲスト)" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19301fde34a0cae5/ | https://mail.google.com/mail/u/0/#inbox/19301fde34a0cae5/19301fde34a0cae5
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97363996
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19301c76e374ad72/ | https://mail.google.com/mail/u/0/#inbox/19301c76e374ad72/19302079498919e5
+Katagiがあなたを🐟 GYOSOMONに招待しました |  
+招待を承諾
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ | "Katagi（Notion経由）" <notify@mail.notion.so> | https://mail.google.com/mail/u/0/#inbox/19301c22e0246fa3/ | https://mail.google.com/mail/u/0/#inbox/19301c22e0246fa3/19301c22e0246fa3
+Fwd: 【PayPay】取引が完了しました (決済番号：04567502882608185349) | ---------- Forwarded message ---------
+From: <info@paypay-corp.co.jp>
+Date: 2024年11月6日(水) 15:02
+Subject: 【PayPay】取引が完了しました (決済番号：04567502882608185349)
+To: <bridge@fishermanjapan.com>
+
+
+[image: PayPayロゴ]
+
+一般社団法人フィッシャーマン・ジャパン フィッシャーマン・ジャパン外販部
+
+端末ID 05-HsBK0qSeYpd5JsBe
+
+決済が完了しました
+[image:  | "FJ秋月琴音" <kotone@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1930077b2a9e15b1/ | https://mail.google.com/mail/u/0/#inbox/1930077b2a9e15b1/1930077b2a9e15b1
+Re: 【打合せ:12日11～12時承知】秋のドローンボート試験について | 川口様、南先生
+
+打合せの調整ありがとうございます。
+それでは12日（火）の11時よりよろしくお願いいたします。
+
+こちらでZoomを用意いたしましたので
+当日はこちらよりよろしくお願いいたします。
+
+株式会社ライトハウス is inviting you to a scheduled Zoom meeting.
+
+Topic: 広島県様お打ち合わせ
+Time: Nov 12, 2024 11:00 AM Osaka, Sapporo, Tokyo
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/81608827571?pwd | "松野洋介" <yosuke.matsuno@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/192fa2dc61603130/ | https://mail.google.com/mail/u/0/#inbox/192fa2dc61603130/192fa4d70bad744c
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90977831
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192fa12f5c61a4b7/ | https://mail.google.com/mail/u/0/#inbox/192fa12f5c61a4b7/192fa12f5c61a4b7
+【お礼】魚探調査結果の送付について | 南先生
+
+お世話になります。
+
+１回目調査結果についての共有ありがとうございました。
+添付ファイルに気づいておりませんでした・・・
+
+また、２回目調査時にでもご解説いただければと思います。
+今後ともよろしくお願いします。
+
+**********************************
+〒730-8511　広島市中区基町10-52
+広島県農林水産局水産課
+主査　川口 修
+o-kawaguchi88559@pref.hiroshima.lg.jp
+TEL　082-513-3611（ダイヤルイン）
+FAX　082-227-1579
+テレワーク時：050-53 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/192f9c3b93e62159/ | https://mail.google.com/mail/u/0/#inbox/192f9c3b93e62159/192f9c3b93e62159
+片木良洋 さんがメッセージを送信しました |  
+19:00-21:00参加可能です。 
+21時から別作業ありまして、zoomに残っておくことはできますが主にそちらの作業を優先させてください。 ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams の 片木良洋" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192f7e990f032bdb/ | https://mail.google.com/mail/u/0/#inbox/192f7e990f032bdb/192f7e990f032bdb
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90412971
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192f79651eaf6f4b/ | https://mail.google.com/mail/u/0/#inbox/192f79651eaf6f4b/192f79651eaf6f4b
+清水健佑 が GYOSOMON であなたをメンションしました |  
+11/12,13,14でいかがでしょうか？ 
+aendous7 (ゲスト) isobe (ゲスト) 西川大貴 (ゲスト) 片木良洋 (ゲスト) ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams の 清水健佑" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192f4d892a74a079/ | https://mail.google.com/mail/u/0/#inbox/192f4d892a74a079/192f4d892a74a079
+片木良洋 さんがメッセージを送信しました |  
+西川大貴 (Guest) 
+リスケでお願いします！ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが Microsoft Te | "Teams の 片木良洋" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192f12cd50d93b01/ | https://mail.google.com/mail/u/0/#inbox/192f12cd50d93b01/192f12cd50d93b01
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92327455
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192ed1e571cd6431/ | https://mail.google.com/mail/u/0/#inbox/192ed1e571cd6431/192ed1e571cd6431
+【宮城県】面談の御礼 | 一般社団法人フィッシャーマン・ジャパン
+
+磯部　高弥　様、香川　幹　様、萬造寺　里緒　様
+
+＜CC：中小企業支援室　黒澤室長＞
+
+ 
+
+いつもお世話になっております。
+
+宮城県中小企業支援室の佐藤でございます。
+
+ 
+
+本日はお忙しい中ご面談をいただきありがとうございました。
+
+改めまして貴社の事業内容に理解が及び、とても共感できる内容がたくさん
+
+ございました。最先端都市・石巻（第二の鯖江）を目指しておられるとのこと、
+
+ぜひ我々もコラボさせていただきたいと感じました。
+
+ 
+
+石巻水産加工業者の共同化（生産管理システムの例）などは、当室事業の | "中小企業支援室　企画調整班" <chukisip@pref.miyagi.lg.jp> | https://mail.google.com/mail/u/0/#inbox/192e6dfd1c9888ff/ | https://mail.google.com/mail/u/0/#inbox/192e6dfd1c9888ff/192e6dfd1c9888ff
+《2/28まで》「汎用JP」ドメインが1円で取得できる！汎用JP割引キャンペーン | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、
+お得なキャンペーンの情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　《2/28まで》「汎用JP」ドメインが1円で取得できる！汎用JP割引キャンペーン
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+『XServerドメイン』では、2024年11月1日(金)から2025年2月28日(金)まで、
+「汎用JP割引キャンペーン」を実施します。
+
+『XServerドメイン』では、
+通 | "XServerドメイン キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192e5e514d9a6de8/ | https://mail.google.com/mail/u/0/#inbox/192e5e514d9a6de8/192e5e514d9a6de8
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92709207
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192e52a11b52dad4/ | https://mail.google.com/mail/u/0/#inbox/192e52a11b52dad4/192e52a11b52dad4
+aendous7 が GYOSOMON であなたをメンションしました |  
+isobe すみません、19日別の打ち合わせが入ってしまい、参加厳しくなりました、、、 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+ | "Teams の aendous7" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192e51bd3dbecb76/ | https://mail.google.com/mail/u/0/#inbox/192e51bd3dbecb76/192e51bd3dbecb76
+【XServer VPS】■重要■ VPSアカウント凍結予定のお知らせ (vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【XServer VPS】■重要■ VPSアカウント凍結予定のお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+現在ご契約中のVPSアカウント「vps-2024-09-24-15-49-43」は、
+ご利用期限日である【2024年10月31 | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192e42a2192ec7c9/ | https://mail.google.com/mail/u/0/#inbox/192e42a2192ec7c9/192e42a2192ec7c9
+《1/9まで延長》「.com/.net/.jp」など、超人気ドメインが1円で移管できる！移管《1円》キャンペーン | 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-language" content="ja">
+<title>Xserverドメインメール</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+ | "XServerドメイン キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192e1a316ad0c289/ | https://mail.google.com/mail/u/0/#inbox/192e1a316ad0c289/192e1a316ad0c289
+【日程変更依頼】秋のドローンボート試験について | 松野様、南先生
+CC：関係者の皆様
+
+
+お世話になります。
+
+秋のドローンボート調査について、先日、
+
+> 漁業者と相談した結果、11月26、27日の日程で調査とし、28、29日を予備日
+
+と決定していたところですが、
+先ほど、現地漁協より連絡があり、11月26日を外して欲しいと言われました。
+そのため、予備日を採用させていただき、
+
+11月27，28日の調査（29日予備日）としたいと考えております。
+
+ご都合のほどいかがでしょうか？
+
+
+
+**********************************
+〒730-8511 広島市中区基町10-5 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/192e16fce3f82f4c/ | https://mail.google.com/mail/u/0/#inbox/192e16fce3f82f4c/192e16fce3f82f4c
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37510563
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192e13ab3618e48d/ | https://mail.google.com/mail/u/0/#inbox/192e13ab3618e48d/192e13ab3618e48d
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ (vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在ご契約中のVPSアカウントのご利用期限日は
+「2024年10月31日」でございます。
+
+────────── | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192e04e0c0ca7488/ | https://mail.google.com/mail/u/0/#inbox/192e04e0c0ca7488/192e04e0c0ca7488
+西川大貴 があなたのチャットであなたをメンションしました |  
+清水健佑(isobe (ゲスト)aendous7 (ゲスト)) 夜分遅くに失礼いたします。 以下の明細の不具合を修正致しましたのでご報告いたします。 
+（動作確認の際に誤って熊本水産...[Image] ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ | "Teams の 西川大貴 (ゲスト)" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192de33c7b90fb74/ | https://mail.google.com/mail/u/0/#inbox/192de33c7b90fb74/192de33c7b90fb74
+     Microsoft Teams へようこそ |  Teams-Onb-FreeGettingStartedWelcomeRefresh-1-EM-Txn 
+最初の会議を今すぐ簡単に設定できます。
+͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌ 
+  ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ 
+‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏  | Microsoft Teams <Teams@notifications.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192ddf6d0fc4d54e/ | https://mail.google.com/mail/u/0/#inbox/192ddf6d0fc4d54e/192ddf6d0fc4d54e
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90679199
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192dddd0d9ead8b1/ | https://mail.google.com/mail/u/0/#inbox/192dddd0d9ead8b1/192dde4fcd1c83e4
+aendous7 さんがメッセージを送信しました |  
+@ ごめんなさい遅くなりました。 
+一個遅い打ち合わせはいっちゃって23時頃になるかもです。。。 ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは | "Teams の aendous7" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192dce322fc69918/ | https://mail.google.com/mail/u/0/#inbox/192dce322fc69918/192dce322fc69918
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92094117
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192dc070805539d4/ | https://mail.google.com/mail/u/0/#inbox/192dc070805539d4/192dc070805539d4
+西川大貴 さんがメッセージを送信しました |  
+aendous7 (ゲスト) 
+本日ですが22時からでよろしいでしょうか？ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+こんにちは、 
+チームメイトが  | "Teams の 西川大貴" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192dbc1c9f690567/ | https://mail.google.com/mail/u/0/#inbox/192dbc1c9f690567/192dbc1c9f690567
+清水健佑 が GYOSOMON であなたをメンションしました |  
+いつやりましょうか？ 
+aendous7 (ゲスト) isobe (ゲスト) 西川大貴 (ゲスト) 片木良洋 (ゲスト) ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  | "Teams の 清水健佑" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192d7fb781a94d48/ | https://mail.google.com/mail/u/0/#inbox/192d7fb781a94d48/192d7fb781a94d48
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+97278080
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192d67fadc36c330/ | https://mail.google.com/mail/u/0/#inbox/192d67fadc36c330/192d67fadc36c330
+【10月31日開催】AWS AI Day | 生成 AI を学ぶ半日の集中セミナー 〜AWS のテクノロジーで加速する生成 AI のプロダクション活用〜 | AWS AI Day
+<https://email.awscloud.com/MTEyLVRaTS03NjYAAAGWdGna3em3mofbwGL9zUZJ5OSUvan29EzQwDFKOE7BDInV1Wdcf87KIelf990Ls5EhcljIKNE=>
+
+==================================
+
+【10 月 31 日開催】AWS AI Day
+
+10 月 31 日に生成 AI を学ぶ半日の集中セミナー「AWS AI Day」を開催します。本イベントは生成 AI の実用化をテーマに、今まさに生成 AI 活用に取り組まれている企業の皆様の事例 | "アマゾン ウェブ サービス（AWS）" <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/192d57574673cfbf/ | https://mail.google.com/mail/u/0/#inbox/192d57574673cfbf/192d576fda1d1720
+Re: 【ライトハウス】次回の往訪の日程11/18-19　★ご依頼：デモの時間枠のご返信 | 千葉様
+
+
+お世話になっております。
+
+
+お電話でお話しさせていただきましたとおり、
+
+次回の訪問につきまして、11月17日（月）～11月18日（火）の2日間でお願いいたします。
+
+
+◾️1日目は、営業や事務、製造のご担当者様を含む皆様で一緒に、提案フローのデモンストレーションを実施し、詳細なフィードバックを頂戴したく考えております（所要時間
+約60分）。
+
+
+*★**ご依頼：*
+
+*皆さんにお集まりいただけるご都合の良い時間枠（60分）を本メールへご返信にて、あらかじめお知らせをお願いいたします。*
+
+また、デモの前後で千葉様とのお打ち合わせの時間をそれ | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/192d24d900b8613b/ | https://mail.google.com/mail/u/0/#inbox/192d24d900b8613b/192d24d900b8613b
+Re: 専門家派遣事業（末永海産様）に係る報告書_第六回について | 一般社団法人 フィッシャーマン・ジャパン
+磯部様
+
+いつも大変お世話になっております。
+みやぎ産業振興機構水産加工ビジネス支援室の吉田です。
+
+報告書を御提出いただきありがとうございます。
+１点確認をさせてください。
+実施日は22日と思っていたのですが
+実際には23日だったのでしょうか？
+それとも単なる誤記でしょうか。
+細かくて恐縮ですが、御回答願います。
+
+
+□□□□□□□□□□□□□□□□□□□□□□□□
+
+公益財団法人　みやぎ産業振興機構
+
+　産業育成支援部　事業支援課　
+
+   水産加工業ビジネス支援室長　吉田　浩志
+
+〒980-0011 宮 | "吉田 浩志<Hiroshi Yoshida>" <h-yoshida@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/192c0a524f8e8386/ | https://mail.google.com/mail/u/0/#inbox/192c0a524f8e8386/192d203642ec70a5
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ (vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在ご契約中のVPSアカウントのご利用期限日は
+「2024年10月31日」でございます。
+
+────────── | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192d0daec78c8f13/ | https://mail.google.com/mail/u/0/#inbox/192d0daec78c8f13/192d0daec78c8f13
+西川大貴 さんがメッセージを送信しました |  
+来週予定 30(水) 時間 未定（夜） APIGateway設定作業残実行   3(日) 時間 
+19:00（仮）他作業残実行  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  | "Teams の 西川大貴 (ゲスト)" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192ce8dddc5926c3/ | https://mail.google.com/mail/u/0/#inbox/192ce8dddc5926c3/192ce8dddc5926c3
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+90196781
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192cd0c0dcc1afcf/ | https://mail.google.com/mail/u/0/#inbox/192cd0c0dcc1afcf/192cd0c0dcc1afcf
+aendous7 さんがメッセージを送信しました |  
+ とりあえず、ステージ変数を使ったLambdaのDynamoの繋ぎ先変更をやるのがよいのかなというイメージです   先週やる予定だった― 
+アプリケーション(Javascript) - 
+(残)... ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌  | "Teams の aendous7 (ゲスト)" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192cc9d68abc4d47/ | https://mail.google.com/mail/u/0/#inbox/192cc9d68abc4d47/192ccee1a59a0b83
+西川大貴 さんがメッセージを送信しました |  
+片木良洋 (ゲスト) aendous7 (ゲスト) 遅くなりましたが修正をPullしましたので、お手すきの際にご確認お願い致します。 
+修正内容は下図１になります。 
+元々productN...[Image][Image][Image] ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams の 西川大貴 (ゲスト)" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192cc1e8c1d91e65/ | https://mail.google.com/mail/u/0/#inbox/192cc1e8c1d91e65/192cc1e8c1d91e65
+【三星毛糸】ひつじサミット尾州2024受付フォーム | Google フォーム
+
+
+「【三星毛糸】ひつじサミット尾州2024受付フォーム」にご記入いただきありがとう 
+ございます
+フォームの回答
+
+
+【三星毛糸】ひつじサミット尾州2024受付フォーム
+
+三星毛糸のイベントにご参加いただくにあたり、以下への回答をお願いたします。
+＊受付をされたかどうか、会場内で確認する場合がございます。その際は登録後送信 
+されたメールをご提示ください。
+
+
+メールアドレス *
+
+
+isobe@fishermanjapan.com
+
+
+代表者氏名 *
+
+
+磯部高弥
+
+
+ご自身を含めた参加人数 *
+
+
+5
+ | "Google フォーム" <forms-receipts-noreply@google.com> | https://mail.google.com/mail/u/0/#inbox/192c73dcfca1c01b/ | https://mail.google.com/mail/u/0/#inbox/192c73dcfca1c01b/192c73dcfca1c01b
+RE: ９月分の売上、仕入データをお送りします。 | 磯部様
+
+お世話になっております。
+
+エラーがでた所のスクリーンショットお送りします。
+ご確認よろしくお願いいたします。
+
+
+(株)マルカ髙橋水産
+小林
+
+-----Original Message-----
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Friday, October 25, 2024 9:45 PM
+To: rie-kobayashi@maruka-t.com
+Subject: ９月分の売上、仕入データをお送りします。
+
+株式会社マルカ高橋水産　小林様
+
+お世話にな | <rie-kobayashi@maruka-t.com> | https://mail.google.com/mail/u/0/#inbox/192c3b405b834e98/ | https://mail.google.com/mail/u/0/#inbox/192c3b405b834e98/192c66b53fead5b6
+【ライトハウス】【◻︎商品情報◻︎：シート入力】のご依頼 | 千葉さま
+
+
+お世話になっております。
+
+現在、準備をがんばって進めております。
+
+
+商品マスタを整備するにあたってご依頼させていただきたく。
+事前にいただいた「スマイル新商品コード表」と「販売日計の品目シート」
+で一方にあって一方にはないアイテム、などもあるなどもあり、
+
+前回のMTGで千葉さんがおっしゃっていった「この商品のこの運送会社で1甲あたりの合わせ上限数」等々の情報も必要ですので、
+恐れ入りますが千葉さんの方でご入力のご協力をお願いしたく。
+
+
+◾️依頼内容◾️
+
+添付のスプレッドシートのクリーム色の箇所にご入力いただければと思います。
+
+基 | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/192c22baebf04fb8/ | https://mail.google.com/mail/u/0/#inbox/192c22baebf04fb8/192c22baebf04fb8
+『XServer VPS』紹介した人もされた人も一緒におトク！お友達紹介プログラムのご案内 | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+『XServer VPS』紹介した人もされた人も一緒におトク！ お友達紹介プログラムのご案内
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき、誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+本日は、『XServer VPS』の「お友達紹介プログラム」についてご案内いたします。
+
+「お友達紹 | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192bd8af46760ced/ | https://mail.google.com/mail/u/0/#inbox/192bd8af46760ced/192bd8af46760ced
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ (vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在ご契約中のVPSアカウントのご利用期限日は
+「2024年10月31日」でございます。
+
+────────── | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192bc415f4ee04b1/ | https://mail.google.com/mail/u/0/#inbox/192bc415f4ee04b1/192bc415f4ee04b1
+《重要》パスワードの変更をお願いします【Times CAR】 | ※本メールは、重要なお知らせのためメールマガジンの配信を希望しない方へもお送りしております。
+
+タイムズカーは、2023年11月28日よりセキュリティ強化のため、マイページのログインパスワードの設定ルールを変更しました。
+今後、パスワードが推奨条件を満たしていない場合は、タイムズカーのサービスをご利用いただけなくなりますので、お早めにご変更をお願いします。
+
+なお、パスワードの変更が必要な会員様には、マイページのトップ画面に、赤字で「パスワード推奨条件を満たしていません」という表示があります。
+上記表示のすぐ下にある「パスワード変更」ボタンを押して、変更画面に進んでください。
+※ | "タイムズカー" <magazine@mail.timescar.jp> | https://mail.google.com/mail/u/0/#inbox/192b7d66422ac603/ | https://mail.google.com/mail/u/0/#inbox/192b7d66422ac603/192b7d66422ac603
+【JR東海MARKET：最終案内メール】出発前のご案内 | 磯部　高弥　様
+
+この度は、「POTLUCK TRAIN 尾州【岐阜】」にお申込みをいただき、誠にありがとうございます。
+
+まもなく当日となりますので、「最終のご案内」を送付いたします。
+集合時間・集合場所など、必ず以下のURLから事前にご確認のうえご参加ください。
+なお、本メールを受付時に確認させていただきます。
+URL：https://travel.jr-central.co.jp/contents/pdf/plan/241023_bishu1025.pdf
+集合場所：東京ミッドタウン八重洲
+URL：https://www.potluck-yaesu.com/about/ | "JR東海ツアーズ" <info.jrtours-market@jr-central.co.jp> | https://mail.google.com/mail/u/0/#inbox/192b745263610e92/ | https://mail.google.com/mail/u/0/#inbox/192b745263610e92/192b745263610e92
+【いよいよ来週開催】AWS AI Day 生成 AI の実用化 | 責任ある AI 、生成 AI 機能実装のベストプラクティス、Meta・Anthropic 登壇など | いよいよ来週開催！AWS AI Day
+<[https://aws.amazon.com/jp/events/ai-day/?trkCampaign=ai-day&trk=ef4a6614-818e-4dfc-9576-99a7cfbd125f&sc_channel=em]]>
+
+==================================
+
+生成 AI の実用化（プロダクション活用）をテーマにしたイベント「AWS AI Day」が 10 月 31 日（木）に開催です。 業務活用で重要なセキュリティ、責任ある AI について最新情報や押さえておくべきポイント、PoC を次のス | "アマゾン ウェブ サービス（AWS）" <aws-marketing-email-replies@amazon.com> | https://mail.google.com/mail/u/0/#inbox/192b6efc3bc0326d/ | https://mail.google.com/mail/u/0/#inbox/192b6efc3bc0326d/192b6efc3bc0326d
+西川大貴 さんがメッセージを送信しました |  
+片木良洋  git branchで表示されるのは自分のローカルのブランチなので、… 片木良洋 (ゲスト) ありがとうございます！ 
+今晩やってみます！ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ | "Teams の 西川大貴" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192b65cece0bb933/ | https://mail.google.com/mail/u/0/#inbox/192b65cece0bb933/192b65cece0bb933
+1 件のメッセージ、1 件のメンション があります |  
+isobe (ゲスト) 起案ありがとうございます。 こちら全員いいねマークついているということで、具体的に指揮とって進めてもらえると嬉しいです。 
+集まる必要あれば、ぜひ調整からお願いできると助かります！ 
+... ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ | "Teams に新しいアクティビティがあります" <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192b4a560ccf9077/ | https://mail.google.com/mail/u/0/#inbox/192b4a560ccf9077/192b4a560ccf9077
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37315630
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft 経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192b3902b9276958/ | https://mail.google.com/mail/u/0/#inbox/192b3902b9276958/192b3902b9276958
+Re: 丸平かつおぶし様の支援報告書（第4回）について | 
+磯部様
+
+お世話になっております。玉田です。
+「報告書」の提出ありがとうございます。
+
+引き続き、ご支援よろしくお願いいたします。
+
+玉田
+________________________________
+差出人: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>
+送信日時: 2024年10月21日 10:39
+宛先: 玉田 隆<Takashi Tamada> <t-tamada@joho-miyagi.or.jp>
+件名: 丸平かつおぶし様の支援報告書（第4回）について
+
+玉田様
+
+お世話になっております。フィッシ | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/192acb9ed85efb5f/ | https://mail.google.com/mail/u/0/#inbox/192acb9ed85efb5f/192acd945ee3f67c
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92648511
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192acbe41c163f58/ | https://mail.google.com/mail/u/0/#inbox/192acbe41c163f58/192acbe41c163f58
+Re: 「丸平かつおぶし」「末永海産」の支援について | 磯部様
+
+お世話になっております。玉田です。
+ご連絡ありがとうございます。
+
+丸平かつおぶし様の第4回支援お疲れ様でした。
+常務ヒアリングでしたね。
+できれば、機構職員も同席したかったのですが残念でした。
+「報告書」の提出お願いいたします。
+
+最終回（11月8日（金））は、当機構の吉田室長と澁谷副参事が同席いたします。
+今後の支援等についてもお話をさせていただければと思います。
+
+また、明日（22日（火））13時からの末永海産様は機構職員の同席は
+「なし」です。
+
+よろしくお願いいたします。
+
+★★★★★★★★★★★★★★★★★★★★★★★
+
+公益財団法 | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/192ac6fb643f0ec1/ | https://mail.google.com/mail/u/0/#inbox/192ac6fb643f0ec1/192ac6fb643f0ec1
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+92995012
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192a73f48ee15864/ | https://mail.google.com/mail/u/0/#inbox/192a73f48ee15864/192a73f48ee15864
+お使いのメール アドレスの確認 | Microsoft アカウント
+
+お使いのメール アドレスの確認
+
+お客様の Microsoft アカウントのセットアップを完了するには、このメール アドレスがご本人のものであることを確認する必要があります。
+
+メール アドレスを確認するには、次のセキュリティ コードを使用してください: 072683
+
+お客様がこのコードを請求していない場合は、このメールを無視しても問題ありません。他のユーザーが誤ってお客様のメール アドレスを入力した可能性があります。
+
+サービスのご利用ありがとうございます。
+Microsoft アカウント チーム 
+プライバシーに関する声明: ht | "Microsoft アカウント チーム" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192a73c5d83ed60b/ | https://mail.google.com/mail/u/0/#inbox/192a73c5d83ed60b/192a73c5d83ed60b
+AWS リソースへのアクセスリクエストが検証されました | <html xmlns="http://www.w3.org/1999/xhtml"><body width="100%" bgcolor="#F0F2F3" style="margin: 0;"><center style="width: 100%; background: #F0F2F3; text-align: left;"><div style="margin: auto; max-width: 600px; padding-top: 50px;"><!-- Email Header : BEGIN --><table role="presentation" cellspacing=" | Amazon Web Services <no-reply@amazonaws.com> | https://mail.google.com/mail/u/0/#inbox/192a068218335ba3/ | https://mail.google.com/mail/u/0/#inbox/192a068218335ba3/192a068218335ba3
+Amazon Web Services アカウントの準備ができました - 今すぐ始めましょう | <html xmlns="http://www.w3.org/1999/xhtml"><body width="100%" bgcolor="#F0F2F3" style="margin: 0;"><center style="width: 100%; background: #F0F2F3; text-align: left;"><div style="margin: auto; max-width: 600px; padding-top: 50px;"><!-- Email Header : BEGIN --><table role="presentation" cellspacing=" | Amazon Web Services <no-reply@amazonaws.com> | https://mail.google.com/mail/u/0/#inbox/192a01aa94a07ea9/ | https://mail.google.com/mail/u/0/#inbox/192a01aa94a07ea9/192a01aaae9c7036
+AWS Support (Basic) サインアップの確認 | <html xmlns="http://www.w3.org/1999/xhtml"><body width="100%" bgcolor="#F0F2F3" style="margin: 0;"><center style="width: 100%; background: #F0F2F3; text-align: left;"><div style="margin: auto; max-width: 600px; padding-top: 50px;"><!-- Email Header : BEGIN --><table role="presentation" cellspacing=" | Amazon Web Services <no-reply@amazonaws.com> | https://mail.google.com/mail/u/0/#inbox/192a01a79505990a/ | https://mail.google.com/mail/u/0/#inbox/192a01a79505990a/192a01a79505990a
+アマゾンウェブサービス | <html xmlns="http://www.w3.org/1999/xhtml"><body width="100%" bgcolor="#F0F2F3" style="margin: 0;"><center style="width: 100%; background: #F0F2F3; text-align: left;"><div style="margin: auto; max-width: 600px; padding-top: 50px;"><!-- Email Header : BEGIN --><table role="presentation" cellspacing=" | Amazon Web Services <no-reply@amazonaws.com> | https://mail.google.com/mail/u/0/#inbox/1929eb2f49070706/ | https://mail.google.com/mail/u/0/#inbox/1929eb2f49070706/1929eb2f49070706
+E メールアドレスを検証してください | E メールアドレスを検証してください
+
+いつも Amazon Web Services をご利用いただき、ありがとうございます,
+Amazon Web Services の新規アカウント作成プロセスを開始していただき、ありがとうございます。お客様がご本人様であることを確認させていただきたく、ご連絡しております。アカウントの作成を完了するには、次の検証コードを入力してください。Amazon Web Services のアカウントを作成しない場合は、このメッセージを無視してください。
+
+検証コード: 673505 (このコードは、送信後 10 分間有効です。)
+
+Amazon Web Servic | no-reply@signup.aws | https://mail.google.com/mail/u/0/#inbox/1929ead613bd3cf8/ | https://mail.google.com/mail/u/0/#inbox/1929ead613bd3cf8/1929ead613bd3cf8
+人気ドメインが《1円》から取得可能！お得なドメイン情報のお知らせ | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、
+『XServerドメイン』で取得可能な
+お得なドメイン情報をお知らせします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　人気ドメインが《1円》から取得可能！ お得なドメイン情報のお知らせ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+当サービスでは、取得も更新も国内最安値(※1)のドメインを多数取り揃えており、
+「.com」「.net」をはじめ、人気のドメインが《1円》から取得できます！
+ | "XServerドメイン ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192992ede9046701/ | https://mail.google.com/mail/u/0/#inbox/192992ede9046701/192992ede9046701
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ (vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【XServer VPS】■重要■ VPSアカウント契約更新に関するお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XServerアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在ご契約中のVPSアカウントのご利用期限日は
+「2024年10月31日」でございます。
+
+────────── | "XServerアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192983507d9b233c/ | https://mail.google.com/mail/u/0/#inbox/192983507d9b233c/192983507d9b233c
+株式会社八葉水産 のアカウント確認コード | 株式会社八葉水産 のアプリとリソースにアクセスするには、アカウントの検証に次のコードを使用してください。コードを使用できるのは 30 分間のみです。
+
+アカウント確認コード:
+37394453
+
+
+                コードを要求していない場合は、このメールは無視できます。
+             
+プライバシーに関する声明: https://go.microsoft.com/fwlink/?LinkId=521839 | プライバシーに関するお問い合わせ: https://privacy.microsoft.com/ja-jp/privacy-questions | "株式会社八葉水産 (Microsoft  経由)" <account-security-noreply@accountprotection.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/19295efec40f8bd8/ | https://mail.google.com/mail/u/0/#inbox/19295efec40f8bd8/19295efec40f8bd8
+You have been added as a guest to 株式会社八葉水産 in Microsoft Teams |  
+Microsoft Teams 
+A Microsoft customer, *健佑*, from the *株式会社八葉水産* organization has added you 
+to a team. 
+Team name 
+*GYOSOMON* 
+Open Microsoft Teams 
+<https://login.microsoftonline.com/redeem?rd=https%3a%2f%2finvitations.microsoft.com%2fredeem%2f%3ftenant%3d4ae590aa-18c6-442c-98b3-190b721e9f47%26u | Microsoft Teams <noreply@email.teams.microsoft.com> | https://mail.google.com/mail/u/0/#inbox/192946f490b0129a/ | https://mail.google.com/mail/u/0/#inbox/192946f490b0129a/192946f490b0129a
+「報酬及び旅費精算書」の送付について | フィッシャーマン・ジャパン
+磯部　高弥様
+
+お世話になっております。
+みやぎ産業振興機構水産室の玉田です。
+
+下記支援にてお支払いする謝金・旅費に関する
+「報酬及び旅費精算書」をお送りいたします。
+
+9月13日及び9月27日　「専門家派遣事業」　丸平かつおぶし様　10月24日振込
+8月19日、26日及び9月4日　「専門家派遣事業」　末永海産様　10月24日振込
+
+ご不明の点がありましたら、お問い合わせください。
+
+なお、各社の次回支援日時が決まっておりましたら
+ご連絡願います。（丸平かつおぶし様残り2回　末永海産様残り3回）
+
+よろしくお願いいたします。
+
+ | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19293249ce1c3fc1/ | https://mail.google.com/mail/u/0/#inbox/19293249ce1c3fc1/19293249ce1c3fc1
+【インターン事業のご案内】フィッシャーマン・ジャパン松本 | 宮城エクスプレス株式会社
+宇都宮 光博様
+
+いつもお世話になっております。フィッシャーマン・ジャパンの松本です。
+
+先日は、素学塾にて私の拙いお話を聞いていただきありがとうございました。
+
+今回は、大学生インターンシップの取り組みについてなど、
+漁師、水産加工会社の方々と進めていた取り組みを、
+水産物流の要としてまちを支えている貴社ともぜひ連携できればと思い連絡させていただきました。
+
+よろしければ貴社にご案内に伺えればと思うのですが、
+今週来週などでお時間をいただくことはできますでしょうか？
+
+お忙しい中お手数をおかけしますが何卒よろしくお願いいたします。
+
+
+一般社団法人 フィッシャーマン | "松本裕也" <yumatsum@lycorp.co.jp> | https://mail.google.com/mail/u/0/#inbox/192930ddf5708bbb/ | https://mail.google.com/mail/u/0/#inbox/192930ddf5708bbb/192930ddf5708bbb
+謝金の振込日について | 磯部　様
+
+お世話になっております。
+みやぎ産業振興機構の佐藤です。
+
+復興企業相談助言の謝金の振込日が確定しましたのでご連絡いたします。
+振込日：10月24日
+金額：¥69,520
+内容：マルカ高橋水産　様
+　　　第7回～第8回支援分
+
+精算書を添付いたしますので、ご確認ください。
+
+よろしくお願いいたします。
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.or.jp
+ | "佐藤 築名<Kizuna Sato>" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19292af2ae7b3ae7/ | https://mail.google.com/mail/u/0/#inbox/19292af2ae7b3ae7/19292af2ae7b3ae7
+Re: 11/6(水) お食事のお誘い | 磯部様
+
+ご調整ありがとうございます。
+それでは、
+11/6(水) 18:30～
+にてお願いできますでしょうか。
+
+また、お店ご予約いただけるとのこと、ありがとうございます！
+せっかくの石巻ですので、、、魚がおいしい居酒屋でお勧めのところがありましたら、ご予約いただけるとありがたいです。
+
+よろしくお願いいたします。
+
+
+--
+遠山 晶之 / Masayuki Toyama
+チョイデジ株式会社
+〒980-0803　宮城県仙台市青葉区国分町1-8-13
+仙台協立第1ビル 3階
+TEL：022-398-6760
+E-mail：toyama.masayuki@c | "Toyama, Masayuki" <toyama.masayuki@choidigi.com> | https://mail.google.com/mail/u/0/#inbox/1928e10e1aa838a2/ | https://mail.google.com/mail/u/0/#inbox/1928e10e1aa838a2/1928ea2436e25629
+業務改善に向けた支援の依頼 | フィッシャーマン・ジャパン
+磯部様
+
+お世話になっております。
+
+株式会社マルイチ髙橋商店の髙橋です。
+表題の件につきましてご相談したくご連絡いたしました。
+
+相談内容といたしましては
+IT補助金を利用した在庫管理システムとPOSレジの導入
+についてです。
+
+現状の管理方法では製品の種類の増加やヒューマンエラーによる在庫数の不一致などを改善したいことと
+効率のよい生産スケジュールを組むことに役立てたいと考えています。
+
+以上の点についてご支援いただければと存じます。
+
+株式会社マルイチ高橋商店
+高橋
+ | "髙橋健" <tarako.matsuri@gmail.com> | https://mail.google.com/mail/u/0/#inbox/1927fd3295b5502b/ | https://mail.google.com/mail/u/0/#inbox/1927fd3295b5502b/1927fd3295b5502b
+本日発送いたしました(10045131) | 磯部 高弥 様
+
+この度は、
+
+『南三陸産真タコ お刺身用 ボイル済み アレンジいろいろ 約１kg 冷凍/確認しました。』を、
+
+お買い上げいただきまして、誠にありがとうございました。
+
+本日、下記の商品を発送させていただきました。
+なお、現在、一部の地域において、運輸・配送に遅れなどの影響が出ております。
+そのため、配達時間帯のご指定をいただきましても、時間内にお届けできない場合がございます。
+お客様にはご迷惑をおかけいたしますが、ご理解・ご協力のほど、よろしくお願い申し上げます。
+
+ご利用ありがとうございました。
+
+   [配送業者]           ヤマ | "うまい三陸" <shopmaster@osakana-ichiba.net> | https://mail.google.com/mail/u/0/#inbox/1927a3ac5f0a5e7a/ | https://mail.google.com/mail/u/0/#inbox/1927a3ac5f0a5e7a/1927a3ac5f0a5e7a
+《12/27まで》「.moe」ドメインが《半額》の924円で取得できる！「.moe」半額キャンペーン | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、
+お得なキャンペーンの情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　《12/27まで》「.moe」ドメインが《半額》の924円で取得できる！「.moe」半額キャンペーン
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+『XServerドメイン』では、2024年10月10日(木)から 2024年12月27日(金)まで、
+「.moe」半額キャンペーンを実施します。
+
+期間中、新規 | "XServerドメイン キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/192750b813a407a4/ | https://mail.google.com/mail/u/0/#inbox/192750b813a407a4/192750b813a407a4
+招待 - 更新: 【オンラインMTG】ヤマボシさんMTG - 2024年 10月 9日 (水) 午後1:30 ～ 午後3:30 (JST) (isobe@fishermanjapan.com) | この予定は更新されました
+変更あり: 添付ファイル
+
+
+【オンラインMTG】ヤマボシさんMTG
+2024年 10月 9日 (水曜日) ⋅ 午後1:30 ～ 午後3:30
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/cpe-nhzz-vvs?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 3560629149190
+
+その他の電話番号
+https://tel.meet/cpe-nhzz-vvs?pin=3560629149190&hs=0
+
+
+添付ファイル
+【河 | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/1927458f76868b06/ | https://mail.google.com/mail/u/0/#inbox/1927458f76868b06/1927458f76868b06
+【ライトハウス】資料の追加提供依頼まとめ | 千葉様
+
+
+お世話になっております。
+
+本日はMTGのお時間をいただき、ありがとうございました。
+
+
+引き続き準備を進めてまいります。
+MTG内でお話ししました追加資料について、以下①〜⑤のご提供をお願いいたします。
+
+
+
+   1. 各運送会社の最新版の運賃表（紙の画像）
+   2. スマイルの入力画面および一覧画面のスクリーンショット
+   3. スマイルの商品マスタ（MTGで見せていただいた紙の画像）
+   4. 請求書（ヤマボシ様 → 取引先）の画像
+   5. 送金案内書（取引先 → ヤマボシ様）の画像
+
+
+大変お手数をおかけいたしますが、ご確 | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19270c387b4f65b9/ | https://mail.google.com/mail/u/0/#inbox/19270c387b4f65b9/19270c387b4f65b9
+領収書(10045131) | 磯部 高弥 様
+
+この度は、当店をご利用いただきまして誠にありがとうございます。
+
+お客様のご注文を下記の内容で承りましたのでご連絡申し上げます。
+
+お手数をおかけしますが下記よりダウンロードください。
+
+https://osakana-ichiba.net/E_Receipt/MTAwNDUxMzEmMjAyNC0xMS0wOCAwODozNzowNCY2.pdf
+
+
+ご不明な点ご質問等ございましたら、お気軽にお問合せ下さいますようお願い申しあげます。
+
+■ご注文内容 ------------------------------------------------- | "うまい三陸" <shopmaster@osakana-ichiba.net> | https://mail.google.com/mail/u/0/#inbox/1926e807fd02bb3e/ | https://mail.google.com/mail/u/0/#inbox/1926e807fd02bb3e/1926e807fd02bb3e
+｛気仙沼、三陸産の海産物を産地直送　お魚市場｝ご注文ありがとうございます（自動送信メール）（10045131） | 磯部 高弥 様
+
+この度は、当店をご利用いただきまして誠にありがとうございます。
+お客様のご注文を下記の内容で承りましたのでご連絡申しあげます。
+
+ご不明な点、ご質問等ございましたらお気軽にお問合せ下さい。
+
+■ご注文内容 -------------------------------------------------------
+
+
+   ◆ ご注文番号 10045131
+   ◆ ご注文日時 2024/10/08 16:30
+   ◆ お支払方法 クレジットカード決済 一括払い
+   ◆ お支払金額 6,716円（税込）
+
+                  | "うまい三陸" <shopmaster@osakana-ichiba.net> | https://mail.google.com/mail/u/0/#inbox/1926b091b4d349e4/ | https://mail.google.com/mail/u/0/#inbox/1926b091b4d349e4/1926b091b4d349e4
+RE: ホームページからのお問い合せ | 磯部様
+
+いつも当店のご利用誠にありがとうございます。
+
+領収書をお送りいたします。
+下記よりダウンロードをお願い致します。
+https://osakana-ichiba.net/E_Receipt/MTAwNDQwNTcmMjAyNC0xMC0yMiAxNTozNzoxMCY
+2.pdf
+
+お手数をお掛け致しますが、よろしくお願い致します。
+
+
+-----------------------------------------------------------
+
+ 株式会社阿部長商店　お魚いちば
+　お客様サポートセンター菅原
+TEL:0226-21-5225 | <shopmaster@osacana.dg.shopserve.jp> | https://mail.google.com/mail/u/0/#inbox/1926ae36bb384cc6/ | https://mail.google.com/mail/u/0/#inbox/1926ae36bb384cc6/1926ae36bb384cc6
+『XServer VPS』が半額キャッシュバックで実質月額415円から使える！「利用件数3万件突破！2周年記念キャンペーン」 | <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-language" content="ja">
+<title>XServer VPSキャンペーン</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+ | "XServer VPS キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19268d783edc4e6e/ | https://mail.google.com/mail/u/0/#inbox/19268d783edc4e6e/19268d783edc4e6e
+【Xserverドメイン】ドメイン取得完了のお知らせ（fj-dify.com） | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Xserverドメイン】ドメイン取得完了のお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+「fj-dify.com」ドメインの取得が完了いたしましたのでお知らせいたします。
+
+
+────────────────────
+■ド | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1925cd854d6f273d/ | https://mail.google.com/mail/u/0/#inbox/1925cd854d6f273d/1925cd854d6f273d
+【Xserverアカウント】ご利用料金お支払い確認のお知らせ | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Xserverアカウント】ご利用料金お支払い確認のお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+お申し込みいただきましたサービスについて、お客様からのお支払いを
+確認しましたのでお知らせいたします。
+
+ご利用料金の詳細につき | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1925cd81865e6cac/ | https://mail.google.com/mail/u/0/#inbox/1925cd81865e6cac/1925cd81865e6cac
+Re: 【ライトハウス】10月9日オンラインMTGについて | 千葉様
+
+お世話になります。
+先日お電話させていただいた件、オンラインMTGのURLをお送りします。
+
+
+MTGの中身としましては、
+
+既存の業務フローを整理の結果、それを踏まえ、新しい業務フローのご提案&追加確認事項等についてご相談させていただければと考えております。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+10月9日（水）13時30分〜15:30
+
+Google Meet のリンク
+ https://meet.google.com/cpe-nhzz-vvs
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+河口
+
+
+
+
+> 千葉様
+>
+>
+> いつもお世話になってお | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19254cd350efb390/ | https://mail.google.com/mail/u/0/#inbox/19254cd350efb390/19254cd350efb390
+宿泊領収書です！ | 領収書です！
+一休.com <http://xn--4gqvz.com>のほうは2分割して発行しているので2pあります！
+合計
+24839+16000で40839円です。
+
+フィッシャーマン・ジャパン
+クリエイティブディレクター
+安達日向子
+050-6864-5572
+hinako@fishermanjapan.com
+ | Hinako Adachi <hinako@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/192548c28a78de52/ | https://mail.google.com/mail/u/0/#inbox/192548c28a78de52/192548c28a78de52
+招待: 【オンラインMTG】ヤマボシさんMTG - 2024年 10月 9日 (水) 午後1:30 ～ 午後3:30 (JST) (isobe@fishermanjapan.com) | 【オンラインMTG】ヤマボシさんMTG
+2024年 10月 9日 (水曜日) ⋅ 午後1:30 ～ 午後3:30
+日本標準時
+
+Google Meet に参加する
+https://meet.google.com/cpe-nhzz-vvs?hs=224
+
+
+	
+電話で参加
+(JP) +81 3-4545-0450
+PIN: 3560629149190
+
+その他の電話番号
+https://tel.meet/cpe-nhzz-vvs?pin=3560629149190&hs=0
+
+
+主催者
+Yoji Kawaguchi
+youji.kawaguchi@isana | Yoji Kawaguchi <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/19251114cdbab2e7/ | https://mail.google.com/mail/u/0/#inbox/19251114cdbab2e7/19251114cdbab2e7
+【JR東海MARKET】認証キーのご連絡 | ログインに必要な認証キーをご連絡いたします。
+認証用キーは【698958】です。
+
+・メール記載の認証キーの有効時間は、発行から30分です。
+・このメールに覚えがない場合は、以下までご連絡ください。
+------------------------
+ＪＲ東海ＭＡＲＫＥＴ
+◎メールでのお問い合わせ
+お問い合わせフォームよりお問い合わせください。
+※年中無休で24時間承っておりますが、受付時間は土日祝日・年末年始を除く9：00～17：00となっております。お問合せ内容によってはご回答までにお時間をいただく場合がありますので、あらかじめご了承ください。
+◎電話でのお問い合わせ
+ | "ＪＲ東海ＭＡＲＫＥＴ" <info.market@jr-central.co.jp> | https://mail.google.com/mail/u/0/#inbox/1925094bc158ee87/ | https://mail.google.com/mail/u/0/#inbox/1925094bc158ee87/1925094bc158ee87
+【JR東海MARKET：ご注文受付メール】ご注文ありがとうございます | 磯部　高弥　様
+
+JR東海ツアーズをご利用いただき、ありがとうございます。
+
+ご注文頂きました内容につきまして、ご確認くださいますようお願い申し上げます。
+--------------------------------------------------
+【オーダーID】JC241003-007941110
+【ご注文日】2024年10月03日
+【ご注文者】磯部　高弥　様
+【ご注文明細】
+・お届け先：磯部　高弥　様
+　1.10/25出発 POTLUCK TRAIN 尾州【岐阜】
+　　価格：22,000円 x 数量：4 = 合計：88,000円
+　　取引条件説明書面の交 | "JR東海ツアーズ" <info.jrtours-market@jr-central.co.jp> | https://mail.google.com/mail/u/0/#inbox/1925093d9b5278c9/ | https://mail.google.com/mail/u/0/#inbox/1925093d9b5278c9/1925093d9b5278c9
+【ＪＲ東海ＭＡＲＫＥＴ】会員登録が完了しました | 磯部　高弥　様
+
+このたびは、ＪＲ東海ＭＡＲＫＥＴに会員登録いただきましてありがとうございました。
+同じ会員登録情報で、ＪＲ東海の運営するサイト、いいもの探訪もご利用いただけます。
+ＪＲ東海ＭＡＲＫＥＴ、いいもの探訪でのお買い物やマイページサービスのご利用には、メールアドレスとパスワードが必要になります。
+大切に保管いただきますようお願いいたします。
+--------------------------------------------------
+■お客様の情報
+【氏名】磯部　高弥　様
+【メールアドレス】isobe@fishermanjapan.com
+-------- | "ＪＲ東海ＭＡＲＫＥＴ" <info.market@jr-central.co.jp> | https://mail.google.com/mail/u/0/#inbox/1925093d2d467e75/ | https://mail.google.com/mail/u/0/#inbox/1925093d2d467e75/1925093d2d467e75
+試用期間終了のお知らせ | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【エックスサーバー】■重要■ サーバーアカウント試用期間終了について
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在、試用期間内にてご利用いただいておりますサーバーアカウントで
+ございますが、現時点ではお客様からのお支払いが確認できてお | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1924fe44bec76634/ | https://mail.google.com/mail/u/0/#inbox/1924fe44bec76634/1924fe44bec76634
+昨日のご連絡の件 | 一般社団法人 フィッシャーマン・ジャパン
+磯部　高弥 様
+　磯部様、おはようございます。
+　税理士の佐藤です。
+　昨日のマルカ高橋様の件、内容はなんでしたっけ？
+　
+ | j-satou <j-satou@tkcnf.or.jp> | https://mail.google.com/mail/u/0/#inbox/1924d2a0f8b2f01f/ | https://mail.google.com/mail/u/0/#inbox/1924d2a0f8b2f01f/1924d2a0f8b2f01f
+「報酬及び旅費精算書」の送付について | フィッシャーマン・ジャパン
+磯部　高弥　様
+
+お世話になっております。
+みやぎ産業振興機構水産室の玉田です。
+
+下記支援事業にてお支払いする謝金および旅費についての
+「報酬及び旅費精算書」をお送りいたします。
+
+9月6日支援　「専門家派遣事業」　丸平かつおぶし　10月11日支払
+
+引き続きよろしくお願いいたします。
+
+
+
+★★★★★★★★★★★★★★★★★★★★★★★
+
+公益財団法人みやぎ産業振興機構
+
+産業育成支援部　事業支援課　
+
+水産加工業ビジネス支援室　
+
+水産加工支援専門員　　玉田　隆
+
+〒980-0011
+
+宮城県仙台市青葉区上 | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1924b68af0227610/ | https://mail.google.com/mail/u/0/#inbox/1924b68af0227610/1924b68af0227610
+Re: マルカ高橋水産の在庫管理におけるGEN活用について | 磯部様
+
+ 
+
+お世話になっております。
+
+GENの萩尾です。
+
+ 
+
+では、10/10（木）10時開始でいかがでしょうか。
+
+時間に問題ないようでしたら、下記URLに接続をお願い致します。
+
+ 
+
+■Zoom ミーティング
+
+https://us06web.zoom.us/j/6942456661?pwd=V0JWSmE4MDZNcSsySXJsZkZoY0Fqdz09
+
+ミーティング ID: 694 245 6661
+
+パスコード: GEN034
+
+ 
+
+どうぞ宜しくお願い致します。
+
+ 
+
+GEN株式会社
+
+萩尾
+
+ 
+ | "萩尾典章" <hagio_noriaki@gen-square.com> | https://mail.google.com/mail/u/0/#inbox/192472b9e102fa83/ | https://mail.google.com/mail/u/0/#inbox/192472b9e102fa83/1924a3641ab358b7
+来年度のICT関連事業についてのお見積りについて | 川鍋様
+
+先ほど電話で相談しました、次年度事業の予算要求のためのお見積りについて、概算で結構ですので以下の項目別に諸経費・税込みでお見積りいただけないでしょうか？
+
+１ ミズクラゲ情報システムの提供と維持管理（昨年度116万円）
+ 今年度の内容を考えていますが、加えて以下のものが増要素となります
+ ★ 定置網、底びき共に過去のデータが見れるようなシステムの提供
+
+２ 底びき網漁業漁業における漁業効率化（新規漁業者研修）システム導入調査（昨年度107万円）
+ 昨年度の内容を考えていますが、加えて以下のものが増要素となります
+ ★ 今年２か所のところ、次年度４か所
+
+３ 定 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/19246cb7e9d8f559/ | https://mail.google.com/mail/u/0/#inbox/19246cb7e9d8f559/19246cb7e9d8f559
+Re: 丸平かつおぶし様の支援報告書（第2,3回）について | 磯部様
+
+お世話になっております。玉田です。
+「報告書」提出ありがとうございます。
+
+体調をくずされたと聞いております。
+お大事に。
+
+玉田
+
+________________________________
+差出人: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>
+送信日時: 2024年10月1日 11:58
+宛先: 玉田 隆<Takashi Tamada> <t-tamada@joho-miyagi.or.jp>
+件名: 丸平かつおぶし様の支援報告書（第2,3回）について
+
+玉田様
+
+お世話になっております。フ | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19245f6a8ba4b91d/ | https://mail.google.com/mail/u/0/#inbox/19245f6a8ba4b91d/1924652507c205e1
+【エックスサーバー】■重要■サーバーアカウント試用期間終了について | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【エックスサーバー】■重要■ サーバーアカウント試用期間終了について
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+現在、試用期間内にてご利用いただいておりますサーバーアカウントで
+ございますが、現時点ではお客様からのお支払いが確認できてお | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1924597c56229738/ | https://mail.google.com/mail/u/0/#inbox/1924597c56229738/1924597c56229738
+髙橋徳治商店の支援について | 磯部様
+
+お世話になっております。
+みやぎ産業振興機構の土谷です。
+
+
+
+髙橋徳治商店様より、専門家派遣の要請をようやくいただきました。
+ぜひ磯部さんにお受けいただきたいです。
+
+回数は5回分を予定しておりますが、
+要請書をみても、限られた回数の中でどこを重点的にやりたいか判断できなかったのですが、磯部さん髙橋さんからどこを重点的にやりたいかなど聞いておりますでしょうか？
+
+再度髙橋さんには連絡等予定ですが、もしご存じの部分があれば共有お願いします。
+
+
+ーーーーーーーーーーーーーーーーーーーー
+
+公益財団法人みやぎ産業振興機構
+
+産業育成支援部　事業支 | "土谷 亘<Wataru Tsuchiya>" <w-tsuchiya@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1924567d7f76c3cc/ | https://mail.google.com/mail/u/0/#inbox/1924567d7f76c3cc/1924567d7f76c3cc
+弊社コーポレートロゴおよびサービスロゴのリニューアルのお知らせ | 平素は弊社運営サービスをご利用いただき、
+誠にありがとうございます。
+
+弊社運営サービスをご契約中のお客様に、最新情報をお届けします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　弊社コーポレートロゴおよびサービスロゴのリニューアルのお知らせ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+弊社は2024年9月30日(月)、
+コーポレートロゴおよび弊社運営サービスのロゴをリニューアルしました。
+また、ロゴデザインと合わせて、名称表記も「Xserver」から「XServer」に変更となります。
+
+◇関連ニ | "エックスサーバー ニュース" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1924289dc635db87/ | https://mail.google.com/mail/u/0/#inbox/1924289dc635db87/1924289dc635db87
+【ライトハウス】【時間調整のご依頼】10月4日オンラインMTGについて | 千葉様
+
+
+いつもお世話になっております。
+
+
+本来、次回のお打ち合わせは現地対面をを前提としておりましたが、諸々の事情により現地に行くことができません。申し訳ございません。
+
+つきましては、オンラインでの打ち合わせをお願いできればと思います。
+
+
+内容としましては、
+
+既存の業務フローを整理いたしましたので、それを踏まえ、新しい業務フローのご提案についてもご相談させていただければと考えております。
+
+
+ピンポイントで恐縮ですが、
+
+*★10月4日の13時〜17時の間で、60〜90分ほどお時間をご都合いかがでしょうか？*
+
+*ご都合のよい時間帯をご教示、 | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/192423eb77676d64/ | https://mail.google.com/mail/u/0/#inbox/192423eb77676d64/192423eb77676d64
+御礼 水月堂阿部Re: 研究会ご参加の御礼と各種ご案内 | 磯部様
+
+お世話になっております。水月堂の阿部です。
+
+先日のDX研究会では講師を務めてくださりありがとうございました。
+
+腹に落ちる内容で、非常に勉強になりました。
+
+また夜の部も最後までお付き合いくださり、ありがとうございました。
+
+知らない大人達に囲まれるのは気も遣いますし大変だったと思いますが、最近の若者にも磯部さんのような人がいるのだと、感激しました。
+
+10月2日18時からの生産性向上分科会について参加させてください。
+よろしくお願いいたします。
+
+
+阿部
+
+
+On 2024/09/27 8:00, フィッシャーマン・ジャパン 磯部高弥 wro | "水月堂物産_阿部壮達" <suigetsudo-abe-so@suigetsudo.jp> | https://mail.google.com/mail/u/0/#inbox/19235a79fcdb876b/ | https://mail.google.com/mail/u/0/#inbox/19235a79fcdb876b/19235a79fcdb876b
+【宮城県：御礼】水産加工業におけるDX研究会について | （一社）フィッシャーマン・ジャパン　
+
+　磯部　高弥　様
+
+ 
+
+平素よりお世話になっております。
+
+宮城県中小企業支援室の佐藤でございます。
+
+ 
+
+一昨日は、石巻地区水産加工研究会において、ご講義をいただき誠にありがとう
+
+ございました。支援実例を元にされた内容は、非常に興味深く、水産業独特の慣
+
+習にも触れていただき、大変充実した研修でございました。
+
+DXは「ITによる業務効率化とその過程で集まるデータ利活用のプロセス全体」
+
+とのご指摘は、まさにその通りと思いましたし、行政的な見方をすると、ITツール
+
+購入の支援だけではなく、導入も含めた | "中小企業支援室　佐藤（修）" <sato-sh825@pref.miyagi.lg.jp> | https://mail.google.com/mail/u/0/#inbox/19232c1ca37e385d/ | https://mail.google.com/mail/u/0/#inbox/19232c1ca37e385d/19232c1ca37e385d
+RE: 研究会ご参加の御礼と各種ご案内 | 磯部様
+
+先日はお疲れ様でした。
+資料ありがとうございました。
+分科会参加希望です。
+当日は金沢から参加させていただきます。
+よろしくお願いいたします。
+
+□■-------------------------------------------------------
+■<<<<<<<<三陸の魚のおいしさお届けします！>>>>>>>>
+味のやま徳 　山徳平塚水産株式会社
+平塚 隆一郎 
+◆住所 986-0022 宮城県石巻市魚町２－８－９
+◆TEL　0225-22-0171　FAX 0225-95-6882
+E-mail ： yamatoku@khaki.plal | "山徳平塚水産" <yamatoku@khaki.plala.or.jp> | https://mail.google.com/mail/u/0/#inbox/1922ee44a5d22e99/ | https://mail.google.com/mail/u/0/#inbox/1922ee44a5d22e99/1923161148627d87
+《残り7日！ご契約中の方も対象》「Amazonギフトカード」などの豪華賞品が当たる！21周年記念プレゼントキャンペーン第2弾 | <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-language" content="ja">
+<title>エックスサーバーキャンペーン</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+<b | "エックスサーバー キャンペーン" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1922e8409709765b/ | https://mail.google.com/mail/u/0/#inbox/1922e8409709765b/1922e8409709765b
+【エックスサーバー】サポート＆お得な情報をお届けします！ | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【エックスサーバー】 サポート＆お得な情報をお届けします！
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+この度は当サービスをお申し込みいただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+エックスサーバーのご利用をスムーズに開始していただくために、
+目的やお悩みに合わせたサポートコンテンツをご案内します。
+また、本契 | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1922cb3914369bda/ | https://mail.google.com/mail/u/0/#inbox/1922cb3914369bda/1922cb3914369bda
+Fwd: Justra報告会での御礼 | こういうメールを秘書さんが拾ってくれないのはなんでか分かる？
+先日はありがとうございました、的なお礼メールも拾ってほしいかも。
+
+
+
+---------- 転送メッセージ ---------
+From: Yuuki Tanaka <yuuki.tanaka@netropolis.world>
+日付: 2024年9月25日(水) 20:54
+件名: Justra報告会での御礼
+To: hasetaku@fishermanjapan.com <hasetaku@fishermanjapan.com>
+
+
+長谷川様
+
+お世話になっております。Netropolisの田中でご | "長谷川琢也" <hasetaku@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1922be670f0b1f70/ | https://mail.google.com/mail/u/0/#inbox/1922be670f0b1f70/1922be670f0b1f70
+山形屋商店山形です。 | 本日はありがとうございました。
+名刺忘れたので
+メールします。
+宜しくお願いします。
+
+株式会社 山形屋商店
+代表取締役 山形政大
+〒 986-0834
+宮城県石巻市門脇町１丁目１１番１６号
+ＴＥＬ0225-95-1065 ＦＡＸ0225-95-1066
+http://yamagataya.net/
+e-mail: masahiko@yamagataya.net
+e-mail masa33y@gmail.com
+ | "山形政大" <masa33y@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19227e219516203a/ | https://mail.google.com/mail/u/0/#inbox/19227e219516203a/19227e219516203a
+【Xserver VPS】■重要■ VPSアカウント設定完了のお知らせ (vps-2024-09-24-15-49-43) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Xserver VPS】■重要■ VPSアカウント設定完了のお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+この度は当サービスをご契約いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+お申し込みいただきました、VPSアカウント「vps-2024-09-24-15-49-43」（VPS 4GBプラン）の
+設定 | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19222d8f9a7b9a87/ | https://mail.google.com/mail/u/0/#inbox/19222d8f9a7b9a87/19222d8f9a7b9a87
+【Xserverアカウント】ご利用料金お支払い確認のお知らせ | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Xserverアカウント】ご利用料金お支払い確認のお知らせ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+平素は当サービスをご利用いただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+
+お申し込みいただきましたサービスについて、お客様からのお支払いを
+確認しましたのでお知らせいたします。
+
+ご利用料金の詳細につき | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19222d8d0e5c3d8e/ | https://mail.google.com/mail/u/0/#inbox/19222d8d0e5c3d8e/19222d8d0e5c3d8e
+【Xserverアカウント】■重要■サーバーアカウント設定完了のお知らせ[試用期間] (xs514578.xsrv.jp) | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Xserverアカウント】■重要■ サーバーアカウント設定完了のお知らせ[試用期間]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XserverアカウントID ： phrg789800
+メールアドレス　　　： isobe@fishermanjapan.com
+
+
+この度は当サービスをお申し込みいただき誠にありがとうございます。
+エックスサーバーサポートでございます。
+
+サーバーアカウントの設定が完了しましたのでお知らせいたします。
+
+本メールは当サービスをご利用いた | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19222c1b759f5448/ | https://mail.google.com/mail/u/0/#inbox/19222c1b759f5448/19222c1b759f5448
+【Xserverアカウント】ご登録メールアドレス確認のご案内 | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Xserverアカウント】ご登録メールアドレス確認のご案内
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+この度は、当サービスへのご登録ありがとうございます。
+
+本メールは、ご登録メールアドレスがお客様のものであることを確認するために、
+お申し込みフォームより自動で送信しております。
+
+下記【認証コード】をお申し込みフォームにご入力のうえ、
+ご登録をお進めください。
+
+◆登録メールアドレスに関する情報
+───────────────────────────────── | "Xserverアカウント" <support@xserver.ne.jp> | https://mail.google.com/mail/u/0/#inbox/19222c0bfa812e00/ | https://mail.google.com/mail/u/0/#inbox/19222c0bfa812e00/19222c0bfa812e00
+Re: 【資料の追加ご共有依頼】ライトハウス河口 | 千葉さま
+
+
+お世話になっております。
+
+
+お忙しいところ申し訳ございません。
+
+先日の件に関連して、以下の資料についてもご追加で共有いただけますと幸いです。
+
+
+1. *商品リストファイル*（各商品の単価が一覧で確認できるもの）
+
+2. *スマイルの入力画面*と*入力後の一覧*が確認できる*2枚の画像*
+
+（※2枚の画像それぞれをお願いできればと思います）
+
+3. *請求書の画像（*なんらか1枚）
+
+4. *送金案内書画像*（なんらか1枚）
+
+前回まとめてご依頼できておらず申し訳ございません。
+
+お手数ですが、どうぞよろしくお願いいたします。
+ | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/1920d92b530ed2de/ | https://mail.google.com/mail/u/0/#inbox/1920d92b530ed2de/1920d92b530ed2de
+Re: 【業務資料のご共有依頼】ライトハウス河口 | 千葉さま
+
+
+お世話になっております。
+
+ご対応いただき、誠にありがとうございます。
+慎重に取り扱いさせていただきます。
+
+
+出荷台帳の閲覧権限での共有、販売日計と送り状作成のファイル、さらに納品書のローデータもお送りいただき、重ねて御礼申し上げます。
+
+
+引き続き、次回のお打ち合わせに向けて準備を進めさせていただきます。
+
+今後とも何卒よろしくお願い申し上げます。
+
+
+河口
+
+2024年9月19日(木) 13:07 千葉賢也 <k-chiba@yam-watanabe.com>:
+
+> 河口様
+>
+> お世話になっております。
+> こちらこそ、 | "Yoji Kawaguchi〔L H〕" <youji.kawaguchi@isana-g.com> | https://mail.google.com/mail/u/0/#inbox/192081252684a6cb/ | https://mail.google.com/mail/u/0/#inbox/192081252684a6cb/19208a8a87a67160
+Re: 【本日のお礼とメモの共有】ライトハウス川崎 | 川崎様
+
+お世話になっております。
+こちらこそ、昨日はありがとうございました。
+
+下記、確認しました。
+ご提案お待ちしております。
+
+次回、今後とも、よろしくお願いいたします。
+
+千葉
+
+*********************************************
+
+株式会社ヤマボシ渡邊商店
+代表取締役
+
+千葉 賢也  Kenya Chiba
+
+【石巻魚町工場】
+
+〒986-0022 宮城県石巻市魚町2-3-5
+
+TEL: 0225-90-4780 FAX: 0225-90-4781
+
+Mob: 080-2809-2235
+【本 | "千葉賢也" <k-chiba@yam-watanabe.com> | https://mail.google.com/mail/u/0/#inbox/192048b6b9fffa69/ | https://mail.google.com/mail/u/0/#inbox/192048b6b9fffa69/19207072be4113f1
+RE: 専門家派遣の報告書について（第八回） | 磯部様
+
+いつも大変お世話になっております。
+
+下記ご対応ありがとうございます。
+
+別件、先般いらっしゃった際に軽くお話させていただいた今後の取り組みの件も進捗あれば都度相談してください。
+
+何卒宜しくお願い致します。
+
+
+
+
+-----Original Message-----
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Wednesday, September 11, 2024 5:40 PM
+To: 株式会社マルカ髙橋水産tsutomu-takahashi <tsutomu-taka | <tsutomu-takahashi@maruka-t.com> | https://mail.google.com/mail/u/0/#inbox/191e03ce30571b02/ | https://mail.google.com/mail/u/0/#inbox/191e03ce30571b02/191eed65b45a2f1a
+Re: 専門家派遣事業（末永海産様）に係る報告書_第四回について | 磯部様
+
+いつも大変お世話になっております。
+みやぎ産業振興機構水産加工ビジネス支援室の吉田です。
+
+報告書拝見しました。
+順調な御様子で何よりです。
+今回は参加できませんでしたが、次回以降できるだけ
+同席させていただきます。
+引き続きよろしくお願いいたします。
+
+また、9/13（金）13時～の丸平かつお節もよろしくお願いいたします。
+（私が同席させていただきます）
+
+
+□□□□□□□□□□□□□□□□□□□□□□□□
+
+公益財団法人　みやぎ産業振興機構
+
+　産業育成支援部　事業支援課　
+
+   水産加工業ビジネス支援室長　吉田　浩志
+
+〒980- | "吉田 浩志<Hiroshi Yoshida>" <h-yoshida@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/191df1a303810983/ | https://mail.google.com/mail/u/0/#inbox/191df1a303810983/191dfe4d4c392931
+丸平かつおぶし様のご支援について | 一般社団法人フィッシャーマン・ジャパン
+磯部高弥様
+
+お世話になっております。
+みやぎ産業振興機構水産室の玉田です。
+先日の株式会社丸平かつおぶし様のご支援、
+大変お疲れ様でした。
+
+打合せした通り
+支援回数を5回に変更いたしました。
+「支援依頼書（変更）」を添付いたしましたので、
+ご確認ください。
+
+併せて、報告書の様式
+（様式10‐1　実施状況報告書」と
+最終回報告書用の（様式10－2　実施報告書（最終）」も添付いたしました。
+先日の、支援について「様式10‐1」の提出をお願いいたします。
+
+
+★★★★★★★★★★★★★★★★★★★★★★★
+
+公益 | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/191d5b46af5ec7e0/ | https://mail.google.com/mail/u/0/#inbox/191d5b46af5ec7e0/191d5b46af5ec7e0
+Re: 文献のご紹介 | 川口様
+
+こちらこそ、先ほどはありがとうございました。
+また、論文をご共有いただき、ありがとうございます！
+
+これから楽しみに拝読させていただきます。
+
+引き続きどうぞよろしくお願いいたします。
+
+川鍋
+
+
+2024年9月2日(月) 14:42 川口 修 <o-kawaguchi88559@pref.hiroshima.lg.jp>:
+
+> 川鍋様、磯部様
+>
+> 先ほどの会議で少し話しました論文についてご紹介いたします。
+> あんまり読んでもらえてはないのですが、当県研究機関での資源評価では使おうとしているところです。
+>
+> Light Houseさん | "川鍋一樹" <kawanabe@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/191b1414eb1ef3e5/ | https://mail.google.com/mail/u/0/#inbox/191b1414eb1ef3e5/191b14ff535ebcbf
+RE: 先ほどの「課税区分エラー」の件です。 | 磯部様
+
+いつもお世話になっております。
+お問い合わせいただいた件についてですが、N列にセットされている商品が
+「非課税」または「不課税」で取引すると設定されているかどうかをご確認
+いただけますでしょうか。
+
+よろしくお願い致します。
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>
+Sent: Friday, August 30, 2024 4:10 PM
+To: 保坂美栄（ＴＫＣ） <hosaka-mie@tkc.co.jp>
+Subject: 先ほどの「課税区分エラー」の件です。
+
+TKC保坂様
+
+お | "保坂美栄（ＴＫＣ）" <hosaka-mie@tkc.co.jp> | https://mail.google.com/mail/u/0/#inbox/191a21c240d33fa9/ | https://mail.google.com/mail/u/0/#inbox/191a21c240d33fa9/191b011edfcd9b22
+【GEN】株式会社ヤマボシ渡邊商店の申込書について | 磯部様
+
+ 
+
+いつもお世話になっております。
+
+GENの萩尾です。
+
+ 
+
+ヤマボシ渡邊商店のIT導入補助金が来週月曜日（9/9）に採択されます。
+
+ 
+
+そこで、補助金申請された内容に沿って事前に申込書を作成致しました。
+
+千葉様にも共有頂き、
+
+補助金採択後に申込書に捺印と利用規約同意欄にチェックを入れてご返送をお願い致します。
+
+ 
+
+ご確認のほど、宜しくお願い致します。
+
+ 
+
+ 
+
+--------- クラウド ERP -GEN[ジェン]- THE NEW GENERATION ERP -----------
+
+GEN 株 | "萩尾典章" <hagio_noriaki@gen-square.com> | https://mail.google.com/mail/u/0/#inbox/191afd3079bd941f/ | https://mail.google.com/mail/u/0/#inbox/191afd3079bd941f/191afd3079bd941f
+FW: 次回の支援の件 | 
+
+
+
+From: 佐藤 築名<Kizuna Sato> <k-sato@joho-miyagi.or.jp>
+Sent: Tuesday, August 20, 2024 9:37 AM
+To: tsutomu-takahashi@maruka-t.com
+Cc: 土谷 亘<Wataru Tsuchiya> <w-tsuchiya@joho-miyagi.or.jp>; 佐々木 義明
+<Yoshiaki Sasaki> <y-sasaki@joho-miyagi.or.jp>
+Subject: 次回の支援の件
+
+
+
+㈱マルカ高橋水産　高橋　様
+
+
+
+お世話に | <tsutomu-takahashi@maruka-t.com> | https://mail.google.com/mail/u/0/#inbox/191a21e0301c1c2b/ | https://mail.google.com/mail/u/0/#inbox/191a21e0301c1c2b/191a21e0301c1c2b
+RE: 7月分の売上仕入データです | BASE仕入れ分が課税区分で登録できないので、現在TKCに調査依頼中
+
+原因わかり次第添付ファイルを修正して返送→アップロード対応を小林さんにご依頼する
+
+（磯部操作）
+
+ 
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Friday, August 30, 2024 3:24 PM
+To: rie-kobayashi@maruka-t.com
+Subject: Re: 7月分の売上仕入データです
+
+ 
+
+7月分の仕入データを再送します
+
+ 
+
+2024年8月30日(金) 14:49 | <rie-kobayashi@maruka-t.com> | https://mail.google.com/mail/u/0/#inbox/191a1bd380f1b9eb/ | https://mail.google.com/mail/u/0/#inbox/191a1bd380f1b9eb/191a218eac982a65
+Re: 専門家派遣事業（末永海産様）に係る報告書_第四回について | フィッシャーマン・ジャパン　磯部様
+
+いつも大変お世話になっております。
+みやぎ産業振興機構水産加工業ビジネス支援室の吉田です。
+
+報告書の御提出ありがとうございます。
+ユーザーインターフェイスの話に至っているあたり
+順調に進んでいる様子と感じております。
+以後、引き続きよろしくお願いいたします。
+
+
+□□□□□□□□□□□□□□□□□□□□□□□□
+
+公益財団法人　みやぎ産業振興機構
+
+　産業育成支援部　事業支援課　
+
+   水産加工業ビジネス支援室長　吉田　浩志
+
+〒980-0011 宮城県仙台市青葉区上杉一丁目14-2
+
+TEL：022-225- | "吉田 浩志<Hiroshi Yoshida>" <h-yoshida@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/191a12a201c422b4/ | https://mail.google.com/mail/u/0/#inbox/191a12a201c422b4/191a13ea0374518c
+【お願い】仁方漁協ヒアリングの日程調整（10月28週） | 広島県農林水産局水産課
+川口様
+
+お世話になっております。
+フィッシャーマン・ジャパンの川鍋です。
+
+本日ご連絡させていただいた件ですが、
+メールにて改めてご連絡させていただきます。
+
+掲題の通り、仁方漁協の皆様、及び横島漁協の中矢さんへのヒアリングを、
+以下の日程でご調整いただけますでしょうか。
+
+候補①
+10/27（日）入り
+10/28（月） 終日OK
+10/29（火） AM（品川に18:30着まで可）
+
+候補②
+10/30（水） 昼着（朝一番で品川発）
+10/31 （木）AM（新横浜に17:00着まで可）
+
+10/29（火）のみ可能な場合は、松井 | "川鍋一樹" <kawanabe@fishermanjapan.com> | https://mail.google.com/mail/u/0/#inbox/1919dcc9d7ec3082/ | https://mail.google.com/mail/u/0/#inbox/1919dcc9d7ec3082/1919dcc9d7ec3082
+先日ご相談させていただいた件について | ○○様
+
+お世話になっております。▲▲です。
+先日貴社に伺わせていただいた際に、弊社の新卒採用戦略についての壁打ちについて、一度ご相談させていただきたい旨お話させていただきました。
+
+早速ではございますが、来週平日でご都合の良い時間帯をいくつかご教示いただけますでしょうか。
+
+お忙しいところ恐縮ですが何卒宜しくお願い致します。
+
+▲▲
+ | "▲▲" <▲▲@gmail.com> | https://mail.google.com/mail/u/0/#inbox/1919b9be01d4a359/ | https://mail.google.com/mail/u/0/#inbox/1919b9be01d4a359/1919b9ea5809c438
+本日発送いたしました(abcdef) | ○○ 様
+
+この度は、
+
+『マグロセット』を、
+
+お買い上げいただきまして、誠にありがとうございました。
+
+本日、下記の商品を発送させていただきました。
+なお、現在、一部の地域において、運輸・配送に遅れなどの影響が出ております。
+そのため、配達時間帯のご指定をいただきましても、時間内にお届けできない場合がございます。
+お客様にはご迷惑をおかけいたしますが、ご理解・ご協力のほど、よろしくお願い申し上げます。
+
+ご利用ありがとうございました。
+
+   [配送業者]     | "ネットショップ ××" <shop@test.net> | https://mail.google.com/mail/u/0/#inbox/19197e97f8459677/ | https://mail.google.com/mail/u/0/#inbox/19197e97f8459677/19197e97f8459677
+Fwd: 【Yahoo!トラベル 予約完了】2024年09月19日ご宿泊　the b 赤坂 | 9/19の宿泊情報です！
+
+---------- Forwarded message ---------
+From: Yahoo!トラベル <to_user@mail.travel.yahoo.co.jp>
+Date: 2024年8月27日(火) 23:46
+Subject: 【Yahoo!トラベル 予約完了】2024年09月19日ご宿泊 the b 赤坂
+To: <h1nako.adach1@gmail.com>
+
+
+---------------------------------------------------
+◆予約完了のお知らせ◆
+------------- | Hinako Adachi <h1nako.adach1@gmail.com> | https://mail.google.com/mail/u/0/#inbox/191944ea0c140e34/ | https://mail.google.com/mail/u/0/#inbox/191944ea0c140e34/191944ea0c140e34
+会員登録完了のお知らせ | 磯部 高弥 様
+
+このたびは、当店の会員にご登録いただきまして、誠にありがとうございます。
+お客様の登録が完了いたしましたのでご連絡申し上げます。
+
+   会員ID：  fishermanjapan2024
+   パスワード： ********
+
+会員情報を確認・変更する場合は、当店のトップページにある「マイページ」からご確認ください。
+
+株式会社阿部長商店　お魚いちば
+https://osakana-ichiba.net/
+ | "うまい三陸　気仙沼　お魚いちば" <shopmaster@osakana-ichiba.net> | https://mail.google.com/mail/u/0/#inbox/19191c09f3a39e3a/ | https://mail.google.com/mail/u/0/#inbox/19191c09f3a39e3a/19191c09f3a39e3a
+｛気仙沼、三陸産の海産物を産地直送　お魚市場｝ご注文ありがとうございます（自動送信メール）（10044057） | 磯部 高弥 様
+
+この度は、当店をご利用いただきまして誠にありがとうございます。
+お客様のご注文を下記の内容で承りましたのでご連絡申しあげます。
+
+ご不明な点、ご質問等ございましたらお気軽にお問合せ下さい。
+
+■ご注文内容 -------------------------------------------------------
+
+
+   ◆ ご注文番号 10044057
+   ◆ ご注文日時 2024/08/27 11:51
+   ◆ お支払方法 クレジットカード決済 一括払い
+   ◆ お支払金額 4,980円（税込）
+
+                  | "うまい三陸　気仙沼　お魚いちば" <shopmaster@osakana-ichiba.net> | https://mail.google.com/mail/u/0/#inbox/19191bed738d62fa/ | https://mail.google.com/mail/u/0/#inbox/19191bed738d62fa/19191bed738d62fa
+Re: RE: 6-8月の稼働費のご請求 | 清水様
+
+お世話になっております。フィッシャーマン・ジャパンの磯部です。
+
+ご確認いただき、ありがとうございます。
+支払い手続きについて進めていただければと思います。
+何か追加の情報やご質問があれば、いつでもお気軽にお知らせください。
+
+引き続きよろしくお願いいたします。
+
+─────────────────────────────
+磯部　高弥
+株式会社フィッシャーマン・ジャパン
+ | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/19169f6f04cc6236/ | https://mail.google.com/mail/u/0/#inbox/19169f6f04cc6236/1918e3102d57b306
+「報酬及び旅費精算書」の送付について | フィッシャーマン・ジャパン
+磯部　高弥様
+
+お世話になっております。
+みやぎ産業振興機構水産室の玉田です。
+
+下記支援いただいた件の「報酬及び旅費精算書」を
+送ります。
+
+　７月１７日支援　支援企業名：末永海産様　　支払日　８月２８日
+
+引き続き、ご支援よろしくお願いいたします。
+
+なお、次回の支援日時はお決まりでしょうか。
+決まり次第、連絡ください。
+
+
+★★★★★★★★★★★★★★★★★★★★★★★
+
+公益財団法人みやぎ産業振興機構
+
+産業育成支援部　事業支援課　
+
+水産加工業ビジネス支援室　
+
+水産加工支援専門員　　玉田　隆
+
+〒98 | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1917dac6fba0007f/ | https://mail.google.com/mail/u/0/#inbox/1917dac6fba0007f/1917dac6fba0007f
+ワークフローが承認されました | いつもマネーフォワード クラウド勤怠をご利用いただきありがとうございます。
+
+磯部 高弥 さん
+
+通知日時： 2024/08/23 13:53
+通知内容： 2024年08月17日(土)の「休日出勤申請」が承認されました。
+
+以下のURLから内容を確認してください。
+https://attendance.moneyforward.com/my_page/workflow_requests/approved
+
+ワークフローのメール通知をオフにしたい場合は、下記URLから「メール通知」のチェックを外してください。
+https://attendance.moneyforward. | "マネーフォワード クラウド勤怠" <attendance.noreply@moneyforward.com> | https://mail.google.com/mail/u/0/#inbox/1917d954a0b5fc0b/ | https://mail.google.com/mail/u/0/#inbox/1917d954a0b5fc0b/1917d954a0b5fc0b
+ワークフローが承認されました | いつもマネーフォワード クラウド勤怠をご利用いただきありがとうございます。
+
+磯部 高弥 さん
+
+通知日時： 2024/08/21 13:52
+通知内容： 2024年05月02日(木)の「有給休暇申請」が承認されました。
+
+以下のURLから内容を確認してください。
+https://attendance.moneyforward.com/my_page/workflow_requests/approved
+
+ワークフローのメール通知をオフにしたい場合は、下記URLから「メール通知」のチェックを外してください。
+https://attendance.moneyforward. | "マネーフォワード クラウド勤怠" <attendance.noreply@moneyforward.com> | https://mail.google.com/mail/u/0/#inbox/1917347856376150/ | https://mail.google.com/mail/u/0/#inbox/1917347856376150/1917347c0a4c7ae9
+来年度事業についてのご相談 | 川鍋様、磯部様
+
+お世話になります。
+
+そろそろ、来年度の予算要求の季節になってまいりました。
+ついては、必要な予算について積算する必要がありますので、ご相談の機会をいただけないでしょうか？
+
+現想定として
+　①　クラゲシステム管理：　継続
+　②　底びき網システム：　現２グループ　→　３グループへ拡大
+　③　定置網システム：　継続
+　④　新規漁業就業者研修：　継続
+
+ですが、それぞれのゴール間等も含めて議論させていただければと思っています。
+どうぞよろしくお願いします。
+
+**********************************
+〒730-8511 | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/1917338c35944376/ | https://mail.google.com/mail/u/0/#inbox/1917338c35944376/1917338c35944376
+Re: 8回目のマルカ高橋水産の支援の件 | フィッシャーマンジャパン
+磯部　高弥　様
+
+お世話になっております。
+みやぎ産業振興機構の佐藤です。
+
+実施日、開始時間について承知いたしました。
+しかしながら、8月30日に石巻の方で支援が重なっており、顔出し程度になってしまうかもしれません。
+ご理解のほどよろしくお願いいたします。
+
+また、最終回ですので報告書の様式が変わります。
+すでにお送りしていると思うのですが、再度添付いたします。
+（様式８－２）でご提出ください。
+
+当日は宜しくお願い致します。
+
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産 | "佐藤 築名<Kizuna Sato>" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/191686fbb65d60ef/ | https://mail.google.com/mail/u/0/#inbox/191686fbb65d60ef/1916d2f2a1f19dd4
+Re: 【日程決定】秋のドローンボート試験について | 川鍋様、南先生、松野様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+秋のドローンボート試験の日程についての確認、ありがとうございます。
+
+11月26、27日の調査日程、また28、29日の予備日について、
+
+承知いたしました。
+
+
+
+スケジュールの確保について進めてまいりますので、
+
+引き続きよろしくお願いいたします。
+
+
+
+また、潮の動きや天候に応じた調査の進行についても、
+
+近くなりましたらご確認させていただきます。
+
+
+
+何卒よろしくお願いいたします。 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/191695acabd86485/ | https://mail.google.com/mail/u/0/#inbox/191695acabd86485/1916d142e5313549
+明日の予定について | 磯部様
+
+お世話になっております。test田中です。
+
+明日、test1に関する打ち合わせが予定されておりますが、先方のご都合をお伺いしたく、ご連絡差し上げました。可能な時間帯を教えていただければ幸いです。
+
+お忙しいところ恐縮ですが、何卒よろしくお願いいたします。
+
+
+田中
+ | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19165ce841521262/
+8回目のマルカ高橋水産の支援の件 | フィッシャーマンジャパン
+磯部　高弥　様
+
+お世話になっております。
+みやぎ産業振興機構の佐藤です。
+
+マルカ高橋水産の支援ですが、次回で最終回となります。
+つきましては、機構も同席させていただきたいと思います。
+報告書には、8月末で調整と記入ありましたので、決定次第ご連絡いただければと存じます。
+
+よろしくお願いいたします。
+
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.o | "佐藤 築名<Kizuna Sato>" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/191686fbb65d60ef/191686fbb65d60ef
+Re: 「株式会社○○商事」へのご応募ありがとうございます | 田中隆様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+この度はご応募いただき、誠にありがとうございます。
+
+本件についてお話を進めることを楽しみにしております。
+
+
+
+ご都合の良い日時を教えていただけましたら、
+
+こちらからご連絡させていただきます。
+
+
+
+何卒よろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/1915a6f1ece4a517/19165d29316bd97f
+Re: 「株式会社○○商事」へのご応募ありがとうございます | 田中隆様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+この度はご応募いただき、誠にありがとうございます。
+
+お話を進めることができるのを楽しみにしております。
+
+
+
+ご返信お待ちしておりますので、
+
+どうぞよろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/1915a5f8b554a826/19165d292b74da34
+Re: 「株式会社○○商事」へのご応募ありがとうございます | 田中隆様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+ご応募いただき、誠にありがとうございます。
+
+お話を進める機会を楽しみにしております。
+
+
+
+ご都合をお知らせいただければ幸いです。
+
+
+
+何卒よろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/19158d798d5122fc/19165d29567b632f
+明日の予定について | 磯部様
+
+お世話になっております。test田中です。
+
+明日、test1に関する打ち合わせが予定されておりますが、先方のご都合をお伺いしたく、ご連絡差し上げました。可能な時間帯を教えていただければ幸いです。
+
+お忙しいところ恐縮ですが、何卒よろしくお願いいたします。
+
+
+田中
+ | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19165ce841521262/19165d0278f0175d
+「株式会社○○商事」へのご応募ありがとうございます | 田中隆様
+
+この度は、「株式会社○○商事」にご応募いただき、誠にありがとうございます。
+
+本件の詳細について、さらにお話を進めさせていただきたいと考えております。
+つきましては、本メールにご返信いただく形でご連絡いただけますと幸いです。
+
+万が一、応募を辞退される場合は、以下のリンクをクリックしてください。
+辞退用リンク
+<https://script.google.com/macros/s/AKfycbwJny6xZ3lf4LaqPExwhMe2whKFhfRegYKO1NeoJom4_6DihZHfoTreWBpszMAzTy507w/exec?email=r.matsu | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/1915a6f1ece4a517/1915a755197c3fcd
+「株式会社○○商事」へのご応募ありがとうございます | 田中隆様
+
+この度は、「株式会社○○商事」にご応募いただき、誠にありがとうございます。
+
+本件の詳細について、さらにお話を進めさせていただきたいと考えております。
+つきましては、本メールにご返信いただく形でご連絡いただけますと幸いです。
+
+万が一、応募を辞退される場合は、以下のリンクをクリックしてください。
+辞退用リンク
+<https://script.google.com/macros/s/AKfycbwJny6xZ3lf4LaqPExwhMe2whKFhfRegYKO1NeoJom4_6DihZHfoTreWBpszMAzTy507w/exec?email=r.matsu | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/1915a5f8b554a826/1915a6082c826d1a
+「株式会社○○商事」へのご応募ありがとうございます | 田中隆様
+
+この度は、「株式会社○○商事」にご応募いただき、誠にありがとうございます。
+
+本件の詳細について、さらにお話を進めさせていただきたいと考えております。
+つきましては、本メールにご返信いただく形でご連絡いただけますと幸いです。
+
+万が一、応募を辞退される場合は、以下のリンクをクリックしてください。
+https://script.google.com/macros/s/AKfycbwJny6xZ3lf4LaqPExwhMe2whKFhfRegYKO1NeoJom4_6DihZHfoTreWBpszMAzTy507w/exec?email=isobe%40fisherma | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19158d798d5122fc/19158d8003967fa0
+「株式会社○○商事」へのご応募ありがとうございます | 松田様
+
+この度は、「株式会社○○商事」にご応募いただき、誠にありがとうございます。
+
+本件の詳細について、さらにお話を進めさせていただきたいと考えております。
+つきましては、本メールにご返信いただく形でご連絡いただけますと幸いです。
+
+万が一、応募を辞退される場合は、以下のリンクをクリックしてください。
+https://script.google.com/macros/s/AKfycbwJny6xZ3lf4LaqPExwhMe2whKFhfRegYKO1NeoJom4_6DihZHfoTreWBpszMAzTy507w/exec?email=isobe%40fisherman | "磯部高弥" <takaya.isb11@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19158ccb09f9d149/19158ccf71a156ec
+Re: 「報酬及び旅費精算書」の送付について | 磯部様
+
+お世話になっております。玉田です。
+ご連絡ありがとうございます。
+
+19日（月）10時半からの支援については
+吉田室長が同席いたします。
+
+よろしくお願いいたします。
+
+玉田
+________________________________
+差出人: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>
+送信日時: 2024年8月16日 10:12
+宛先: 玉田 隆<Takashi Tamada> <t-tamada@joho-miyagi.or.jp>
+CC: 水産室 <suisan@joho-miyagi.or. | "玉田 隆<Takashi Tamada>" <t-tamada@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19110b8ffe9a8a56/19158e5d30124bfb
+【重要】マネーフォワード IDの管理に関する注意とお願い | ※本メールは、重要なお知らせのため受信設定を問わずお送りしております。
+
+平素より、マネーフォワードの各サービスをご利用いただき誠にありがとうございます。
+
+先般、当社ユーザー以外の第三者が当社サービスを利用しているユーザーのアカウントを乗っ取り、不正に利用する事象が確認されました。
+社内調査の結果、現時点では当社システムへの侵害および情報漏えいは確認されておらず、推測しやすいパスワードが設定されたアカウントや、複数サービスでパスワードを使い回して利用しているアカウントが狙われた可能性があります。
+
+当社のホームページにて以下のプレスリリースを掲載しておりますので、併せてご確認く | Money Forward <feedback@moneyforward.com> | https://mail.google.com/mail/u/0/#inbox/1914ef5490c5d674/1914ef5490c5d674
+Re: 次回の報告書の件 | 佐藤様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+ご返信いただき、ありがとうございます。
+
+報告書の準備について、しっかりと進めてまいります。
+
+
+
+今後とも何かございましたら、
+
+お気軽にご連絡ください。
+
+
+
+引き続き、よろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/1914aa6cd922fcff/1914e2e168e4f35a
+Re: 次回の報告書の件 | 佐藤様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+ご連絡いただき、ありがとうございます。
+
+マルカ高橋水産様の支援が最終回になるとのこと、承知いたしました。
+
+報告書の様式（８－２）についても、注意して準備いたします。
+
+
+
+引き続き、よろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/1914aa6cd922fcff/1914c4351927e291
+Re: Re: 秋のドローンボート試験について | 南先生、松野様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+ご提案いただいた日程について、ありがとうございます。
+
+11月25日から29日は良い候補ですね。
+
+前泊のご手配も含めて、漁師の方に確認してみてください。
+
+
+
+また、第二候補の11月7-9日についても、
+
+お時間のある時にご確認いただければと思います。
+
+
+
+当日の作業についてもご検討いただき、
+
+何か進展がありましたらお知らせください。
+
+
+
+引き続き、よろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/1910cc3bc4077b53/1914c4352b64988a
+Re: 専門家派遣（フィッシャーマン磯部さん）に係る派遣要請書提出のお願い | 阿部真也様
+
+
+
+お世話になっております。
+
+フィッシャーマン・ジャパンの磯部です。
+
+
+
+派遣要請書の提出に関して、
+
+ご確認いただきありがとうございます。
+
+派遣日についても、承知いたしました。
+
+
+
+別件が入っているとのことですが、
+
+もし別の日に調整可能でしたら、お知らせいただければと思います。
+
+
+
+引き続き、よろしくお願いいたします。
+
+
+
+磯部 | takaya.isb11@gmail.com | https://mail.google.com/mail/u/0/#inbox/191490bd5ef88105/1914c4354cd4fb21
+次回の報告書の件 | フィッシャーマンジャパン
+磯部　様
+
+お世話になっております。
+みやぎ産業振興機構の佐藤です。
+
+マルカ高橋水産様の支援ですが、次回が８回目の最終回になります。
+報告書の様式が（８－２）に変わりますのでご注意ください。
+
+よろしくお願いいたします。
+
+
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.or.jp
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+ | "佐藤 築名<Kizuna Sato>" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/1914aa6cd922fcff/1914aa6cd922fcff
+Re: Re: 秋のドローンボート試験について | 南先生、松野様
+
+回答ありがとうございました。
+
+潮止まりに水揚することを考えると、11月25－29日が良さそうかな？と考えています。
+25に前泊として、26～29日を第一候補として漁師に打診してみます。
+
+第二候補として11月7-9日（11/6が前泊）で聞いてみます。
+
+当日の作業についても聞きます。お盆挟むので、少しお時間ください。
+
+**********************************
+〒730-8511　広島市中区基町10-52
+広島県農林水産局水産課
+主査　川口 修
+o-kawaguchi88559@pref.hiroshima.lg.j | "川口 修" <o-kawaguchi88559@pref.hiroshima.lg.jp> | https://mail.google.com/mail/u/0/#inbox/1910cc3bc4077b53/1914a474cef359d7
+Re: 専門家派遣（フィッシャーマン磯部さん）に係る派遣要請書提出のお願い | ㈱丸平かつおぶし　代表取締役　阿部真也様
+
+CC：フィッシャーマンジャパン　磯部様
+
+
+いつも大変お世話になっております。
+みやぎ産業振興機構水産加工ビジネス支援室の吉田です。
+
+派遣要請書を御提出いただきありがとうございます。
+
+また、派遣日（9月6日（金）13時～15時）につきましても
+御回答いただきありがとうございます。
+※申し訳ありませんが、この日、私は別件が入っているため、
+　別の職員が対応させていただく予定です。
+
+初回支援の実施イメージについて、磯部さんに確認しましたところ
+まずは、業務の全体像（アウトライン）について整理を行うとのこと
+でしたの | "吉田 浩志<Hiroshi Yoshida>" <h-yoshida@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/191490bd5ef88105/191490bd5ef88105
+RE: 控除金の入力のための取引先コードについて | 磯部様
+
+ 
+
+お世話になっております。
+
+無事取り込み完了いたしましたのでご報告です。
+
+ 
+
+ご対応いただき、ありがとうございました。
+
+ 
+
+ 
+
+小林
+
+ 
+
+From: フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com> 
+Sent: Monday, August 12, 2024 12:09 AM
+To: rie-kobayashi@maruka-t.com
+Cc: maruka.t@train.ocn.ne.jp
+Subject: Re: 控除金の入力のための取引先コードについて
+
+ 
+ | <maruka.t@train.ocn.ne.jp> | https://mail.google.com/mail/u/0/#inbox/1913689868212a22/19143ff44c597140
+Re: 専門家派遣の件について | フィッシャーマン・ジャパン
+磯部高弥様
+
+お世話になっております。丸平かつおぶしの阿部晃也です。
+この度は生産性向上の具体的なご提案をしていただきありがとうございます。
+私自身も磯部さんのお姿を見て勉強させていただきたいと考えておりますので、これからもよろしくお願い致します。
+
+宮城産業振興機構へのご連絡ありがとうございます。
+社長から土谷さんにご連絡させていただきます。
+
+
+
+
+2024年8月8日(木) 14:17 フィッシャーマン・ジャパン 磯部高弥 <isobe@fishermanjapan.com>:
+
+> 株式会社丸平かつおぶし
+> 阿部社長
+> （ | "阿部晃也" <1990timberwolves@gmail.com> | https://mail.google.com/mail/u/0/#inbox/19130631f5845ae8/191351bd3252bc90
+謝金の振込日について | 磯部　様
+
+お世話になっております。
+みやぎ産業振興機構の佐藤です。
+
+精算書を添付し忘れていました。
+失礼いたしました。
+
+よろしくお願いいたします。
+
+
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.or.jp
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+ | "佐藤 築名<Kizuna Sato>" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19134d4151be5f05/19134d4151be5f05
+謝金の振込日について | 磯部　様
+
+お世話になっております。
+みやぎ産業振興機構　事業支援課の佐藤です。
+
+復興企業相談助言の謝金の振込日が確定しましたのでご連絡いたします。
+振込日：8月15日
+金額：¥208,560
+内容：マルカ高橋水産　様
+　　　第1回～第6回支援分
+
+
+遅くなってしまい申し訳ございません。
+宜しくお願い致します。
+
+
+□ーーーーーーーーーーーーーーーーーーーーーーーーーーーー□
+公益財団法人　みやぎ産業振興機構
+産業育成支援部　事業支援課
+主事　佐藤　築名
+TEL：022-225-6697
+e-mail：k-sato@joho-miyagi.or.jp | "佐藤 築名<Kizuna Sato>" <k-sato@joho-miyagi.or.jp> | https://mail.google.com/mail/u/0/#inbox/19134c4d2f02366f/19134c4d2f02366f
