@@ -86,10 +86,10 @@
         .logo { font-size: 24px; font-weight: bold; display: flex; align-items: center; gap: 10px; }
         .logo::before { content: "🧭"; font-size: 28px; }
         .user-menu { position: absolute; top: 20px; right: 40px; display: flex; align-items: center; gap: 15px; }
-        .notification-icon { position: relative; background: rgba(255,255,255,0.2); border: none; color: white; width: 45px; height: 45px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 18px; transition: all 0.3s ease; }
-        .notification-icon:hover { background: rgba(255,255,255,0.3); transform: scale(1.1); }
+        .notification-icon, .research-icon { position: relative; background: rgba(255,255,255,0.2); border: none; color: white; width: 45px; height: 45px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 18px; transition: all 0.3s ease; }
+        .notification-icon:hover, .research-icon:hover { background: rgba(255,255,255,0.3); transform: scale(1.1); }
         .notification-badge { position: absolute; top: -5px; right: -5px; background: #e74c3c; color: white; border-radius: 50%; width: 20px; height: 20px; font-size: 12px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
-        .user-icon { width: 45px; height: 45px; border-radius: 50%; background: rgba(255,255,255,0.2); display: flex; align-items: center; justify-content: center; font-size: 18px; cursor: pointer; transition: all 0.3s ease; }
+        .user-icon { width: 45px; height: 45px; border-radius: 50%; background: rgba(255,255,255,0.2); display: flex; align-items: center; justify-content: center; font-size: 18px; cursor: pointer; transition: all 0.3s ease; border: none; color: #fff; }
         .user-icon:hover { background: rgba(255,255,255,0.3); transform: scale(1.1); }
 
         /* Landing */
@@ -276,11 +276,14 @@
             <div class="header">
                 <div class="logo">Tohoku Grant Compass</div>
                 <div class="user-menu">
+                    <button class="research-icon" onclick="goToResearch()" title="Research grants">
+                        🔎
+                    </button>
                     <button class="notification-icon" onclick="showNotifications()">
                         🔔
                         <span class="notification-badge">3</span>
                     </button>
-                    <div class="user-icon">👤</div>
+                    <button class="user-icon" onclick="goToMyAccount()" title="My Account">👤</button>
                 </div>
             </div>
             
@@ -362,6 +365,149 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- My Account Page -->
+    <div id="myAccountPage" class="page">
+        <div class="header">
+            <div class="logo">Tohoku Grant Compass</div>
+        </div>
+        <div class="home-content">
+            <div class="welcome-section">
+                <h2 class="welcome-title">My Account</h2>
+                <p class="welcome-text">View or update your profile and organization information.</p>
+            </div>
+
+            <div class="recommendations-section">
+                <div class="section-header">Profile</div>
+                <div class="recommendation-list">
+                    <div class="two-col-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:16px;">
+                        <div>
+                            <label class="form-label">Full name</label>
+                            <input id="acc_name" type="text" class="form-input" placeholder="Taro Yamada" value="Taro Tanaka" />
+                        </div>
+                        <div>
+                            <label class="form-label">Email</label>
+                            <input id="acc_email" type="email" class="form-input" placeholder="example@company.jp" value="tanaka@example.com" />
+                        </div>
+                        <div>
+                            <label class="form-label">Company</label>
+                            <input id="acc_company" type="text" class="form-input" placeholder="Example, Inc." value="Example, Inc." />
+                        </div>
+                        <div>
+                            <label class="form-label">Prefecture</label>
+                            <select id="acc_pref" class="form-input">
+                                <option value="Aomori">Aomori</option>
+                                <option value="Iwate">Iwate</option>
+                                <option value="Miyagi" selected>Miyagi</option>
+                                <option value="Akita">Akita</option>
+                                <option value="Yamagata">Yamagata</option>
+                                <option value="Fukushima">Fukushima</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="form-label">Industry</label>
+                            <select id="acc_industry" class="form-input">
+                                <option value="manufacturing">Manufacturing</option>
+                                <option value="retail">Retail</option>
+                                <option value="service">Services</option>
+                                <option value="construction">Construction</option>
+                                <option value="agriculture">Agriculture</option>
+                                <option value="other" selected>Other</option>
+                            </select>
+                        </div>
+                        <div style="grid-column: 1 / -1;">
+                            <label class="form-label">Business description</label>
+                            <textarea id="acc_desc" class="form-input form-textarea" placeholder="Describe your business">Food manufacturing with focus on local products and DX initiatives.</textarea>
+                        </div>
+                    </div>
+                    <div class="form-group" style="margin-top:16px;">
+                        <button class="btn btn-primary" onclick="saveAccount()">Save</button>
+                        <button class="btn btn-secondary" onclick="backToHomeFromAccount()" style="margin-left:8px;">Back to Home</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Research Page -->
+    <div id="researchPage" class="page">
+        <div class="header">
+            <div class="logo">Tohoku Grant Compass</div>
+        </div>
+        <div class="home-content">
+            <div class="welcome-section">
+                <h2 class="welcome-title">Research Grants</h2>
+                <p class="welcome-text">Search for grants by keywords, category, region, amounts, and deadlines. Based on public portals like jGrants.</p>
+            </div>
+
+            <div class="recommendations-section" style="margin-bottom:20px;">
+                <div class="section-header">Filters</div>
+                <div class="recommendation-list">
+                    <div class="two-col-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:16px;">
+                        <div>
+                            <label class="form-label">Keywords</label>
+                            <input id="f_keywords" type="text" class="form-input" placeholder="e.g., DX, manufacturing, energy" />
+                        </div>
+                        <div>
+                            <label class="form-label">Category</label>
+                            <select id="f_category" class="form-input">
+                                <option value="">Any</option>
+                                <option value="manufacturing">Manufacturing</option>
+                                <option value="it">IT / DX</option>
+                                <option value="energy">Energy / Environment</option>
+                                <option value="expansion">Business Expansion</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="form-label">Prefecture</label>
+                            <select id="f_pref" class="form-input">
+                                <option value="">Any</option>
+                                <option value="Aomori">Aomori</option>
+                                <option value="Iwate">Iwate</option>
+                                <option value="Miyagi">Miyagi</option>
+                                <option value="Akita">Akita</option>
+                                <option value="Yamagata">Yamagata</option>
+                                <option value="Fukushima">Fukushima</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="form-label">Max deadline</label>
+                            <input id="f_deadline" type="date" class="form-input" />
+                        </div>
+                        <div>
+                            <label class="form-label">Min amount (JPY)</label>
+                            <input id="f_min" type="number" class="form-input" placeholder="0" />
+                        </div>
+                        <div>
+                            <label class="form-label">Max amount (JPY)</label>
+                            <input id="f_max" type="number" class="form-input" placeholder="10000000" />
+                        </div>
+                        <div>
+                            <label class="form-label">Min subsidy rate</label>
+                            <select id="f_rate" class="form-input">
+                                <option value="">Any</option>
+                                <option value="0.33">≥ 1/3</option>
+                                <option value="0.5">≥ 1/2</option>
+                                <option value="0.66">≥ 2/3</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group" style="margin-top:16px;">
+                        <button class="btn btn-primary" onclick="performResearch()">Search</button>
+                        <button class="btn btn-secondary" onclick="resetResearch()" style="margin-left:8px;">Reset</button>
+                        <button class="btn btn-secondary" onclick="backToHome()" style="margin-left:8px;">Back to Home</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="recommendations-section">
+                <div class="section-header">Results</div>
+                <div id="researchResults" class="recommendation-list">
+                    <p class="welcome-text">Enter filters and click Search to see matching grants.</p>
                 </div>
             </div>
         </div>
@@ -450,6 +596,95 @@
             document.getElementById('registrationPage').classList.remove('active');
             document.getElementById('homePage').classList.add('active');
             currentPage = 'homePage';
+        }
+
+        function goToResearch() {
+            document.getElementById('homePage').classList.remove('active');
+            document.getElementById('researchPage').classList.add('active');
+            currentPage = 'researchPage';
+        }
+
+        function backToHome() {
+            document.getElementById('researchPage').classList.remove('active');
+            document.getElementById('homePage').classList.add('active');
+            currentPage = 'homePage';
+        }
+
+        function resetResearch() {
+            ['f_keywords','f_category','f_pref','f_deadline','f_min','f_max','f_rate'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.value = '';
+            });
+            document.getElementById('researchResults').innerHTML = '<p class="welcome-text">Enter filters and click Search to see matching grants.</p>';
+        }
+
+        function performResearch() {
+            const kw = (document.getElementById('f_keywords')||{}).value||'';
+            const cat = (document.getElementById('f_category')||{}).value||'';
+            const pref = (document.getElementById('f_pref')||{}).value||'';
+            const deadline = (document.getElementById('f_deadline')||{}).value||'';
+            const minAmt = parseInt((document.getElementById('f_min')||{}).value||'0',10)||0;
+            const maxAmt = parseInt((document.getElementById('f_max')||{}).value||'0',10)||0;
+            const rate = parseFloat((document.getElementById('f_rate')||{}).value||'')||0;
+
+            // Mock data (inspired by public listings such as jGrants)
+            const data = [
+                { title: 'Monozukuri Subsidy (15th Call)', category: 'manufacturing', pref: 'Miyagi', amount: 12500000, rate: 0.5, deadline: '2025-09-30', tags: ['Manufacturing'], desc: 'Supports capital investment for SMEs to improve processes and develop new products.' },
+                { title: 'IT Implementation Subsidy 2025', category: 'it', pref: 'Fukushima', amount: 4500000, rate: 0.66, deadline: '2025-10-15', tags: ['IT / DX'], desc: 'Supports adoption of IT tools to improve operational efficiency.' },
+                { title: 'Business Restructuring Subsidy (Growth Frame)', category: 'expansion', pref: 'Miyagi', amount: 70000000, rate: 0.5, deadline: '2025-11-08', tags: ['Business Expansion'], desc: 'Supports new field expansion and business model shifts.' },
+                { title: 'Energy Efficiency Support Program', category: 'energy', pref: 'Aomori', amount: 8000000, rate: 0.5, deadline: '2025-08-31', tags: ['Energy / Environment'], desc: 'Subsidizes equipment upgrades to reduce energy consumption.' }
+            ];
+
+            const filtered = data.filter(d => {
+                if (kw && !(d.title.toLowerCase().includes(kw.toLowerCase()) || d.desc.toLowerCase().includes(kw.toLowerCase()))) return false;
+                if (cat && d.category !== cat) return false;
+                if (pref && d.pref !== pref) return false;
+                if (deadline && d.deadline > deadline) return false; // only show items with deadline <= selected max date
+                if (minAmt && d.amount < minAmt) return false;
+                if (maxAmt && maxAmt > 0 && d.amount > maxAmt) return false;
+                if (rate && d.rate < rate) return false;
+                return true;
+            });
+
+            const container = document.getElementById('researchResults');
+            if (!filtered.length) {
+                container.innerHTML = '<p class="welcome-text">No results. Try adjusting your filters.</p>';
+                return;
+            }
+
+            container.innerHTML = filtered.map(d => {
+                const deadlineText = new Date(d.deadline).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                return `
+                <div class="recommendation-item ${d.tags[0]==='Manufacturing' || d.tags[0]==='Business Expansion' ? 'recommendation-new' : ''}">
+                    <div class="recommendation-title">${d.title}</div>
+                    <div class="recommendation-meta">
+                        ${d.tags.map(t => `<span class=\"recommendation-tag\">${t}</span>`).join('')}
+                        <span class="recommendation-amount">Up to JPY ${d.amount.toLocaleString()}</span>
+                        <span class="recommendation-deadline">Deadline: ${deadlineText}</span>
+                    </div>
+                    <div class="recommendation-description">${d.desc}</div>
+                    <div class="recommendation-actions">
+                        <button class="btn btn-primary" onclick="openDetails('${d.title}')">View details</button>
+                        <button class="btn btn-secondary" onclick="connectPartner()">Consult a specialist</button>
+                    </div>
+                </div>
+            `}).join('');
+        }
+
+        function goToMyAccount() {
+            document.getElementById('homePage').classList.remove('active');
+            document.getElementById('myAccountPage').classList.add('active');
+            currentPage = 'myAccountPage';
+        }
+
+        function backToHomeFromAccount() {
+            document.getElementById('myAccountPage').classList.remove('active');
+            document.getElementById('homePage').classList.add('active');
+            currentPage = 'homePage';
+        }
+
+        function saveAccount() {
+            alert('✅ Your account has been updated.');
         }
 
         function showNotifications() {
