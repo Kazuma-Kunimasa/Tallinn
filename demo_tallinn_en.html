@@ -476,7 +476,7 @@
                         </div>
                         <div>
                             <label class="form-label">Max deadline</label>
-                            <input id="f_deadline" type="date" class="form-input" />
+                            <input id="f_deadline" type="text" class="form-input" placeholder="YYYY-MM-DD" onfocus="enableDatePicker(this)" onblur="disableDatePickerIfEmpty(this)" />
                         </div>
                         <div>
                             <label class="form-label">Min amount (JPY)</label>
@@ -549,6 +549,12 @@
 
     <script>
         let currentPage = 'registrationPage';
+        function enableDatePicker(input) {
+            input.type = 'date';
+        }
+        function disableDatePickerIfEmpty(input) {
+            if (!input.value) input.type = 'text';
+        }
 
         function togglePage() {
             const regPage = document.getElementById('registrationPage');
